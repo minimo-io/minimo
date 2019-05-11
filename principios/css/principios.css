@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css?family=Space+Mono');
+body {
+    /*padding-top: 5rem;*/
+}
+.footer {
+  background-color: #f5f5f5;
+}
+
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+.principle{
+    text-align:justify;
+    font-size:100%;
+}
+.cross {
+    position: relative;
+    font-size:110%;
+    display: inline-block;
+}
+.cross::before, .cross::after {
+    content: '';
+    width: 100%;
+    position: absolute;
+    right: 0;
+    top: 55%;
+}
+.cross::before {
+    border-bottom: 3px solid red;
+    -webkit-transform: skewY(-10deg);
+    transform: skewY(-10deg);
+}
+.cross::after {
+    border-bottom: 3px solid red;
+    -webkit-transform: skewY(10deg);
+    transform: skewY(10deg);
+}
+.atention{ font-size:200px; display:inline-block; }
+
+.caption{ font-size:0.6rem; text-align:left;  }
+blockquote {
+    border-radius: 3px;
+    position: relative;  /*  <--- */
+    font-style: italic;
+    text-align: center;
+    padding: 1rem 1.2rem;
+    width: 80%;  /* create space for the quotes */
+    color: #4a4a4a;
+    margin: 1rem auto 2rem;
+    color: #4a4a4a;
+    background: #E8E8E8;
+}
+/* -- create the quotation marks -- */
+blockquote:before,
+blockquote:after{
+    position: absolute;
+    /* -- inside the relative position of blockquote -- */
+    top: 13px;
+    color: #E8E8E8;
+    font-size: 34px;
+}
+ol li{ text-align:left; }
+.tag{ color:blue;}
+h4, .sub-principle{ margin-left:20px; }
+.intro{
+  text-align:left;
+  /* font-size:1.4vw; */
+  /* font-size:1.4em; */
+  font-size:140%;
+  margin-top:20px;
+  font-family: "Space Mono", monospace;
+}
+
+#topper {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: red; /* Set a background color */
+  color: white; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 15px; /* Some padding */
+  border-radius: 30px; /* Rounded corners */
+  font-size: 18px; /* Increase font size */
+}
+#topper:hover {
+  background-color: #555; /* Add a dark-grey background on hover */
+}
+.flip{
+  -moz-transform: scale(-1, 1);
+  -webkit-transform: scale(-1, 1);
+  -o-transform: scale(-1, 1);
+  -ms-transform: scale(-1, 1);
+  transform: scale(-1, 1);
+  display:inline-block;
+}

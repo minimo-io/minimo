@@ -1,0 +1,24 @@
+home:
+  minimois: Minimo is an idea laboratory
+  products: products
+  art: arte
+  digital: digital
+  tellmemore: Tell me more
+
+nav:
+  home: Home
+  manifest: Manifest
+  projects: Projects
+  team: Who?
+  journal: Journal
+  contact: Contact
+
+frmcontact:
+  name: Name
+  nameplaceholder: How do you like being called?
+  email: Email
+  emailplaceholder: your@email.com
+  comment: Comment
+  commentplaceholder: Leave a comment
+  receivecraziness: Receive a crazy thing
+  send: Send

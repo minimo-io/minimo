@@ -1,0 +1,24 @@
+home:
+  minimois: Mínimo es un laboratorio de ideas
+  products: productos
+  art: arte
+  digital: digitales
+  tellmemore: Contame más
+
+nav:
+  home: Inicio
+  manifest: Manifiesto
+  projects: Proyectos
+  team: ¿Quienes?
+  journal: Journal
+  contact: Contacto
+
+frmcontact:
+  name: Nombre
+  nameplaceholder: ¿Cómo te gusta que te llamen?
+  email: Email
+  emailplaceholder: tu@email.com
+  comment: Comentario
+  commentplaceholder: Dejanos tu comentario
+  receivecraziness: ¿Recibir una locura?
+  send: Enviar  

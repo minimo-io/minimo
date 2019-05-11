@@ -98,22 +98,22 @@ code {
   background-color: lighten($light-gray-color, 13%);
 }
 
-pre {
-  -webkit-overflow-scrolling: touch;
-  font-family: "SFMono-Regular",Menlo,Consolas,"Inconsolata",monospace;
-  font-size: 1em;
-  margin: 0;
-  padding: 5px 10px !important;
-  overflow: auto;
-  max-height: 60em;
-  white-space: pre;
-  border: 1px solid $light-gray-color;
-
-  code {
-    line-height: 1.75em;
-    padding: 0 !important;
-  }
-}
+// pre {
+//   -webkit-overflow-scrolling: touch;
+//   font-family: "SFMono-Regular",Menlo,Consolas,"Inconsolata",monospace;
+//   font-size: 1em;
+//   margin: 0;
+//   padding: 5px 10px !important;
+//   overflow: auto;
+//   max-height: 60em;
+//   white-space: pre;
+//   border: 1px solid $light-gray-color;
+//
+//   code {
+//     line-height: 1.75em;
+//     padding: 0 !important;
+//   }
+// }
 
 strong {
   font-weight: bold;

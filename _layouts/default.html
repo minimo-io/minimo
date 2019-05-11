@@ -3,14 +3,16 @@ layout: compress
 published: true
 ---
 <!DOCTYPE html>
-<html>
+<html lang="{{site.lang}}">
   {% include head.html %}
   <body>
     <main class="wrapper">
-      {% include header.html %}
+      {% include nav.html %}
       {{ content }}
       {% include footer.html %}
     </main>
-    {% include foot.html %}
+    <div id="particles-js"></div>
+    <script src="{{ "/assets/js/particles.min.js" | prepend: site.url }}"></script>
+    <script src="{{ "/assets/js/particles-app.js" | prepend: site.url }}"></script>
   </body>
 </html>

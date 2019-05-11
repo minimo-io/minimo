@@ -1,8 +1,15 @@
 {% if site.postshare_enabled %}
 <aside class="share">
-
-  <p>If you liked this article and think others should read it, please share it on <a href="http://twitter.com/share?text={{page.title}}&amp;url={{ page.url | prepend: site.baseurl | prepend: site.url }}&amp;via={{ site.twitter_username }}"
-  onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">Twitter</a> or <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.baseurl | prepend: site.url }}" onclick="window.open(this.href, 'facebook-share', 'width=550,height=235');return false;">Facebook</a>.</p>
+  {% if site.lang == "en" %}
+    <p>If you liked this post and your think that someone else might also like it, then be a nice fellow and share it on <a href="http://twitter.com/share?text={{page.title}}&amp;url={{ page.url | prepend: site.baseurl | prepend: site.url }}&amp;via={{ site.twitter_username }}"
+    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">Twitter</a> or <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.baseurl | prepend: site.url }}" onclick="window.open(this.href, 'facebook-share', 'width=550,height=235');return false;">Facebook</a>.</p>
+  {% elsif site.lang == "es" %}
+    <p>Si te gustó este artículo y pensas que a alguien más podría gustarle, entonces hacete buena persona y compartilo en <a href="http://twitter.com/share?text={{page.title}}&amp;url={{ page.url | prepend: site.baseurl | prepend: site.url }}&amp;via={{ site.twitter_username }}"
+    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">Twitter</a> o en <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.baseurl | prepend: site.url }}" onclick="window.open(this.href, 'facebook-share', 'width=550,height=235');return false;">Facebook</a>.</p>
+  {% elsif site.lang == "pt" %}
+  <p>Se você gostou desta postagem e acha que outra pessoa também pode gostar, seja um cara legal e compartilhe em <a href="http://twitter.com/share?text={{page.title}}&amp;url={{ page.url | prepend: site.baseurl | prepend: site.url }}&amp;via={{ site.twitter_username }}"
+  onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">Twitter</a> ou <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.baseurl | prepend: site.url }}" onclick="window.open(this.href, 'facebook-share', 'width=550,height=235');return false;">Facebook</a>.</p>
+  {% endif %}
 
 </aside>
 {% endif %}

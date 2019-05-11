@@ -3,11 +3,28 @@ layout: default
 ---
 
 <article class="post container" itemscope itemtype="http://schema.org/BlogPosting">
-  <header class="post-header">
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} &middot; <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+  <header class="post-header over-title">
+    <p class="post-meta">
+      {% assign author = site[page.author] %}
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
+      {% if page.reading_time %}
+        &middot; <i class="far fa-clock"></i> {{page.reading_time}} min
+      {% endif %}
+    </p>
+    <h1 class="post-title basic-mono" itemprop="name headline">{{ page.title }}</h1>
   </header>
   <div class="post-content" itemprop="articleBody">
+    {% if page.image %}
+      <center>
+        <figure class="figure">
+          <img src="{{page.image}}" class="figure-img img-fluid rounded" alt="post-image">
+          {% if page.image_description %}
+            <figcaption class="figure-caption">{{page.image_description}}</figcaption>
+          {% endif %}
+        </figure>
+      </center>
+    {% endif %}
+
     {{ content }}
     {% include post-share.html %}
   </div>

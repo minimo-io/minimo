@@ -1,20 +1,23 @@
 # Site settings
-title_left    : "Think"
-title_right   : "space" # default: ""
-description   : "Minimalist Jekyll theme for technical writing blog."
-keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url           : https://heiswayi.github.io/thinkspace # site url
+languages: ["es", "en", "pt"]
+exclude_from_localizations: ["assets", "images", "css", "principios"]
+title_left    : "Mínimo"
+# title_right   : "" # default: ""
+description   : "Mínimo es un proyecto que impulsa otra forma de hacer negocios y de pensar el marketing. Este blog es una de las formas para expresarlo."
+keywords      : "productos digitales, minimalismo, arte"
+url           : https://minimo.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
-cover         : "" # image uri like logo/cover image for site seo
+cover         : "https://minimo.io/assets/minimo-logo-500.png" # image uri like logo/cover image for site seo
 
-google_analytics  : UA-XXXXX-XX
-twitter_username  : ""
+google_analytics  : UA-134514520-1
+twitter_username  : "minimo_labs"
 comments_enabled  : false # if enabled (set to true), please provide your disqus_username
-disqus_shortname  : ""
-postshare_enabled : false
+disqus_shortname  : "minimo-io"
+postshare_enabled : true
 
 # Build settings
 permalink   : /:year/:title/
+#permalink   : /:year/:y_day/
 markdown    : kramdown
 highlighter : rouge
 
@@ -28,18 +31,17 @@ sass:
 
 # Author settings
 author:
-  name     : "John Doe"
+  name     : "minimo.io"
+
+nicolas_ea:
+  name: Nicolás
+  email: nicolas@minimo.io
+  web: https://minimo.io/nicolas-erramuspe.html
 
 plugins:
   - jekyll-sitemap
   - bourbon
   - jekyll-paginate
 
-# navbar pages
-navbar:
-  - slug : about
-    title: About
-  - slug : blog
-    title: Blog
 
-exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md", "script"]
+exclude: ["thinkspace.gemspec", "about", "gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md", "script"]

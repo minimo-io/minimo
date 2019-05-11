@@ -1,5 +1,80 @@
-<footer class="site-footer">
-  <div class="container">
-    <small class="block">&copy; {{ site.time | date: '%Y' }} {{ site.author.name }} &middot; &lt;/&gt; Powered by <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://github.com/heiswayi/thinkspace">Thinkspace theme</a></small>
-  </div>
-</footer>
+<script src="{{ "/assets/js/jquery.min.js" | prepend: site.url }}"></script>
+<script src="{{ "/assets/js/retina.js" | prepend: site.url }}"></script>
+<script src="{{ "/assets/js/general.js" | prepend: site.url }}"></script>
+{% if page.url == "/" or page.url == "/2019/7/"  %}
+    <script src="{{ "/assets/js/jquery.codex.js" | prepend: site.url }}"></script>
+{% endif %}
+
+{% if page.url == "/" %}
+  <script>
+    $(function(){
+      $("#suspense").codex({final_text: "{% t home.digital %}", speed: 80, duration: 1500});
+    });
+  </script>
+{% endif %}
+
+{% if page.title == "nav.team" %}
+  <script src="/assets/js/bootstrap.bundle.min.js"></script>
+  <script>
+    $(function () {
+      $('[data-toggle="tooltip"]').tooltip();
+    })
+  </script>
+{% endif %}
+{% if page.url == "/nicolas-erramuspe/" %}
+  <script>
+    $(function(){
+      $("#profile-write").click(function(){
+        $("#hamburger-show-menu").trigger( "click");
+        $(".contact-trigger").trigger( "click");
+      });
+      $(".launch-historia").click(function(){ $("#historia-content").toggle(200, "swing"); });
+      $(".launch-rutina").click(function(){ $("#rutina-content").toggle(200, "swing"); });
+      $(".launch-principios").click(function(){ $("#principios-content").toggle(200, "swing"); });
+
+
+      if (window.location.hash == "#rutina") {
+        $("#rutina-content").toggle(200, "swing").focus();
+      }else if (window.location.hash == "#historia") {
+        $("#historia-content").toggle(200, "swing").focus();
+      }else if (window.location.hash == "#principios"){
+        $("#principios-content").toggle(200, "swing");
+      }
+    })
+  </script>
+{% endif %}
+{% if page.url == "/2019/7/" %}
+  <script>
+    $(function(){
+
+      $("#do1").click(function(){
+           $("#codex").codex({ final_text: "Just Jimmy!" });
+       });
+
+       $("#do2").click(function(){
+           $("#codex2").codex({
+               speed: 80,
+               duration: 6000
+           });
+       });
+
+       $("#do3").click(function(){
+         $(".codex-cls").codex({
+             speed: 40,
+             duration: 3000
+         });
+       });
+
+
+       $("#do4").click(function(){
+         $("#codex4").codex({
+             effect: "charbychar",
+             keep_whitespaces: false,
+             speed: 50,
+             reveal: 100
+         });
+       });
+      $("#do4").trigger("click")
+    });
+  </script>
+{% endif %}

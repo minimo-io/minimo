@@ -1,10 +1,127 @@
-
-<nav class="nav">
-  <div class="container">
-    <h1 class="logo"><a href="{{ '/' | prepend: site.baseurl | prepend: site.url }}">{{ site.title_left }}<span>{{ site.title_right }}</span></a></h1>
-    <ul class="navbar">
-      <li><a href="{{ '/about' | prepend: site.baseurl | prepend: site.url }}">About me</a></li>
-      <li><a href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" target="_blank">RSS</a></li>
-    </ul>
+<div id="hamburger-show-menu" class="hamburger hamburger--3dy animated heartBeat">
+  <div class="hamburger-box">
+    <div class="hamburger-inner"></div>
   </div>
-</nav>
+</div>
+<div id="fullscreen-menu">
+  <div id="menu" class="menu-inner">
+    <nav class="menu-nav">
+      <ul>
+        <li><a href="{{site.baseurl}}/">{% t nav.home %}</a></li>
+        <li><a href="{% tl manifest %}">{% t nav.manifest %}</a></li>
+        <li><a href="{% tl projects %}">{% t nav.projects %}</a></li>
+        <li style="display:none;"><a href="{% tl team %}">{% t nav.team %}</a></li>
+        <li><a href="{% tl journal %}">{% t nav.journal %}</a></li>
+        <li><a Xclass="contact-trigger" href="https://twitter.com/minimo_io" target="_blank" rel="nofollow">{% t nav.contact %}</a></li>
+      </ul>
+    </nav>
+
+    <div class="social">
+      <div class="social-icons">
+        <a href="https://twitter.com/minimo_labs/" target="_blank" class="icon">
+          <i class="fab fa-twitter fa-lg"></i>
+        </a>
+        <div class="langs icon">
+            {% if page.title == "Home" %}
+              <a hreflang="es" href="{{ site.url }}/" {% if site.lang == "es" %}class="boldit"{% endif %}>ES</a>
+              /
+              <a hreflang="pt" href="{{ site.url }}/pt/" {% if site.lang == "pt" %}class="boldit"{% endif %}>PT</a>
+              /
+              <a hreflang="en" href="{{ site.url }}/en/" {% if site.lang == "en" %}class="boldit"{% endif %}>EN</a>
+            {% elsif page.title == "nav.team" %}
+              <a hreflang="es" href="{{ site.url }}{% tl team es %}" {% if site.lang == "es" %}class="boldit"{% endif %}>ES</a>
+              /
+              <a hreflang="pt" href="{{ site.url }}{% tl team pt %}" {% if site.lang == "pt" %}class="boldit"{% endif %}>PT</a>
+              /
+              <a hreflang="en" href="{{ site.url }}{% tl team en %}" {% if site.lang == "en" %}class="boldit"{% endif %}>EN</a>
+            {% elsif page.title == "nav.manifest" %}
+              <a hreflang="es" href="{{ site.url }}{% tl manifest es %}" {% if site.lang == "es" %}class="boldit"{% endif %}>ES</a>
+              /
+              <a hreflang="pt" href="{{ site.url }}{% tl manifest pt %}" {% if site.lang == "pt" %}class="boldit"{% endif %}>PT</a>
+              /
+              <a hreflang="en" href="{{ site.url }}{% tl manifest en %}" {% if site.lang == "en" %}class="boldit"{% endif %}>EN</a>
+            {% elsif page.title == "nav.journal" %}
+              <a hreflang="es" href="{{ site.url }}{% tl journal es %}" {% if site.lang == "es" %}class="boldit"{% endif %}>ES</a>
+              /
+              <a hreflang="pt" href="{{ site.url }}{% tl journal pt %}" {% if site.lang == "pt" %}class="boldit"{% endif %}>PT</a>
+              /
+              <a hreflang="en" href="{{ site.url }}{% tl journal en %}" {% if site.lang == "en" %}class="boldit"{% endif %}>EN</a>
+            {% elsif page.title == "nav.projects" %}
+              <a hreflang="es" href="{{ site.url }}{% tl projects es %}" {% if site.lang == "es" %}class="boldit"{% endif %}>ES</a>
+              /
+              <a hreflang="pt" href="{{ site.url }}{% tl projects pt %}" {% if site.lang == "pt" %}class="boldit"{% endif %}>PT</a>
+              /
+              <a hreflang="en" href="{{ site.url }}{% tl projects en %}" {% if site.lang == "en" %}class="boldit"{% endif %}>EN</a>
+            {% elsif page.title == "Nicolás Erramuspe" %}
+              <a hreflang="es" href="{{ site.url }}{% tl nicolas es %}" {% if site.lang == "es" %}class="boldit"{% endif %}>ES</a>
+              /
+              <a hreflang="pt" href="{{ site.url }}{% tl nicolas pt %}" {% if site.lang == "pt" %}class="boldit"{% endif %}>PT</a>
+              /
+              <a hreflang="en" href="{{ site.url }}{% tl nicolas en %}" {% if site.lang == "en" %}class="boldit"{% endif %}>EN</a>
+            {% elsif page.id %}
+              <a hreflang="es" href="{{ site.url }}{{ page.url }}" {% if site.lang == "es" %}class="boldit"{% endif %}>ES</a>
+              /
+              <a hreflang="pt" href="{{ site.url }}/pt{{ page.url }}" {% if site.lang == "pt" %}class="boldit"{% endif %}>PT</a>
+              /
+              <a hreflang="en" href="{{ site.url }}/en{{ page.url }}" {% if site.lang == "en" %}class="boldit"{% endif %}>EN</a>
+            {% endif %}
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="contact" class="menu-inner hidden basic-mono">
+
+
+    <div class="menu-secondary">
+
+      <div class="container">
+           <h2 id="frm-contact-title">{% t nav.contact %}</h4>
+           <form id="frm-contact" method="POST">
+
+             <div class="mb-3">
+               <label for="user">{% t frmcontact.name %} <span class="text-muted">*</span></label>
+               <input type="text" class="form-control" name="user" id="user" placeholder="{% t frmcontact.nameplaceholder %}" required>
+             </div>
+
+             <div class="mb-3">
+               <label for="email">{% t frmcontact.email %} <span class="text-muted">*</span></label>
+               <input type="email" class="form-control" name="email" id="email" placeholder="{% t frmcontact.emailplaceholder %}" required>
+             </div>
+
+             <div class="mb-3">
+               <label for="email">{% t frmcontact.comment %} <span class="text-muted">*</span></label>
+               <textarea class="form-control" rows="5" name="comment" id="comment" placeholder="{% t frmcontact.commentplaceholder %}" required></textarea>
+             </div>
+
+             <div class="custom-control custom-checkbox">
+               <input type="checkbox" class="custom-control-input" name="newsletter" id="newsletter" checked>
+               <label class="custom-control-label" for="same-address">{% t frmcontact.receivecraziness %}</label>
+             </div>
+             <br>
+
+             <div class="row">
+               <div class="col-8">
+                 <button id="contact-submit" class="btn btn-primary btn-lg btn-block" type="submit">{% t frmcontact.send %}<span class="contact-hidden lower"> {% t frmcontact.email %}</span></button>
+               </div>
+               <div class="col-4">
+                 <button id="contact-cancel" class="btn btn-secondary btn-lg btn-block"><i class="fas fa-times"></i></button>
+               </div>
+             </div>
+           </form>
+
+           <div class="social contact-hidden">
+             <div class="social-icons">
+               <a href="https://twitter.com/minimo_io/" target="_blank" class="icon">
+                 <i class="fab fa-twitter fa-lg"></i>
+               </a>
+             </div>
+           </div>
+
+      </div>
+    </div>
+
+  </div>
+</div>
+<a href="#" class="back-to-the-future"><i class="fas fa-angle-double-up"></i></a>
