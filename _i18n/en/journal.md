@@ -12,7 +12,7 @@
     <article class="post-item">
       <span class="post-meta date-label">{{ post.date | date: "%b %d" }}</span>
       <div class="article-title">
-        <a class="post-link" href="{{ post.url | prepend: site.url }}">
+        <a class="post-link" href="/{{ site.lang }}{{ post.url }}">
 
           {% if post.categories contains "projects" %}<span class="aaa">[project]</span>{% endif %}
           {{ post.title }}
