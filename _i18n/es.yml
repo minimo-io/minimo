@@ -1,8 +1,8 @@
 home:
-  minimois: Mínimo es un laboratorio de ideas
-  products: productos
+  minimois: Mínimo
+  products: es laboratorio de
   art: arte
-  digital: digitales
+  digital: ideas
   tellmemore: Contame más
 
 nav:
@@ -21,4 +21,4 @@ frmcontact:
   comment: Comentario
   commentplaceholder: Dejanos tu comentario
   receivecraziness: ¿Recibir una locura?
-  send: Enviar  
+  send: Enviar

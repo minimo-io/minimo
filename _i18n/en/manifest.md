@@ -119,20 +119,20 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM  L.   I8
       <br><br>
 
       <ol class="principles-list">
-          <li><a href="#em-simple">Simplicity and beauty</a></li>
+          <li><a href="#em-simple">Simplicity</a></li>
           <li><a href="#em-largo-plazo">Long term and relevance</a></li>
           <li><a href="#em-aventura">Adventure and rebellion</a></li>
           <li><a href="#em-vanidad">Meritocracy</a></li>
           <li><a href="#em-verdad">Truth</a></li>
           <li><a href="#em-transparencia">Transparency</a></li>
-          <li><a href="#em-pasión">Passion and focus</a></li>
+          <li><a href="#em-pasión">Focus</a></li>
       </ol>
       <br><br>
       <div class="Xlead manifiesto-content">
         <div id="em-simple" class="principle">
-            <h3>1. Simplicity and beauty</h3>
+            <h3>1. Simplicity</h3>
             <p>
-              Hyperconnected and noisy world: we do the minimum necessary to offer an excellent product.
+              We do the minimum necessary to offer an excellent product.
               We add the <a href="https://en.wikipedia.org/wiki/Dieter_Rams#%22Good_design%22_principles" target="_blank">minimal amount of functions</a> to give the user everything he needs.
               We put on the screen the minimal amount of elements to make something unique, great, beautiful.
               We write our articles with a minimum of words to say everything that needs to be said. We focus in the sweet spot, at the <a href="https://en.wikipedia.org/wiki/Golden_hour_(photography)" target="_blank">golden hour</a>.
@@ -214,7 +214,7 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM  L.   I8
 
 
         <div id="em-pasión" class="principle">
-            <h3>7. Passion and focus</h3>
+            <h3>7. Focus</h3>
             <p>
                 Sem projetos que gerem paixão para os envolvidos e sem envolvimento apaixonado pelos projetos não há foco ou perseverança, sem isso é difícil atingir os objetivos porque eventualmente as coisas ficam difíceis e aqueles que têm essa motivação extra são aqueles que têm a melhor chance de ficar focados, com flexibilidade, em objetivos de longo prazo.
             </p>
@@ -229,35 +229,17 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM  L.   I8
       <div class="principle Xlead">
         <h3 id="influencias">Influências</h3>
         <p>
-          Paul Rand, Josef Müller-Brockmann, Naoto Fukasawa, Muji (無印良品), Dieter Rams .
-          <br>
-          HST, Roberto Arlt, Jimmy Breslin, Tom Wolfe, Jack London, Julio Camba, Guy Talese.
+          Muji (無印良品), Paul Rand, Josef Müller-Brockmann, Naoto Fukasawa, Dieter Rams.
+          <br>  
+          Seth Godin, Robert Cialdini.        
           <br>
           René Magritte, Takeuchi Seihō (竹内 栖鳳), Egon Schiele, Ralph Steadman, Donald Judd, Brâncuși.
           <br>
-          Man Ray. Kourtney Roy. Julian Schulze.
+          Man Ray. Julian Schulze. Kourtney Roy.
           <br>
-          Erik Satie. Phillip Glass. Kraftwerk. Sixto Rodriguez. Bob Dylan.
+          Jorge Alejandro Newbery, Benjamin Franklin, Bruce Lee.
           <br>
-          Walt Whitman, Louis Aragon, Guillaume Apollinaire, Garcia Lorca.
-          <br>
-          Óscar Wilde, Marcel Proust, Ralph Waldo Emerson, Bukowski, Cortázar.
-          <br>
-          Andy Kaufman, George Carlin, Rowan Atkinson, Sasha Baron Coehn.
-          <br>
-          Luis Buñuel.
-          <br>
-          Ken Robinson, Steven Pinker, Antonio Escohotado, Rushkoff, Spinoza, Hume, Jordan Peterson, Grompone, Noah Harari.
-          <br>
-          Seth Godin, Robert Cialdini.
-          <br>
-          Thomas Paine, Henry Thoreau.
-          <br>
-          George Brassens, Luca Prodan, Richard Feynmann, The Dude.
-          <br>
-          Jorge Alejandro Newbery, Bruce Lee, Benjamin Franklin, Gunter Pauli, Ray Dalio.
-          <br>
-          Mónica Belucci.
+          Mónica Belucci :)
         </p>
       </div>
 

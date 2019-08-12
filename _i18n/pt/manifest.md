@@ -112,20 +112,20 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
       <br><br>
 
       <ol class="principles-list">
-          <li><a href="#em-simple">Simplicidade e beleza</a></li>
+          <li><a href="#em-simple">Simplicidade</a></li>
           <li><a href="#em-largo-plazo">Longo prazo e relevância</a></li>
           <li><a href="#em-aventura">Aventura e rebeldia</a></li>
           <li><a href="#em-vanidad">Meritocracia</a></li>
           <li><a href="#em-verdad">Verdade</a></li>
           <li><a href="#em-transparencia">Transparência</a></li>
-          <li><a href="#em-pasión">Paixão e foco</a></li>
+          <li><a href="#em-pasión">Foco</a></li>
       </ol>
       <br><br>
       <div class="Xlead manifiesto-content">
         <div id="em-simple" class="principle">
-            <h3>1. Simplicidade e beleza</h3>
+            <h3>1. Simplicidade</h3>
             <p>
-                Mundo hiperconectado e barulhento: fazemos o mínimo necessário para oferecer um produto excelente.
+                Fazemos o mínimo necessário para oferecer um produto excelente.
                 Adicionamos a <a href="https://en.wikipedia.org/wiki/Dieter_Rams#%22Good_design%22_principles" target="_blank">mínima quantidade de funções</a> para oferecer ao usuário tudo o que ele precisa.
                 Colocamos na tela a quantidade mínima de elementos para fazer algo único, ótimo, bonito.
                 Escrevemos nossos artigos com o mínimo de palavras para dizer tudo o que precisa ser dito.
@@ -209,9 +209,9 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
 
 
         <div id="em-pasión" class="principle">
-            <h3>7. Paixão e foco</h3>
+            <h3>7. Foco</h3>
             <p>
-                Sem projetos que gerem paixão para os envolvidos e sem envolvimento apaixonado pelos projetos não há foco ou perseverança, sem isso é difícil atingir os objetivos porque eventualmente as coisas ficam difíceis e aqueles que têm essa motivação extra são aqueles que têm a melhor chance de ficar focados, com flexibilidade, em objetivos de longo prazo.
+                Sem projetos que gerem paixão para os envolvidos e sem envolvimento apaixonado pelos projetos não há foco ou perseverança, sem isso é difícil atingir os objetivos porque eventualmente as coisas ficam difíceis e aqueles que têm essa motivação extra são aqueles que têm a melhor chance de cumprir os objetivos de longo prazo.
             </p>
         </div>
 
@@ -224,35 +224,17 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
       <div class="principle Xlead">
         <h3 id="influencias">Influências</h3>
         <p>
-          Paul Rand, Josef Müller-Brockmann, Naoto Fukasawa, Muji (無印良品), Dieter Rams .
-          <br>
-          HST, Roberto Arlt, Jimmy Breslin, Tom Wolfe, Jack London, Julio Camba, Guy Talese.
+          Muji (無印良品), Paul Rand, Josef Müller-Brockmann, Naoto Fukasawa, Dieter Rams.
+          <br>  
+          Seth Godin, Robert Cialdini.        
           <br>
           René Magritte, Takeuchi Seihō (竹内 栖鳳), Egon Schiele, Ralph Steadman, Donald Judd, Brâncuși.
           <br>
-          Man Ray. Kourtney Roy. Julian Schulze.
+          Man Ray. Julian Schulze. Kourtney Roy.
           <br>
-          Erik Satie. Phillip Glass. Kraftwerk. Sixto Rodriguez. Bob Dylan.
+          Jorge Alejandro Newbery, Benjamin Franklin, Bruce Lee.
           <br>
-          Walt Whitman, Louis Aragon, Guillaume Apollinaire, Garcia Lorca.
-          <br>
-          Óscar Wilde, Marcel Proust, Ralph Waldo Emerson, Bukowski, Cortázar.
-          <br>
-          Andy Kaufman, George Carlin, Rowan Atkinson, Sasha Baron Coehn.
-          <br>
-          Luis Buñuel.
-          <br>
-          Ken Robinson, Steven Pinker, Antonio Escohotado, Rushkoff, Spinoza, Hume, Jordan Peterson, Grompone, Noah Harari.
-          <br>
-          Seth Godin, Robert Cialdini.
-          <br>
-          Thomas Paine, Henry Thoreau.
-          <br>
-          George Brassens, Luca Prodan, Richard Feynmann, The Dude.
-          <br>
-          Jorge Alejandro Newbery, Bruce Lee, Benjamin Franklin, Gunter Pauli, Enrique Baliño, Ray Dalio.
-          <br>
-          Mónica Belucci.
+          Mónica Belucci :)
         </p>
       </div>
 

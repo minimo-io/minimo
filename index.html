@@ -5,11 +5,8 @@ title: Home
 <div id="main">
       <section class="hero hero-home">
         <h2 class="bigtitle herotitle">{% t home.minimois %}<br>
-          {% if site.lang == "en" %}
-            <div><span id="suspense">{% t home.digital %}</span>&nbsp;{% t home.products %} <small>∪</small> <!--&--><span class="art">{% t home.art %}</span></div>
-          {% else %}
-            <div>{% t home.products %}&nbsp;<span id="suspense">{% t home.digital %}</span> <small>∪</small> <!--&--><span class="art">{% t home.art %}</span></div>
-          {% endif %}
+
+          <div>{% t home.products %}&nbsp;(<span id="suspense">{% t home.digital %}</span> <small>+</small> <!--&--><span class="art">{% t home.art %}</span>)</div>
           <div id="tell-me-moar"><a href="{% tl manifest %}">{% t home.tellmemore %}</a></div>
         </h2>
       </section>

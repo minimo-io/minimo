@@ -117,14 +117,14 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
           <li><a href="#em-vanidad">Meritocracia</a></li>
           <li><a href="#em-verdad">Verdad</a></li>
           <li><a href="#em-transparencia">Transparencia</a></li>
-          <li><a href="#em-pasión">Pasión y foco</a></li>
+          <li><a href="#em-pasión">Foco</a></li>
       </ol>
       <br><br>
       <div class="Xlead manifiesto-content">
         <div id="em-simple" class="principle">
-            <h3>1. Simplicidad y belleza</h3>
+            <h3>1. Simplicidad</h3>
             <p>
-                Mundo hiperconectado y ruidoso: hacemos lo mínimo necesario para ofrecer un producto excelente.
+                Hacemos lo mínimo necesario para ofrecer un producto excelente.
                 Agregamos la <a href="https://en.wikipedia.org/wiki/Dieter_Rams#%22Good_design%22_principles" target="_blank">mínima cantidad de funciones</a> para ofrecer al usuario todo lo que necesita.
                 Ponemos en pantalla la mínima cantidad de elementos para hacer algo único, estupendo, hermoso.
                 Escribimos nuestros artículos con la mínima cantidad de palabras para decir todo lo que tiene que decirse.
@@ -208,9 +208,9 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
 
 
         <div id="em-pasión" class="principle">
-            <h3>7. Pasión y foco</h3>
+            <h3>7. Foco</h3>
             <p>
-                Sin proyectos que generen pasión a los involucrados y sin involucrados apasionados por los proyectos no hay foco ni perseverancia, sin ella es difícil alcanzar las metas porque eventualmente las cosas se ponen difíciles y son quienes tienen esa motivación extra los que cuentan con más posibilidades de mantenerse enfocados, con flexibilidad, en los objetivos a largo plazo.
+                Sin proyectos que generen pasión a los involucrados y sin involucrados apasionados por los proyectos no hay foco ni perseverancia, sin ella es difícil alcanzar las metas porque eventualmente las cosas se ponen difíciles y son quienes tienen esa motivación extra los que cuentan con más posibilidades cumplir los objetivos a largo plazo.
             </p>
         </div>
 
@@ -223,35 +223,17 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
       <div class="principle Xlead">
         <h3 id="influencias">Influencias</h3>
         <p>
-          Paul Rand, Josef Müller-Brockmann, Naoto Fukasawa, Muji (無印良品), Dieter Rams .
-          <br>
-          HST, Roberto Arlt, Jimmy Breslin, Tom Wolfe, Jack London, Julio Camba, Guy Talese.
+          Muji (無印良品), Paul Rand, Josef Müller-Brockmann, Naoto Fukasawa, Dieter Rams.
+          <br>  
+          Seth Godin, Robert Cialdini.        
           <br>
           René Magritte, Takeuchi Seihō (竹内 栖鳳), Egon Schiele, Ralph Steadman, Donald Judd, Brâncuși.
           <br>
-          Man Ray. Kourtney Roy. Julian Schulze.
+          Man Ray. Julian Schulze. Kourtney Roy.
           <br>
-          Erik Satie. Phillip Glass. Kraftwerk. Sixto Rodriguez. Bob Dylan.
+          Jorge Alejandro Newbery, Benjamin Franklin, Bruce Lee.
           <br>
-          Walt Whitman, Louis Aragon, Guillaume Apollinaire, Garcia Lorca.
-          <br>
-          Óscar Wilde, Marcel Proust, Ralph Waldo Emerson, Bukowski, Cortázar.
-          <br>
-          Andy Kaufman, George Carlin, Rowan Atkinson, Sasha Baron Coehn.
-          <br>
-          Luis Buñuel.
-          <br>
-          Ken Robinson, Steven Pinker, Antonio Escohotado, Rushkoff, Spinoza, Hume, Jordan Peterson, Grompone, Noah Harari.
-          <br>
-          Seth Godin, Robert Cialdini.
-          <br>
-          Thomas Paine, Henry Thoreau.
-          <br>
-          George Brassens, Luca Prodan, Richard Feynmann, The Dude.
-          <br>
-          Jorge Alejandro Newbery, Bruce Lee, Benjamin Franklin, Gunter Pauli, Enrique Baliño, Ray Dalio.
-          <br>
-          Mónica Belucci.
+          Mónica Belucci :)
         </p>
       </div>
 
