@@ -13,21 +13,16 @@
           </nav>
         </center>
       </div>
-      <br><hr /><br>
+      <div class="alert alert-warning text-center" role="alert">
+        <strong>Se você realmente quer nos odiar, leia o nosso artigo </strong> <a href="/2019/8/" class="alert-link">«Uma opinião sobre publicidade»</a>.
+      </div>
+      <br>
       <div>
         <p class="intro Xlead">
           Mínimo é um laboratório de idéias.
         </p>
         <div class="intro Xlead">
-          Somos um grupo de criadores que procura influenciar a realidade, para melhorá-la, usando as ferramentas da arte {
-          <br>
-          <div class="text-center">marketing&nbsp;&nbsp;&nbsp;</div>
-          <div class="text-center">fotografia&nbsp;&nbsp;&nbsp;</div>
-          <div class="text-center">storytelling</div>
-          <div class="text-center">programação&nbsp;</div>
-          <div class="text-center">design&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-          },
-          e os empreendimentos.
+          Perpetramos projetos que buscam influenciar a realidade, para melhorá-la.
         </div>
         <p class="intro Xlead">
           Estamos interessados em <span class="cross">marketing</span> mas não na febre irrefletida do consumo [<a href="https://www.youtube.com/watch?v=y6RYi4JFLbs" target="_blank">1</a>], na publicidade e não interrupção...

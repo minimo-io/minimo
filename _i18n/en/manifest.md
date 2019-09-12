@@ -12,21 +12,17 @@
           </nav>
         </center>
       </div>
-      <br><hr /><br>
+
+      <div class="alert alert-warning text-center" role="alert">
+        <strong>If you really want to hate us, read our article </strong> <a href="/2019/8/" class="alert-link">«An opinion on advertising»</a>.
+      </div>
+      <br>
       <div>
         <p class="intro Xlead">
           Mínimo is an idea laboratory.
         </p>
         <div class="intro Xlead">
-          We are a group of creators who seek to influence reality, to improve it, using the tools of art {
-          <br>
-          <div class="text-center">marketing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-          <div class="text-center">photography&nbsp;&nbsp;&nbsp;</div>
-          <div class="text-center">storytelling&nbsp;&nbsp;</div>
-          <div class="text-center">development&nbsp;&nbsp;&nbsp;</div>
-          <div class="text-center">design&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-          },
-          and entrepreneurship.
+          We perpetrate projects that seek to influence reality, to improve it.
         </div>
         <p class="intro Xlead">
           We are interested in <span class="cross">marketing</span> but not in the unthinking consumption fever [<a href="https://www.youtube.com/watch?v=y6RYi4JFLbs" target="_blank">1</a>], in advertising and not in the constant...

@@ -6,8 +6,11 @@ title: Home
       <section class="hero hero-home">
         <h2 class="bigtitle herotitle">{% t home.minimois %}<br>
 
-          <div>{% t home.products %}&nbsp;(<span id="suspense">{% t home.digital %}</span> <small>+</small> <!--&--><span class="art">{% t home.art %}</span>)</div>
+          <div>{% t home.products %}&nbsp;<span class="through">{% t home.digital %}</span> <small></small> <span id="suspense" class="art">{% t home.art %}</span></div>
           <div id="tell-me-moar"><a href="{% tl manifest %}">{% t home.tellmemore %}</a></div>
         </h2>
       </section>
 </div>
+<div id="particles-js"></div>
+<script src="{{ "/assets/js/particles.min.js" | prepend: site.url }}"></script>
+<script src="{{ "/assets/js/particles-app.js" | prepend: site.url }}"></script>

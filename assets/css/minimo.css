@@ -1141,3 +1141,8 @@ path {
 .post-content h3, .post-content h2, .post-content h1{
 	font-family:Courier, monospace;
 }
+.alert-link:hover{text-decoration:underline;}
+.white-back{
+	background-color:white;
+}
+.through{ text-decoration:line-through; }

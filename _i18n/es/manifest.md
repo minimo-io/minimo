@@ -1,8 +1,8 @@
 <section id="sec-ethos">
-  <div id="ethos" class="container">
+  <div id="ethos" class="container bg-white">
 
       <h1 class="over-title">Manifiesto mínimo</h1>
-      <div class="nav-scroller bg-white">
+      <div class="nav-scroller">
         <center>
           <nav class="nav nav-underline" style="display:inline-flex;">
             <a class="nav-link" href="#ethos">Manifiesto</a>
@@ -12,22 +12,16 @@
           </nav>
         </center>
       </div>
-      <br><hr /><br>
+      <div class="alert alert-warning text-center" role="alert">
+        <strong>Si de verdad quieres odiarnos, lee nuestro artículo </strong> <a href="/2019/8/" class="alert-link">«Una opinión sobre publicidad»</a>.
+      </div>     
+      <br>
       <div>
         <p class="intro Xlead">
           Mínimo es un laboratorio de ideas.
         </p>
         <div class="intro Xlead">
-          Somos un grupo de creadores que busca influir en la realidad, para mejorarla,
-          usando las herramientas del arte {
-          <br>
-          <div class="text-center">marketing&nbsp;&nbsp;&nbsp;</div>
-          <div class="text-center">fotografía&nbsp;&nbsp;</div>
-          <div class="text-center">storytelling</div>
-          <div class="text-center">programación</div>
-          <div class="text-center">diseño&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-          },
-          y los emprendimientos.
+          Perpetramos proyectos que buscan influir en la realidad, para mejorarla.
         </div>
         <p class="intro Xlead">
           Nos interesa el <span class="cross">marketing</span> pero no la fiebre irreflexiva de consumo [<a href="https://www.youtube.com/watch?v=y6RYi4JFLbs" target="_blank">1</a>], la publicidad y no la interrupción...
