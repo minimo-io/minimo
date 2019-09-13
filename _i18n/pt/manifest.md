@@ -14,7 +14,7 @@
         </center>
       </div>
       <div class="alert alert-warning text-center" role="alert">
-        <strong>Se você realmente quer nos odiar, leia o nosso artigo </strong> <a href="/2019/8/" class="alert-link">«Uma opinião sobre publicidade»</a>.
+        <strong>Se você realmente quer nos odiar, leia o nosso artigo </strong> <a href="/pt/2019/8/" class="alert-link">«Uma opinião sobre publicidade»</a>.
       </div>
       <br>
       <div>
