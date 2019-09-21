@@ -914,7 +914,7 @@ img.card-img-top{
   font-size:35px;
   /* font-family: "Sacramento";font-size:200%; */
 }
-.principle h3, .principle p{ text-align:left; }
+.principle h3, .principle p{ text-align:justify; }
 .principle p {
   font-size: 18px;
   font-family: "Space Mono", monospace;
@@ -1005,7 +1005,7 @@ ol li{ text-align:left; }
 .tag{ color:blue;}
 h4, .sub-principle{ margin-left:20px; }
 .intro{
-  text-align:left;
+  text-align:justify;
   font-size:120%;
   margin-top:20px;
   font-family: "Space Mono", monospace;
@@ -1137,6 +1137,7 @@ path {
 	margin-top:6%;
 	line-height:150%;
 	letter-spacing:1px;
+	text-align:justify;
 }
 .post-content h3, .post-content h2, .post-content h1{
 	font-family:Courier, monospace;

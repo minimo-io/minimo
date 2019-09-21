@@ -22,10 +22,10 @@
           Mínimo é um laboratório de idéias.
         </p>
         <div class="intro Xlead">
-          Perpetramos projetos que buscam influenciar a realidade, para melhorá-la.
+          Perpetramos projetos que buscam melhorar a realidade.
         </div>
         <p class="intro Xlead">
-          Estamos interessados em <span class="cross">marketing</span> mas não na febre irrefletida do consumo [<a href="https://www.youtube.com/watch?v=y6RYi4JFLbs" target="_blank">1</a>], na publicidade e não interrupção...
+          Estamos interessados em <span class="cross">marketing</span> mas não na febre irrefletida do consumo [<a href="https://www.youtube.com/watch?v=y6RYi4JFLbs" target="_blank">1</a>], a difussão de boas ideias e não a interrupção...
           <br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           constante de nossas vidas por produtos supérfluos [<a href="https://www.youtube.com/watch?v=kPSxzaer3HY" target="_blank">2</a>], na tecnologia e não nos produtos tecnológicos que abusam dos nossos instintos para rentabilizar a nossa <span class="atention animated infinite pulse">¡atenção!</span> [<a href="https://wellbeing.google/" target="_blank">3</a>]; estamos interessados em negócios como uma maneira de financiar boas ideias, e não com a finalidade de financiar vaidades. A A arte que nos desafia [<a href="https://vimeo.com/61877675" target="_blank">4</a>], inspira e liberta.

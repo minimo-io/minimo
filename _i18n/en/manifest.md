@@ -22,10 +22,10 @@
           Mínimo is an idea laboratory.
         </p>
         <div class="intro Xlead">
-          We perpetrate projects that seek to influence reality, to improve it.
+          We perpetrate projects that seek to improve reality.
         </div>
         <p class="intro Xlead">
-          We are interested in <span class="cross">marketing</span> but not in the unthinking consumption fever [<a href="https://www.youtube.com/watch?v=y6RYi4JFLbs" target="_blank">1</a>], in advertising and not in the constant...
+          We are interested in <span class="cross">marketing</span> but not in the unthinking consumption fever [<a href="https://www.youtube.com/watch?v=y6RYi4JFLbs" target="_blank">1</a>], in advertising good ideas and not in the constant...
           <br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           interruption of our lives by superfluous products [<a href="https://www.youtube.com/watch?v=kPSxzaer3HY" target="_blank">2</a>], in technology and not in technological products that abuse our instincts to monetize our <span class="atention animated infinite pulse">attention!</span> [<a href="https://wellbeing.google/" target="_blank">3</a>]; we are interested in business as a way to finance good ideas, not for the purpose of financing vanities.

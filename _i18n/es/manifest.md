@@ -21,12 +21,12 @@
           Mínimo es un laboratorio de ideas.
         </p>
         <div class="intro Xlead">
-          Perpetramos proyectos que buscan influir en la realidad, para mejorarla.
+          Perpetramos proyectos que buscan mejorar la realidad.
         </div>
         <p class="intro Xlead">
-          Nos interesa el <span class="cross">marketing</span> pero no la fiebre irreflexiva de consumo [<a href="https://www.youtube.com/watch?v=y6RYi4JFLbs" target="_blank">1</a>], la publicidad y no la interrupción...
+          Nos interesa el <span class="cross">marketing</span> pero no la fiebre irreflexiva de consumo [<a href="https://www.youtube.com/watch?v=y6RYi4JFLbs" target="_blank">1</a>], la disfusión de las buenas ideas y no la interrupción-
           <br>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           constante de nuestras vidas por productos superfluos [<a href="https://www.youtube.com/watch?v=kPSxzaer3HY" target="_blank">2</a>], la tecnología y no los productos tecnológicos que abusan de nuestros instintos para monetizar nuestra <span class="atention animated infinite pulse">¡atención!</span> [<a href="https://wellbeing.google/" target="_blank">3</a>]; nos interesan los negocios como forma de financiar las buenas ideas, y no con el propósito de financiar vanidades. El arte que nos interpela [<a href="https://vimeo.com/61877675" target="_blank">4</a>], inspira y libera.
           <br>
           Somos optimistas.
@@ -49,7 +49,7 @@
         <div class="intro Xlead">
           No tenemos <i class="fas fa-clock fa-lg"></i> para otra cosa.
           <br>
-          Entendemos el dinero como una herramienta que nos permite generar, sustentar y propagar esas ideas y a los exploradores que las llevan adelante.
+          Entendemos el dinero como una herramienta que nos permite generar, sustentar y propagar esas ideas y a quienes las llevan adelante.
           Sabemos que para eso necesitamos ser muy buenos, <span class="not-that-big">c<i class="fas fa-handshake cooperate"></i>perar</span> y competir con personas <i class="fas fa-not-equal fa-lg"></i> a nosotros. <!-- and: sin traicionar nuestros principios o este manifiesto.-->
           <br>
           Somos aventureros pero no temerarios.
@@ -85,10 +85,8 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
 
           </pre>
 
-          para no tener miedo de desagradar a las personas adecuadas; ante los <span class="strikeout">p*ut#!</span> prejuicios, ante nuestros propios juicios apresurados, ante lo políticamente correcto, ante las cajas de resonancia tribales,
-        perseguimos cinco propósitos:
-            <br><br>
-            <p><div class="text-center"><strong>Simplicidad. Belleza. Verdad. Relevancia. <a class="flip">R</a>ebeldía.</strong></div></p>
+          para no tener miedo de desagradar a las personas adecuadas; ante los <span class="strikeout">p*ut#!</span> prejuicios, ante nuestros propios juicios apresurados, ante lo políticamente correcto, ante las cajas de resonancia tribales.
+
 
         </div>
       </div>
@@ -106,9 +104,8 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
 
       <ol class="principles-list">
           <li><a href="#em-simple">Simplicidad</a></li>
-          <li><a href="#em-largo-plazo">Largo plazo y relevancia</a></li>
-          <li><a href="#em-aventura">Aventura y rebeldía</a></li>
-          <li><a href="#em-vanidad">Meritocracia</a></li>
+          <li><a href="#em-largo-plazo">Largo plazo</a></li>
+          <li><a href="#em-aventura">Rebeldía</a></li>
           <li><a href="#em-verdad">Verdad</a></li>
           <li><a href="#em-transparencia">Transparencia</a></li>
           <li><a href="#em-pasión">Foco</a></li>
@@ -119,82 +116,66 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
             <h3>1. Simplicidad</h3>
             <p>
                 Hacemos lo mínimo necesario para ofrecer un producto excelente.
-                Agregamos la <a href="https://en.wikipedia.org/wiki/Dieter_Rams#%22Good_design%22_principles" target="_blank">mínima cantidad de funciones</a> para ofrecer al usuario todo lo que necesita.
-                Ponemos en pantalla la mínima cantidad de elementos para hacer algo único, estupendo, hermoso.
+                Agregamos la <a href="https://en.wikipedia.org/wiki/Dieter_Rams#%22Good_design%22_principles" target="_blank">mínima cantidad de funciones</a> para ofrecer al usuario todo lo que el producto promete. Aplicamos el diseño en favor de la belleza estética, y la belleza estética en favor de la función.
                 Escribimos nuestros artículos con la mínima cantidad de palabras para decir todo lo que tiene que decirse.
-                Encuadramos con el punto dulce, a la <a href="https://es.wikipedia.org/wiki/La_hora_m%C3%A1gica" target="_blank">hora mágica</a>.
-                <br>
-                Dejamos la hoja en blanco, y agregamos sólo los elementos escenciales para alcanzar nuestro propósito.
                 <br>
                 Evitamos sacrificar la calidad de algo para conseguir más de lo mismo <a href="https://www.akimbo.me/blog/s2-e2-it-s-not-about-the-chocolate" target="_blank">It's not about chocolate, Akimbo, Seth Godin.</a>
-                Evitamos decirnos que algo está terminado cuando todavía no nos inspira belleza.
-
             </p>
         </div>
 
         <div id="em-largo-plazo" class="principle">
-            <h3>2. Largo plazo y relevancia</h3>
+            <h3>2. Largo plazo</h3>
             <p>
-                No nos interesa el dinero fácil, ni los sistemas piramidales, ni el spam, ni la afiliación a productos que piensan en objetivos de corto plazo.
-                Nos interesa aportar nuestro impulso a los cambios relevantes; y por relevantes entendemos las cosas grandes y las cosas pequeñas que aportan algo positivo a la vida de alguien o de muchos.
-                <br>
-                Para eso los proyectos deben comenzar con un ideal, con una visión a largo plazo, y a partir de ahí deconstruir sus etapas,
-                llegar al corto plazo que es donde se encuentra la necesidad de satisfacción inmediata, <a href="https://www.akimbo.me/blog/episode-15-in-the-long-run" target="_blank">The long term, Akimbo, Seth Godin,</a> el "efecto red" <a href="https://www.akimbo.me/blog/episode-13-networks-lock-in-and-pathways" target="_blank">Networks and lockin, Akimbo, Seth Godin,</a> el día a día.
+                Mínimo crea productos que no apuntan al crecimiento perpetuo, sino a la mejora perpetua.
+            </p>            
+            <p>
+                Nos lanzamos a los nuevos proyectos con el objetivo de generar un cambio en el largo plazo.
+                De hacer algo de manera mas eficiente, mas bonita, mas transparente, mas simple, mas saludable, mejor.
+                De aportar algo positivo, por pequeña que sea la comunidad a la que queramos contribuír.
             </p>
             <p>
-                Nunca nos lanzamos a una nueva aventura con el único objetivo de hacer dinero, sino con el objetivo de generar un cambio o de aportar algo nuevo, de hacer algo de forma única, traviesa, eficiente, mejor; sin desconocer que para poder hacerlo necesitamos financiar las ideas, hacerlas sustentables, para hacerlas sostenible en el tiempo.
-            </p>
-            <p>
-              No trabajamos en elevar nuestro nivel con el concepto de "más", sino con el de "mejor". Esa es la visión a largo plazo de nuestros productos.
-            </p>
-        </div>
-
-        <div id="em-aventura" class="principle">
-            <h3>3. Aventura y rebeldía</h3>
-            <p>
-                Para equivocarnos con méritos, para lograr algo relevante y divertirnos en el proceso, para evitar lo predecible, lo que todos hacen automáticamente o esperan que hagamos, para mantenernos enfocados cultivamos un espíritu de aventura y rebeldía que nos permita experimentar las cosas que todavía no todos entienden.
-                <br>
-                Para que algo a alguien le parezca extraño. Para pasar vergüenza. Para superar los miedos.
-                Para descubrir nuevas ideas. Para lanzarnos a la aventura de riesgos calculados.
-            </p>
-        </div>
-
-
-
-        <div id="em-vanidad" class="principle">
-            <h3>4. Meritocracia</h3>
-            <p>
-              Las ideas con mejores méritos son en las que apostamos nuestra energía, no las ideas que tuvieron a la persona mas capaz de imponer su vanidad.
-            </p>
-            <p>
-              ¿Cómo saber cuándo unas ideas son mejores que otras? Siguiendo una forma abierta de discusión y un método científico de prueba, análisis y correción de los errores (<a href="https://es.wikipedia.org/wiki/Lean_startup" target="_blank">Lean Startup</a>);  una forma que no esté centrada en egos personales sino guiada por la aventura de encontrar la mejor solución posible a un problema planteado para el que tengamos una solución.
-              <br>
-
-            </p>
+                Nunca comenzamos un nuevo proyecto a partir del objetivo de hacer dinero. No nos interesan los sistemas piramidales, ni el spam, ni la afiliación a productos que piensan en objetivos inmediatos. Pero no por eso desconocemos que para que las ideas no se queden en una expresión de voluntad, necesitamos financiarlas, hacerlas sustentables, para que sean sostenible en el tiempo.
+            </p>            
         </div>
 
 
         <div id="em-verdad" class="principle">
-            <h3>5. Verdad</h3>
+            <h3>4. Verdad</h3>
             <p>
-              Nunca olvidar que creamos para influír positivamente en las personas, familia, amigos, empXleados, clientes, socios; eso incluye al individuo capaz de olvidar esto. Una sonrisa y un buen día no están de más aún para dar las peores noticias.
+              Creamos productos basados en necesidades reales.  
+              Basados lo que la gente en su libre elección tiene ganas de hacer y hace. A esos mercados mínimos, que son de nuestro interés, intentamos contribuir con algo, para hacerlos mas saludables, mas transparentes, mas accesibles.
+              No basados en un ideal personal, sobre lo que la gente debería hacer. Y no hace. O sobre lo que a la gente debería interesarle. Y no le interesa.
             </p>
             <p>
-              Pero la amabilidad no tiene que confundirse con evitar los conflictos. Se refiere mas bien a la forma de enfrentarlos; distanciandonos del otro lo necesario para marcar nuestra opinión con independencia pero al mismo tiempo con respeto y amabilidad.
-              <br>
-              Cuando no se haya podido ser amable (al fin y al cabo somos gobernados por nuestros miedos y emociones), corresponde al menos una disculpa amable.
-              <br>
-           </p>
+              Creamos productos y servicios para influír positivamente en las personas, para fomentar su bienestar, basados en lo que ellas eligen hacer con sus vidas, no como nosotros consideramos que deberían vivirlas.
+            </p>
            <p>
-              Dicho esto, nunca dejar de decir una verdad por miedo a resultar desagradables; de lo contrario es imposible descubrir las mejores ideas y mantener relaciones saludables.
-              La verdad (que es nada mas ni menos que aquello que honestamente pensamos sobre un asunto) es la única forma de hacer que los fracasos tengan utilidad; solo a través de dejar el orgullo de lado y decirnos la verdad (por dura que sea) podemos analizar y corregir errores; además nos permite entusiasmarnos por los buenos resultados.
+              Por otra parte, la verdad es la única forma de hacer que nuestros fracasos tengan utilidad.
+              A través de ella podemos corregir el rumbo, analizar y reparar errores en el camino hacia un objetivo.
             </p>
         </div>
 
-
+        <div id="em-aventura" class="principle">
+            <h3>3. Rebeldía</h3>
+            <p>
+                Cultivamos un espíritu que nos permita experimentar las cosas que todavía no se entienden.
+            </p>
+            <p>
+              Esto requiere sinceridad. Y para ello hay que estar dispuestos a generar controversia. Nos estimula una crítica desafiante, si nos acerca a todos un paso hacia una mejor comprensión de una necesidad.
+            </p>            
+            <p>
+                Somos felices de equivocamos en el camino de descubrir nuevas ideas. De lanzarnos a la aventura de riesgos calculados.
+            </p>
+        </div>
 
         <div id="em-transparencia" class="principle">
-            <h3>6. Transparencia</h3>
+            <h3>5. Transparencia</h3>
+            <p>
+              Mínimo crea productos que no apuntan al crecimiento perpetuo, sino que cada proyecto tiene objetivos concretos de ganancias y audiencias, los cuales hacemos públicos. Una vez cumplidos, esto nos permite enfocarnos en otras facetas del desarrollo (en "mejor" y no en "mas"), en vez de optimizar constantemente para las ganancias.
+            </p>
+            <p>
+              Para ser creíbles en este sentido, valoramos y promovemos la transparencia de nuestros revenues; y la transparencia del funcionamiento de nuestros productos, así como sus objetivos.            
+            </p>
             <p>
               Usamos <a href="https://en.wikipedia.org/wiki/Open-book_management" target="_blank">OBM</a>.
             </p>
@@ -202,10 +183,13 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
 
 
         <div id="em-pasión" class="principle">
-            <h3>7. Foco</h3>
+            <h3>6. Foco</h3>
             <p>
-                Sin proyectos que generen pasión a los involucrados y sin involucrados apasionados por los proyectos no hay foco ni perseverancia, sin ella es difícil alcanzar las metas porque eventualmente las cosas se ponen difíciles y son quienes tienen esa motivación extra los que cuentan con más posibilidades cumplir los objetivos a largo plazo.
+                La visión de crear productos con objetivos de largo plazo, basados en necesiades reales, y llevados adelante con transparencia y una dosis de rebeldía, es importante porque nos permite mantenernos enfocados en hacer algo muy bien, en vez de dispersar esfuerzos y recursos en hacer mucho, de forma mediocre.
             </p>
+            <p>
+                Para estimular esto los proyectos de Mínimo comienzan con una visión, una aspiración, que se desarrolla a través de la metodología <a href="https://es.wikipedia.org/wiki/Lean_startup" target="_blank">Lean</a>.
+            </p>            
         </div>
 
 
