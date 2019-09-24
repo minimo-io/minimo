@@ -6,7 +6,7 @@
           <div class="article-title">
             <a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" hreflang="{% if post.language %}{{post.language}}{% else %}es{% endif %}">
 
-              {% if post.categories contains "Xprojects" %}<span class="aaa">[proyecto]</span>{% endif %}
+              {% if post.categories contains "code" %}<span class="aaa">[code]</span>{% endif %}
               {{ post.title }}
             </a>
           </div>

@@ -1,7 +1,7 @@
 <section id="sec-ethos">
   <div id="ethos" class="container">
 
-      <h1 class="over-title">Mínimo's manifest</h1>
+      <h1 class="over-title">Manifest</h1>
       <div class="nav-scroller bg-white">
         <center>
           <nav class="nav nav-underline" style="display:inline-flex;">
@@ -12,7 +12,7 @@
           </nav>
         </center>
       </div>
-
+      <br>
       <div class="alert alert-warning text-center" role="alert">
         <strong>If you really want to hate us, read our article </strong> <a href="/en/2019/8/" class="alert-link">«Our take on advertising»</a>.
       </div>
@@ -22,14 +22,14 @@
           Mínimo is an idea laboratory.
         </p>
         <div class="intro Xlead">
-          We perpetrate projects that seek to improve reality.
+          We perpetrate digital projects that seek to improve reality.
         </div>
         <p class="intro Xlead">
-          We are interested in <span class="cross">marketing</span> but not in the unthinking consumption fever [<a href="https://www.youtube.com/watch?v=y6RYi4JFLbs" target="_blank">1</a>], in advertising good ideas and not in the constant...
+          We are interested in <span class="cross">marketing</span> but not in a thoughtless consumption fever [<a href="https://www.youtube.com/watch?v=y6RYi4JFLbs" target="_blank">1</a>], in promoting good ideas and not in the constant...
           <br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          interruption of our lives by superfluous products [<a href="https://www.youtube.com/watch?v=kPSxzaer3HY" target="_blank">2</a>], in technology and not in technological products that abuse our instincts to monetize our <span class="atention animated infinite pulse">attention!</span> [<a href="https://wellbeing.google/" target="_blank">3</a>]; we are interested in business as a way to finance good ideas, not for the purpose of financing vanities.
-          The art that challenges [<a href="https://vimeo.com/61877675" target="_blank">4</a>], inspires and frees us.
+          interruption of our lives by superfluous products [<a href="https://www.youtube.com/watch?v=kPSxzaer3HY" target="_blank">2</a>], in technology and not in technological products that abuse our instincts to monetize our <span class="atention animated infinite pulse">attention!</span>; we are interested in business as a way to finance good ideas, not for the purpose of financing vanities.
+          Art that challenges [<a href="https://vimeo.com/61877675" target="_blank">3</a>], inspires and frees us.
           <br>
           We are optimists.
 
@@ -46,17 +46,17 @@
           to <sub> underestimate </sub> others or themselves and thus secure their position before the world.
         </p>
         <p class="intro Xlead">
-          We want to do things. We want to spread to those who do things.
-          But we are not naive, we know the world is usually uncertain, <span class="holo">imperfect</span> and often plain <span class="upsidedown">hard</span>; our impact can be <small class="even-smaller">big</small> or <span class="big">small</span>,
+          We want to make stuff. We want to spread the word about those who also make stuff.
+          But we are not naive, we know the world is uncertain, <span class="holo">imperfect</span> and often plain <span class="upsidedown">hard</span>; our impact can be <small class="even-smaller">big</small> or <span class="big">small</span>,
           but the adventures in which we embark we want them to make life more beautiful or healthier, or <span class="spacedout">simpler</span>, or more complete, or more <span class="elegant">elegant</span>, or <span class="freedom">freer</span>.
         </p>
         <div class="intro Xlead">
           We do not have <i class="fas fa-clock fa-lg"></i> for anything else.
           <br>
-          We understand money as a tool that allows us to generate, sustain and propagate these ideas and the explorers who carry them forward.
+          We understand money as a tool that allows us to generate, sustain and propagate these ideas and the those who carry them forward.
           We know that for this we need to be very good, <span class="not-that-big">c<i class="fas fa-handshake cooperate"></i>perate</span> and compete with people <i class="fas fa-not-equal fa-lg"></i> from us.
           <br>
-          We are adventurous, but not reckless.
+          We are adventurous, but not imprudent.
           <br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -95,10 +95,7 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM  L.   I8
 
           </pre>
 
-          to not be afraid displeasing the right people; in the face of <span class="strikeout">fu**#!g</span> prejudice, before our hasty judgments, before political correctness, before tribal resonance,
-          we pursue five purposes:
-            <br><br>
-            <p><div class="text-center"><strong>Simplicity. Beauty. Truth. Relevance. <a class="flip">R</a>ebellion.</strong></div></p>
+          to not be afraid displeasing the right people; in the face of <span class="strikeout">fu**#!g</span> prejudice, before our hasty judgments, before political correctness, before tribal resonance boxes.
 
         </div>
       </div>
@@ -116,10 +113,9 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM  L.   I8
 
       <ol class="principles-list">
           <li><a href="#em-simple">Simplicity</a></li>
-          <li><a href="#em-largo-plazo">Long term and relevance</a></li>
-          <li><a href="#em-aventura">Adventure and rebellion</a></li>
-          <li><a href="#em-vanidad">Meritocracy</a></li>
-          <li><a href="#em-verdad">Truth</a></li>
+          <li><a href="#em-largo-plazo">Long term</a></li>
+          <li><a href="#em-verdad">Truth</a></li>          
+          <li><a href="#em-aventura">Rebellion</a></li>
           <li><a href="#em-transparencia">Transparency</a></li>
           <li><a href="#em-pasión">Focus</a></li>
       </ol>
@@ -129,91 +125,80 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM  L.   I8
             <h3>1. Simplicity</h3>
             <p>
               We do the minimum necessary to offer an excellent product.
-              We add the <a href="https://en.wikipedia.org/wiki/Dieter_Rams#%22Good_design%22_principles" target="_blank">minimal amount of functions</a> to give the user everything he needs.
-              We put on the screen the minimal amount of elements to make something unique, great, beautiful.
-              We write our articles with a minimum of words to say everything that needs to be said. We focus in the sweet spot, at the <a href="https://en.wikipedia.org/wiki/Golden_hour_(photography)" target="_blank">golden hour</a>.
-              <br>
-              We leave the sheet blank and add only those essentials to achieve our purpose.
+              We add the <a href="https://en.wikipedia.org/wiki/Dieter_Rams#%22Good_design%22_principles" target="_blank">minimal amount of functions</a> to give the user everything the product promised.
+              We apply design in favor of aesthetic beauty, and aesthetic beauty in favor of function.
+              We write our articles with a minimum of words to say everything that needs to be said.
               <br>
               We avoid sacrificing the quality of something to get more of the same. <a href="https://www.akimbo.me/blog/s2-e2-it-s-not-about-the-chocolate" target="_blank">It's not about chocolate, Akimbo, Seth Godin</a>.
-              We avoid telling ourselves that something is finished when it still does not inspire beauty.
             </p>
         </div>
 
         <div id="em-largo-plazo" class="principle">
-            <h3>2. Long term and relevance</h3>
+            <h3>2. Long term</h3>
             <p>
-              We're not interested in easy money, nor ir pyramid schemes, nor in spam, nor in affiliate promotion of products that have short-term goals.
-              We are interested in contributing our momentum to the relevant changes; and by relevant we mean the big things and the little things that bring something positive into the life of one or many.
-              <br>
-                For this, our projects must begin with an ideal, a long-term vision, and from there to deconstruct its steps,
-                get to the short term that is where the need for immediate satisfaction is grounded, <a href="https://www.akimbo.me/blog/episode-15-in-the-long-run" target="_blank">The long term, Akimbo, Seth Godin,</a> the "network effect" <a href="https://www.akimbo.me/blog/episode-13-networks-lock-in-and-pathways" target="_blank">Networks and lockin, Akimbo, Seth Godin,</a> the day by day.
+              Minimum creates products that do not pursue perpetual growth, but rather perpetual improvement.
             </p>
             <p>
-              We never launch a new product for the sole purpose of making money, but with the goal of generating change or contributing something new, of making something unique, impertinent, efficient, better; without ignoring that we need to finance ideas, make them sustainable over time.
+              We launch ourselves into new projects with the objective of generating a change in the long run. To do something more efficiently, prettier, more transparent, simpler, healthier, better. To contribute something positive, however small the community or the project are.            
             </p>
             <p>
-              We do not work to level up by the concept of "more", but "better". That is the long-term vision of our products.
+              We never start new projects based on the objective of making money. We are not interested in pyramid schemes, or spam, or affiliation of products that think exclusively of immediate goals. Without ignoring that in order for ideas not to remain in an expression of will, we need to finance them, make them sustainable over time.
             </p>
         </div>
-
-        <div id="em-aventura" class="principle">
-            <h3>3. Adventure and rebellion</h3>
-            <p>
-              To make mistakes with merit, to achieve something relevant and have fun in the process, to avoid the predictable, what everyone does automatically or expect us to do, to stay focused we cultivate a spirit of adventure and rebellion that allows us to experience the things that not yet all understand.
-              <br>
-              So that something seems strange to someone. To overcome fears. To discover new ideas.
-              To launch ourselves into the adventure of calculated risks.
-            </p>
-        </div>
-
-
-
-        <div id="em-vanidad" class="principle">
-            <h3>4. Meritocracy</h3>
-            <p>
-              As idéias com os melhores méritos são aquelas em que focamos nossa energia, não as idéias que tinham a pessoa mais capaz de impor sua vaidade.
-            </p>
-            <p>
-              Como saber quando algumas ideias são melhores que outras? Seguindo uma forma aberta de discussão e um método científico de testar, analisar e corrigir erros (<a href="https://es.wikipedia.org/wiki/Lean_startup" target="_blank">Lean Startup</a>);
-              Um caminho que não é centrado em egos pessoais, mas guiado pela aventura de encontrar a melhor solução possível para um problema proposto para o qual temos uma solução.<br>
-
-            </p>
-        </div>
-
 
         <div id="em-verdad" class="principle">
-            <h3>5. Truth</h3>
+            <h3>3. Truth</h3>
             <p>
-              Criamos e desenvolvemos projetos para influenciar positivamente pessoas, família, amigos, funcionários, clientes, parceiros; isso inclui o indivíduo capaz de esquecer isto. Um sorriso e um bom dia nunca são demais mesmo para dar as piores notícias.
+              We develop products based on real needs.
+              Based on what people in their free choice want to do and do. To those minimum markets of our interest we try to contribute something, to make them healthier, more transparent, more accessible.
+              Not based on our personal ideals about what people should do. And they don't. Or about what we think that people should be interested in. And they are not.
             </p>
             <p>
-              Mas a gentileza não precisa ser confundida com evitar conflitos. Refere-se mais ao modo de enfrentá-los; distanciando-nos do outro o necessário para marcar nossa opinião de forma independente, mas ao mesmo tempo com respeito e gentileza.
-              <br>
-              Quando não fosse possível ser gentil (afinal somos governados por nossos medos e emoções), pelo menos corresponde um amável pedido de desculpas.
-              <br>
-           </p>
-           <p>
-              Dito isto, nunca pare de dizer uma verdade por medo de ser desagradável; caso contrário, é impossível descobrir as melhores ideias e manter relacionamentos saudáveis.
-              A verdade (que não é nada mais ou menos do que pensamos honestamente sobre um assunto) é a única maneira de tornar os fracassos em coisas úteis. Somente deixando o orgulho de lado e nos dizendo a verdade (não importa quão difícil seja) podemos analisar e corrigir os erros; também nos permite ficar entusiasmados com os bons resultados.
+              We create products and services to positively influence people, to promote their well-being, based on what they have chosen to do with their lives, not based on what we think they should live for.
+            </p>
+            <p>
+              On the other hand, the truth is the only way to make our failures useful.
+              Through it we can correct the course, analyze and repair errors on the way to a goal.
+            </p>
+        </div>        
+
+        <div id="em-aventura" class="principle">
+            <h3>4. Rebellion</h3>
+            <p>
+              We cultivate a spirit that allows us to experience things that are not yet understood.            
+            </p>
+            <p>
+              This requires honesty. And for that we know we have to be willing to generate controversy. We are stimulated by a challenging criticism, if it brings us all one step closer to a better understanding of a market need.
+            </p>
+            <p>
+              We are happy to make mistakes on the way to discover new ideas. To launch ourselves into the adventure of calculated risks.
             </p>
         </div>
 
 
 
         <div id="em-transparencia" class="principle">
-            <h3>6. Transparency</h3>
+            <h3>5. Transparency</h3>
             <p>
-              Nós usamos <a href="https://en.wikipedia.org/wiki/Open-book_management" target="_blank">OBM</a>.
+              Mínimo creates products that do not aim at perpetual growth. Instead each project has specific goals for profits and audiences, which we make public. Once reached, this allows us to focus on other aspects of the project (focus on "better" and not "more"), instead of constantly optimizing for profits.
+            </p>
+            <p>
+              To be credible in this regard, we promote the transparency of our revenues; and the transparency of the operation of our products, as well as their goals.
+            </p>
+            <p>
+              We use <a href="https://en.wikipedia.org/wiki/Open-book_management" target="_blank">OBM</a>.
             </p>
         </div>
 
 
         <div id="em-pasión" class="principle">
-            <h3>7. Focus</h3>
+            <h3>6. Foco</h3>
             <p>
-                Sem projetos que gerem paixão para os envolvidos e sem envolvimento apaixonado pelos projetos não há foco ou perseverança, sem isso é difícil atingir os objetivos porque eventualmente as coisas ficam difíceis e aqueles que têm essa motivação extra são aqueles que têm a melhor chance de ficar focados, com flexibilidade, em objetivos de longo prazo.
+              The effort to create products with long-term objectives, based on real needs, and carried out with transparency and a dose of rebellion, is important because it allows us to stay focused on doing a limited set of things very well, instead of dispersing efforts and resources to do a lot, in a mediocre way.
             </p>
+            <p>
+              To stimulate this, all projects at Mínimo begin with a vision, an aspiration, which is developed through the <a href="https://en.wikipedia.org/wiki/Lean_startup" target="_blank">Lean methodology</a>.
+            </p>            
         </div>
 
 
@@ -223,7 +208,7 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM  L.   I8
 
 
       <div class="principle Xlead">
-        <h3 id="influencias">Influências</h3>
+        <h3 id="influencias">Influences</h3>
         <p>
           Muji (無印良品), Paul Rand, Josef Müller-Brockmann, Naoto Fukasawa, Dieter Rams.
           <br>  
@@ -243,7 +228,7 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM  L.   I8
       <br><hr /><br><br>
 
       <div class="principle Xlead">
-        <h3 id="libros-minimos">Livros mínimos</h3>
+        <h3 id="libros-minimos">Minimum books</h3>
         <p>
           <a rel="nofollow" href="https://amzn.to/2NWyiTn" target="_blank">The element - Ken Robinson</a>
           <br>

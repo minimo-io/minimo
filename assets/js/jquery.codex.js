@@ -26,7 +26,8 @@
             final_text: $element.text(),
             reveal: 1000, // in char by char effect, this is the number of miliseconds that will take for char reveal
             total_iterations : 0,
-            interval : -1
+            interval : -1,
+            aftercall: function(){}
         }
 
 
@@ -92,6 +93,7 @@
                       plugin.settings.total_iterations = 0;
                       plugin.settings.interval = -1;
                       el.text(plugin.settings.final_text);
+                      plugin.settings.aftercall();
                   }
 
 
