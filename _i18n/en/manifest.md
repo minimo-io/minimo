@@ -8,7 +8,7 @@
             <a class="nav-link" href="#ethos">Manifest</a>
             <a class="nav-link active" href="#principios">Values</a>
             <a class="nav-link" href="#influencias">Influences</a>
-            <a class="nav-link" href="#libros-minimos">Minimum books</a>
+            <a class="nav-link" href="#libros-minimos">Minimal books</a>
           </nav>
         </center>
       </div>
@@ -95,7 +95,7 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM  L.   I8
 
           </pre>
 
-          to not be afraid displeasing the right people; in the face of <span class="strikeout">fu**#!g</span> prejudice, before our hasty judgments, before political correctness, before tribal resonance boxes.
+          to not be afraid displeasing the right people; in the face of <span class="strikeout">fu**#!g</span> prejudice, before our hasty judgments, before political correctness, before boxes of tribal resonance.
 
         </div>
       </div>
@@ -136,7 +136,7 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM  L.   I8
         <div id="em-largo-plazo" class="principle">
             <h3>2. Long term</h3>
             <p>
-              Minimum creates products that do not pursue perpetual growth, but rather perpetual improvement.
+              Mínimo creates products that do not pursue perpetual growth, but rather perpetual improvement.
             </p>
             <p>
               We launch ourselves into new projects with the objective of generating a change in the long run. To do something more efficiently, prettier, more transparent, simpler, healthier, better. To contribute something positive, however small the community or the project are.            
@@ -150,14 +150,14 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM  L.   I8
             <h3>3. Truth</h3>
             <p>
               We develop products based on real needs.
-              Based on what people in their free choice want to do and do. To those minimum markets of our interest we try to contribute something, to make them healthier, more transparent, more accessible.
+              Based on people's free choice, on what they want to do, and do. To those minimum markets of our interest we try to contribute something, to make them healthier, more transparent, more accessible.
               Not based on our personal ideals about what people should do. And they don't. Or about what we think that people should be interested in. And they are not.
             </p>
             <p>
-              We create products and services to positively influence people, to promote their well-being, based on what they have chosen to do with their lives, not based on what we think they should live for.
+              We create products and services to positively influence people, to promote their well-being, but based on what they have chosen to do with their lives, not on what we think they should.
             </p>
             <p>
-              On the other hand, the truth is the only way to make our failures useful.
+              On the other hand, truth is the only way to make our failures useful.
               Through it we can correct the course, analyze and repair errors on the way to a goal.
             </p>
         </div>        
@@ -168,7 +168,7 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM  L.   I8
               We cultivate a spirit that allows us to experience things that are not yet understood.            
             </p>
             <p>
-              This requires honesty. And for that we know we have to be willing to generate controversy. We are stimulated by a challenging criticism, if it brings us all one step closer to a better understanding of a market need.
+              This requires honesty. And for that we know we have to be willing to generate controversy. We are stimulated by challenging criticism, if it brings us all one step closer to a better understanding of a market need.
             </p>
             <p>
               We are happy to make mistakes on the way to discover new ideas. To launch ourselves into the adventure of calculated risks.
@@ -183,7 +183,7 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM  L.   I8
               Mínimo creates products that do not aim at perpetual growth. Instead each project has specific goals for profits and audiences, which we make public. Once reached, this allows us to focus on other aspects of the project (focus on "better" and not "more"), instead of constantly optimizing for profits.
             </p>
             <p>
-              To be credible in this regard, we promote the transparency of our revenues; and the transparency of the operation of our products, as well as their goals.
+              To be credible in this regard, we promote the transparency of our revenues; and transparency of the operation of our products, as well as their goals.
             </p>
             <p>
               We use <a href="https://en.wikipedia.org/wiki/Open-book_management" target="_blank">OBM</a>.
@@ -192,12 +192,12 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM  L.   I8
 
 
         <div id="em-pasión" class="principle">
-            <h3>6. Foco</h3>
+            <h3>6. Focus</h3>
             <p>
-              The effort to create products with long-term objectives, based on real needs, and carried out with transparency and a dose of rebellion, is important because it allows us to stay focused on doing a limited set of things very well, instead of dispersing efforts and resources to do a lot, in a mediocre way.
+              Our effort to create products with long-term goals, based on real needs, and carried out with transparency and a dose of rebellion, is important because it allows us to stay focused on doing a limited set of things very well, instead of dispersing efforts and resources to do a lot, in a mediocre way.
             </p>
             <p>
-              To stimulate this, all projects at Mínimo begin with a vision, an aspiration, which is developed through the <a href="https://en.wikipedia.org/wiki/Lean_startup" target="_blank">Lean methodology</a>.
+              To stimulate this, all projects at Mínimo begin with a vision, an aspiration, which is developed through the <a href="https://en.wikipedia.org/wiki/Lean_startup" target="_blank">Lean startup method</a>.
             </p>            
         </div>
 
@@ -228,7 +228,7 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM  L.   I8
       <br><hr /><br><br>
 
       <div class="principle Xlead">
-        <h3 id="libros-minimos">Minimum books</h3>
+        <h3 id="libros-minimos">Minimal books</h3>
         <p>
           <a rel="nofollow" href="https://amzn.to/2NWyiTn" target="_blank">The element - Ken Robinson</a>
           <br>

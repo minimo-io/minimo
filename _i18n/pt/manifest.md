@@ -26,7 +26,7 @@
           Perpetramos projetos digitais que buscam melhorar a realidade.
         </div>
         <p class="intro Xlead">
-          Estamos interessados em <span class="cross">marketing</span> mas não na febre irrefletida do consumo [<a href="https://www.youtube.com/watch?v=y6RYi4JFLbs" target="_blank">1</a>], a difussão de boas ideias e não a interrupção...
+          Estamos interessados em <span class="cross">marketing</span> mas não na febre irrefletida do consumo [<a href="https://www.youtube.com/watch?v=y6RYi4JFLbs" target="_blank">1</a>], na difussão de boas ideias e não a interrupção...
           <br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           constante de nossas vidas por produtos supérfluos [<a href="https://www.youtube.com/watch?v=kPSxzaer3HY" target="_blank">2</a>], na tecnologia e não nos produtos tecnológicos que abusam dos nossos instintos para rentabilizar a nossa <span class="atention animated infinite pulse">¡atenção!</span>; estamos interessados em negócios como uma maneira de financiar boas ideias, e não com a finalidade de financiar vaidades. A arte que nos desafia [<a href="https://vimeo.com/61877675" target="_blank">3</a>], inspira e liberta.
@@ -119,7 +119,7 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
             <p>
                 Fazemos o mínimo necessário para oferecer um produto excelente.
                 Adicionamos a <a href="https://en.wikipedia.org/wiki/Dieter_Rams#%22Good_design%22_principles" target="_blank">mínima quantidade de funções</a> para oferecer ao usuário tudo o que o produto promete.
-                Aplicamos o design em favor da beleza estética e a beleza estética em função da função.
+                Aplicamos o design em favor da beleza estética e a beleza estética em favor da função.
                 Escrevemos nossos artigos com o mínimo de palavras para dizer tudo o que precisa ser dito.
                 <br>
                 Evitamos sacrificar a qualidade de algo para obter mais do mesmo <a href="https://www.akimbo.me/blog/s2-e2-it-s-not-about-the-chocolate" target="_blank">It's not about chocolate, Akimbo, Seth Godin.</a>                
@@ -129,7 +129,7 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
         <div id="em-largo-plazo" class="principle">
             <h3>2. Longo prazo</h3>
             <p>
-              O mínimo cria produtos que não buscam um crescimento perpétuo, mas uma melhoria perpétua.
+              Mínimo cria produtos que não buscam um crescimento perpétuo, mas uma melhoria perpétua.
             </p>
             <p>
               Lançamo-nos em novos projetos com o objetivo de gerar uma mudança a longo prazo.
@@ -139,7 +139,7 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
             <p>
                 Nunca iniciamos um novo projeto com o único objetivo de ganhar dinheiro.
                 Não estamos interessados em esquemas de pirâmide, nem spam, nem afiliação a produtos que pensam em objetivos imediatos.
-                Mas não é por isso que não sabemos que, para que as idéias não permaneçam em uma expressão de vontade, precisamos financiá-las, torná-las sustentáveis, para que sejam sustentáveis ao longo do tempo.
+                Mas ao mesmo tempo sabemos que para que as idéias não permaneçam em uma expressão de vontade, precisamos financiá-las, torná-las sustentáveis, para que possam ser mantidas ao longo do tempo.
             </p>
         </div>
 
@@ -148,11 +148,11 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
             <h3>3. Verdade</h3>
             <p>
               Nós desenvolvemos produtos com base em necessidades reais.
-              Com base no que as pessoas de sua livre escolha querem fazer e fazer.
+              Com base no que as pessoas de sua livre escolha querem fazer e fazem.
               Para esses mercados mínimos, que são do nosso interesse, tentamos contribuir com algo, para torná-los mais saudáveis, mais transparentes e mais acessíveis. Não baseados em um ideal pessoal, sobre o que as pessoas devem fazer. E não fazem. Ou sobre o que as pessoas deveriam estar interessadas. E ele não estão.            
             </p>
             <p>
-              Criamos produtos e serviços para influenciar positivamente as pessoas, para promover seu bem-estar, com base no que elas optam por fazer com suas vidas, não com base a o que nós pensamos que deveriam viver.
+              Criamos produtos e serviços para influenciar positivamente as pessoas, para promover seu bem-estar, com base no que elas optam por fazer com suas vidas, e não na forma como nós consideramos que elas deveriam vivê-la.
            </p>
            <p>
               Por outro lado, a verdade é a única maneira de tornar nossas falhas em uma coisa útei.
