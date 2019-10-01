@@ -34,7 +34,7 @@
 
                         <div class="text-left">
                           <p id="profile-description" class="intro lead lead-text">
-                            Ex-partner @ WhiteMedia (2012-2019).
+                            Ex-socio @ WhiteMedia (2012-2019).
                             <br>
                             Product developer @ minimo.io (2019-∞).
                             <br>
