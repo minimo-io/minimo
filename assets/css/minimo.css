@@ -1137,7 +1137,7 @@ path {
 	margin-top:6%;
 	line-height:150%;
 	letter-spacing:1px;
-	text-align:justify;
+	text-align:left;
 }
 .post-content h3, .post-content h2, .post-content h1{
 	font-family:Courier, monospace;
@@ -1148,3 +1148,17 @@ path {
 }
 .through{ text-decoration:line-through; }
 #project-cost-details{ font-size:13px; }
+.project-betizen{
+	background-position:left;
+	padding-left:30px;
+	background-size:20%;
+	background-repeat: no-repeat;
+	background-image:url(https://www.betizen.org/wp-content/themes/aipim-theme/assets/favs/favicon-32x32.png);
+}
+.project-alt{
+	background-position:left;
+	padding-left:30px;
+	background-size:25%;
+	background-repeat: no-repeat;
+	background-image:url(../images/alt-favicon-32x32.png);
+}
