@@ -22,9 +22,20 @@ function hasTouch() {
            || navigator.maxTouchPoints > 0
            || navigator.msMaxTouchPoints > 0;
 }
-
+function minimo_close_menu(){
+  $("body").removeClass("menu-open");
+  $("#hamburger-show-menu").css("position", "absolute");
+}
 
 $(function(){
+
+  // menu escape function
+  $(document).keyup(function(e) {
+       if (e.keyCode == 27) { // escape key maps to keycode `27`
+         if ($("body").hasClass("menu-open")) $("#hamburger-show-menu").trigger("click");
+      }
+  });
+
   // On load animate
   setTimeout(function(){
     $("#hamburger-show-menu").removeClass("animated heartBeat");
@@ -46,15 +57,16 @@ $(function(){
   $("#hamburger-show-menu").click(function(){
     var buddy = $("body");
     if (buddy.hasClass("menu-open")){
-      buddy.removeClass("menu-open");
-      $("#hamburger-show-menu").css("position", "absolute");
+      minimo_close_menu();
     }else{
       $(".hide-on-menu").css("display", "none");
       $("#hamburger-show-menu").css("position", "fixed");
       buddy.addClass("menu-open");
+
     }
 
-    $("#menu").show();$("#contact").hide();
+    $("#menu").show();
+    $("#contact").hide();
 
     $("#fullscreen-menu").toggle(200, "swing", function(){
       if (! buddy.hasClass("menu-open"))  $(".hide-on-menu").css("display", "block");

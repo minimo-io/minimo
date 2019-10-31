@@ -117,7 +117,7 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM  L.   I8
           <li><a href="#em-verdad">Truth</a></li>          
           <li><a href="#em-aventura">Rebellion</a></li>
           <li><a href="#em-transparencia">Transparency</a></li>
-          <li><a href="#em-pasión">Focus</a></li>
+          <li><a href="#em-foco">Focus</a></li>
       </ol>
       <br><br>
       <div class="Xlead manifiesto-content">
@@ -191,7 +191,7 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM  L.   I8
         </div>
 
 
-        <div id="em-pasión" class="principle">
+        <div id="em-foco" class="principle">
             <h3>6. Focus</h3>
             <p>
               Our effort to create products with long-term goals, based on real needs, and carried out with transparency and a dose of rebellion, is important because it allows us to stay focused on doing a limited set of things very well, instead of dispersing efforts and resources to do a lot, in a mediocre way.

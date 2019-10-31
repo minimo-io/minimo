@@ -109,7 +109,7 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
           <li><a href="#em-verdad">Verdad</a></li>          
           <li><a href="#em-aventura">Rebeldía</a></li>
           <li><a href="#em-transparencia">Transparencia</a></li>
-          <li><a href="#em-pasión">Foco</a></li>
+          <li><a href="#em-foco">Foco</a></li>
       </ol>
       <br><br>
       <div class="Xlead manifiesto-content">
@@ -183,7 +183,7 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
         </div>
 
 
-        <div id="em-pasión" class="principle">
+        <div id="em-foco" class="principle">
             <h3>6. Foco</h3>
             <p>
                 El esfuerzo de crear productos con objetivos de largo plazo, basados en necesiades reales, y llevados adelante con transparencia y una dosis de rebeldía, es importante porque nos permite mantenernos enfocados en hacer muy bien un conjunto limitado de cosas, en vez de dispersar esfuerzos y recursos en hacer mucho, de forma mediocre.
