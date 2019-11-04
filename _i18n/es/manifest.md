@@ -22,13 +22,13 @@
           Mínimo es un laboratorio de ideas.
         </p>
         <div class="intro Xlead">
-          Perpetramos proyectos digitales que buscan mejorar la realidad.
+          Experimentamos con proyectos digitales que buscan mejorar alguna realidad.
         </div>
         <p class="intro Xlead">
-          Nos interesa el <span class="cross">marketing</span> pero no la fiebre irreflexiva de consumo [<a href="https://www.youtube.com/watch?v=y6RYi4JFLbs" target="_blank">1</a>], la disfusión de las buenas ideas y no la interrupción-
+          Nos interesa el <span class="cross">marketing</span> pero no la fiebre irreflexiva de consumo [<a href="https://www.youtube.com/watch?v=FTJLbnq48nI" target="_blank">1</a>][<a href="https://www.youtube.com/watch?v=ZK3c9GCjSx8" target="_blank">2</a>], la disfusión de las buenas ideas y no la interrupción-
           <br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          constante de nuestras vidas por productos superfluos [<a href="https://www.youtube.com/watch?v=kPSxzaer3HY" target="_blank">2</a>], la tecnología y no los productos tecnológicos que abusan de nuestros instintos para monetizar nuestra <span class="atention animated infinite pulse">¡atención!</span>; nos interesan los negocios como forma de financiar las buenas ideas, y no con el propósito de financiar vanidades. El arte que nos interpela [<a href="https://vimeo.com/61877675" target="_blank">3</a>], inspira y libera.
+          constante de nuestras vidas por productos superfluos [<a href="https://www.youtube.com/watch?v=kPSxzaer3HY" target="_blank">3</a>], la tecnología y no los productos tecnológicos que abusan de nuestros instintos para monetizar nuestra <span class="atention animated infinite pulse">¡atención!</span>; nos interesan los negocios como forma de financiar las buenas ideas, y no con el propósito de financiar vanidades. El arte que nos interpela [<a href="https://vimeo.com/61877675" target="_blank">4</a>], inspira y libera.
           <br>
           Somos optimistas.
 
@@ -45,7 +45,7 @@
         </p>
         <p class="intro Xlead">
           Queremos hacer cosas. Queremos difundir a quienes hacen cosas.
-          Pero no somos ingenuos, el mundo es incierto, <span class="holo">imperfecto</span> y con frecuencia <span class="upsidedown">difícil</span>; nuestro impacto puede ser <small class="even-smaller">grande</small> o <span class="big">pequeño</span>, pero las aventuras en las que nos embarquemos queremos que hagan la vida más bonita, o más saludable, o más <span class="spacedout">simple</span>, o más plena, o más <span class="elegant">elegante</span>, o más <span class="freedom">libre</span>.
+          Pero no somos ingenuos, el mundo es incierto, <span class="holo">imperfecto</span> y con frecuencia <span class="upsidedown">difícil</span>; nuestro impacto puede ser <small class="even-smaller">grande</small> o <span class="big">pequeño</span>, pero los experimentos en los que nos embarcamos queremos que hagan la vida más bonita, o más saludable, o más <span class="spacedout">simple</span>, o más plena, o más <span class="elegant">elegante</span>, o más <span class="freedom">libre</span>.
         </p>
         <div class="intro Xlead">
           No tenemos <i class="fas fa-clock fa-lg"></i> para otra cosa.
@@ -86,7 +86,7 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
 
           </pre>
 
-          para no tener miedo de desagradar a las personas adecuadas; ante los <span class="strikeout">p*@t#!</span> prejuicios, ante nuestros propios juicios apresurados, ante lo políticamente correcto, ante las cajas de resonancia tribales.
+          para no tener miedo de desagradar a las personas adecuadas, para poder experimentar con nuevas ideas; ante los <span class="strikeout">p*@t#!</span> prejuicios, ante nuestros propios juicios apresurados, ante lo políticamente correcto.
 
 
         </div>
@@ -107,7 +107,7 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
           <li><a href="#em-simple">Simplicidad</a></li>
           <li><a href="#em-largo-plazo">Largo plazo</a></li>
           <li><a href="#em-verdad">Verdad</a></li>          
-          <li><a href="#em-aventura">Rebeldía</a></li>
+          <li><a href="#em-exp">Experimentación</a></li>
           <li><a href="#em-transparencia">Transparencia</a></li>
           <li><a href="#em-foco">Foco</a></li>
       </ol>
@@ -116,7 +116,7 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
         <div id="em-simple" class="principle">
             <h3>1. Simplicidad</h3>
             <p>
-                Hacemos lo mínimo necesario para ofrecer un producto excelente.
+                En una época de ruido excesivo, hacemos lo mínimo necesario para ofrecer un producto excelente.
                 Agregamos la <a href="https://en.wikipedia.org/wiki/Dieter_Rams#%22Good_design%22_principles" target="_blank">mínima cantidad de funciones</a> para dar al usuario todo lo que el producto promete. Aplicamos el diseño en favor de la belleza estética, y la belleza estética en favor de la función.
                 Escribimos nuestros artículos con la mínima cantidad de palabras para decir todo lo que tiene que decirse.
                 <br>
@@ -156,13 +156,13 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
             </p>
         </div>
 
-        <div id="em-aventura" class="principle">
-            <h3>4. Rebeldía</h3>
+        <div id="em-exp" class="principle">
+            <h3>4. Experimentación</h3>
             <p>
                 Cultivamos un espíritu que nos permita experimentar las cosas que todavía no se entienden.
             </p>
             <p>
-              Esto requiere sinceridad. Y para ello hay que estar dispuestos a generar controversia. Nos estimula una crítica desafiante, si nos acerca a todos un paso más hacia una mejor comprensión de una necesidad.
+              Esto requiere sinceridad (para saber cuándo tomamos decisiones equivocadas), una buena visión de largo plazo y un <a href="https://alt.minimo.io/visita/the-lean-startup-eric-ries/" target="_blank" rel="sponsored">método de desarrollo</a>. Y para ello hay que estar dispuestos a generar controversia. Nos estimula una crítica desafiante, si nos acerca a todos un paso más hacia una mejor comprensión de una necesidad.
             </p>            
             <p>
                 Somos felices de equivocamos en el camino de descubrir nuevas ideas. De lanzarnos a la aventura de riesgos calculados.
@@ -186,7 +186,7 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
         <div id="em-foco" class="principle">
             <h3>6. Foco</h3>
             <p>
-                El esfuerzo de crear productos con objetivos de largo plazo, basados en necesiades reales, y llevados adelante con transparencia y una dosis de rebeldía, es importante porque nos permite mantenernos enfocados en hacer muy bien un conjunto limitado de cosas, en vez de dispersar esfuerzos y recursos en hacer mucho, de forma mediocre.
+                El esfuerzo de crear productos con objetivos de largo plazo, basados en necesiades reales, y llevados adelante con transparencia y una dosis de experimentación, es importante porque nos permite mantenernos enfocados en hacer muy bien un conjunto limitado de cosas, en vez de dispersar esfuerzos y recursos en hacer mucho, de forma mediocre.
             </p>
             <p>
                 Para estimular esto los proyectos de Mínimo comienzan con una visión, una aspiración, que se desarrolla a través de la metodología <a href="https://es.wikipedia.org/wiki/Lean_startup" target="_blank">Lean</a>.
@@ -204,33 +204,29 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
         <p>
           Muji (無印良品), Paul Rand, Josef Müller-Brockmann, Naoto Fukasawa, Dieter Rams.
           <br>  
-          Seth Godin, Robert Cialdini.        
-          <br>
-          René Magritte, Takeuchi Seihō (竹内 栖鳳), Egon Schiele, Ralph Steadman, Donald Judd, Brâncuși.
+          Seth Godin, Robert Cialdini.  Peter Thiel. Eric Ries.      
           <br>
           Man Ray. Julian Schulze. Kourtney Roy.
-          <br>
-          Jorge Alejandro Newbery, Benjamin Franklin, Bruce Lee.
-          <br>
-          Mónica Belucci :)
         </p>
       </div>
 
 
       <br><hr /><br><br>
 
-      <div class="principle Xlead">
+      <div class="principle">
         <h3 id="libros-minimos">Libros mínimos</h3>
         <p>
-          <a rel="nofollow" href="https://amzn.to/2NWyiTn" target="_blank">The element - Ken Robinson</a>
+          <a rel="sponsored" href="https://alt.minimo.io/visita/the-lean-startup-eric-ries/" target="_blank">The Lean Startup - Eric Ries</a>
           <br>
-          <a rel="nofollow" href="https://amzn.to/2EXrqRQ" target="_blank">This is marketing - Seth Godin</a>
+          <a rel="sponsored" href="https://alt.minimo.io/visita/zero-a-uno-peter-thiel/" target="_blank">Zero a uno: Cómo inventar el futuro - Peter Thiel</a>
           <br>
-          <a rel="nofollow" href="https://amzn.to/2Ceekiy" target="_blank">Guerrilla marketing - Jay Levinson</a>
+          <a rel="sponsored" href="https://alt.minimo.io/visita/el-elemento-ken-robinson/" target="_blank">El elemento - Ken Robinson</a>
           <br>
-          <a rel="nofollow" href="https://amzn.to/2EQM1qU" target="_blank">Influence - Robert Caldini</a>
+          <a rel="sponsored" href="https://alt.minimo.io/visita/this-is-marketing-seth-godin/" target="_blank">This is marketing - Seth Godin</a>
           <br>
-          <a rel="nofollow" href="https://amzn.to/2O0VfFe" target="_blank">The gift - Lewis Hyde</a>
+          <a rel="sponsored" href="https://alt.minimo.io/visita/guerrilla-marketing-jay-levinson/" target="_blank">Guerrilla marketing - Jay Levinson</a>
+          <br>
+          <a rel="sponsored" href="https://alt.minimo.io/visita/influence-robert-cialdini/" target="_blank">Influence, the psichology of persuasion - Robert Caldini</a>
         </p>
       </div>
 

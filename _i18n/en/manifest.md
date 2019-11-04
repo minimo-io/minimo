@@ -22,14 +22,14 @@
           Mínimo is an idea laboratory.
         </p>
         <div class="intro Xlead">
-          We perpetrate digital projects that seek to improve reality.
+          We experiment with digital projects that seek to improve some reality.
         </div>
         <p class="intro Xlead">
-          We are interested in <span class="cross">marketing</span> but not in a thoughtless consumption fever [<a href="https://www.youtube.com/watch?v=y6RYi4JFLbs" target="_blank">1</a>], in promoting good ideas and not in the constant...
+          We are interested in <span class="cross">marketing</span> but not in a thoughtless consumption fever [<a href="https://www.youtube.com/watch?v=FTJLbnq48nI" target="_blank">1</a>][<a href="https://www.youtube.com/watch?v=ZK3c9GCjSx8" target="_blank">2</a>], in promoting good ideas and not in the constant...
           <br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          interruption of our lives by superfluous products [<a href="https://www.youtube.com/watch?v=kPSxzaer3HY" target="_blank">2</a>], in technology and not in technological products that abuse our instincts to monetize our <span class="atention animated infinite pulse">attention!</span>; we are interested in business as a way to finance good ideas, not for the purpose of financing vanities.
-          Art that challenges [<a href="https://vimeo.com/61877675" target="_blank">3</a>], inspires and frees us.
+          interruption of our lives by superfluous products [<a href="https://www.youtube.com/watch?v=kPSxzaer3HY" target="_blank">3</a>], in technology and not in technological products that abuse our instincts to monetize our <span class="atention animated infinite pulse">attention!</span>; we are interested in business as a way to finance good ideas, not for the purpose of financing vanities.
+          Art that challenges [<a href="https://vimeo.com/61877675" target="_blank">4</a>], inspires and frees us.
           <br>
           We are optimists.
 
@@ -48,7 +48,7 @@
         <p class="intro Xlead">
           We want to make stuff. We want to spread the word about those who are also making stuff.
           But we are not naive, we know the world is uncertain, <span class="holo">imperfect</span> and often plain <span class="upsidedown">hard</span>; our impact can be <small class="even-smaller">big</small> or <span class="big">small</span>,
-          but the adventures in which we embark we want them to make life more beautiful or healthier, or <span class="spacedout">simpler</span>, or more complete, or more <span class="elegant">elegant</span>, or <span class="freedom">freer</span>.
+          but the experiments in which we embark we want them to make life more beautiful or healthier, or <span class="spacedout">simpler</span>, or more complete, or more <span class="elegant">elegant</span>, or <span class="freedom">freer</span>.
         </p>
         <div class="intro Xlead">
           We do not have <i class="fas fa-clock fa-lg"></i> for anything else.
@@ -95,7 +95,7 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM  L.   I8
 
           </pre>
 
-          to not be afraid displeasing the right people; in the face of <span class="strikeout">fu**#!g</span> prejudice, before our hasty judgments, before political correctness, before boxes of tribal resonance.
+          to not be afraid displeasing the right people, to be able to experiment with new ideas; in the face of <span class="strikeout">fu**#!g</span> prejudice, before our hasty judgments, before political correctness.
 
         </div>
       </div>
@@ -115,16 +115,16 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM  L.   I8
           <li><a href="#em-simple">Simplicity</a></li>
           <li><a href="#em-largo-plazo">Long term</a></li>
           <li><a href="#em-verdad">Truth</a></li>          
-          <li><a href="#em-aventura">Rebellion</a></li>
+          <li><a href="#em-exp">Experimentation</a></li>
           <li><a href="#em-transparencia">Transparency</a></li>
           <li><a href="#em-foco">Focus</a></li>
       </ol>
       <br><br>
-      <div class="Xlead manifiesto-content">
+      <div class="manifiesto-content">
         <div id="em-simple" class="principle">
             <h3>1. Simplicity</h3>
             <p>
-              We do the minimum necessary to offer an excellent product.
+              In a time of excessive noise, we do the minimum necessary to offer an excellent product.
               We add the <a href="https://en.wikipedia.org/wiki/Dieter_Rams#%22Good_design%22_principles" target="_blank">minimal amount of functions</a> to give the user everything the product promised.
               We apply design in favor of aesthetic beauty, and aesthetic beauty in favor of function.
               We write our articles with a minimum of words to say everything that needs to be said.
@@ -162,13 +162,13 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM  L.   I8
             </p>
         </div>        
 
-        <div id="em-aventura" class="principle">
-            <h3>4. Rebellion</h3>
+        <div id="em-exp" class="principle">
+            <h3>4. Experimentation</h3>
             <p>
               We cultivate a spirit that allows us to experience things that are not yet understood.            
             </p>
             <p>
-              This requires honesty. And for that we know we have to be willing to generate controversy. We are stimulated by challenging criticism, if it brings us all one step closer to a better understanding of a market need.
+              This requires honesty (to know when we took the wrong decisions), a good long-term vision and a <a href="https://alt.minimo.io/visita/the-lean-startup-eric-ries-en/" target="_blank" rel="sponsored">development method</a>. And for that we know we have to be willing to generate controversy. We are stimulated by challenging criticism, if it brings us all one step closer to a better understanding of a market need.
             </p>
             <p>
               We are happy to make mistakes on the way to discover new ideas. To launch ourselves into the adventure of calculated risks.
@@ -194,7 +194,7 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM  L.   I8
         <div id="em-foco" class="principle">
             <h3>6. Focus</h3>
             <p>
-              Our effort to create products with long-term goals, based on real needs, and carried out with transparency and a dose of rebellion, is important because it allows us to stay focused on doing a limited set of things very well, instead of dispersing efforts and resources to do a lot, in a mediocre way.
+              Our effort to create products with long-term goals, based on real needs, and carried out with transparency and a dose of experimentation, is important because it allows us to stay focused on doing a limited set of things very well, instead of dispersing efforts and resources to do a lot, in a mediocre way.
             </p>
             <p>
               To stimulate this, all projects at Mínimo begin with a vision, an aspiration, which is developed through the <a href="https://en.wikipedia.org/wiki/Lean_startup" target="_blank">Lean startup method</a>.
@@ -212,34 +212,29 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM  L.   I8
         <p>
           Muji (無印良品), Paul Rand, Josef Müller-Brockmann, Naoto Fukasawa, Dieter Rams.
           <br>  
-          Seth Godin, Robert Cialdini.        
-          <br>
-          René Magritte, Takeuchi Seihō (竹内 栖鳳), Egon Schiele, Ralph Steadman, Donald Judd, Brâncuși.
+          Seth Godin, Robert Cialdini.  Peter Thiel. Eric Ries.      
           <br>
           Man Ray. Julian Schulze. Kourtney Roy.
-          <br>
-          Jorge Alejandro Newbery, Benjamin Franklin, Bruce Lee.
-          <br>
-          Mónica Belucci :)
         </p>
       </div>
 
 
       <br><hr /><br><br>
 
-      <div class="principle Xlead">
+      <div class="principle">
         <h3 id="libros-minimos">Minimal books</h3>
         <p>
-          <a rel="nofollow" href="https://amzn.to/2NWyiTn" target="_blank">The element - Ken Robinson</a>
+          <a rel="sponsored" href="https://alt.minimo.io/visita/the-lean-startup-eric-ries-en/" target="_blank">The Lean Startup - Eric Ries</a>
           <br>
-          <a rel="nofollow" href="https://amzn.to/2EXrqRQ" target="_blank">This is marketing - Seth Godin</a>
+          <a rel="sponsored" href="https://alt.minimo.io/visita/zero-to-one-peter-thiel-en/" target="_blank">Zero to uno: How to invent the future - Peter Thiel</a>
           <br>
-          <a rel="nofollow" href="https://amzn.to/2Ceekiy" target="_blank">Guerrilla marketing - Jay Levinson</a>
+          <a rel="sponsored" href="https://alt.minimo.io/visita/the-element-ken-robinson/" target="_blank">The element - Ken Robinson</a>
           <br>
-          <a rel="nofollow" href="https://amzn.to/2EQM1qU" target="_blank">Influence - Robert Caldini</a>
+          <a rel="sponsored" href="https://alt.minimo.io/visita/this-is-marketing-seth-godin/" target="_blank">This is marketing - Seth Godin</a>
           <br>
-          <a rel="nofollow" href="https://amzn.to/2O0VfFe" target="_blank">The gift - Lewis Hyde</a>
-
+          <a rel="sponsored" href="https://alt.minimo.io/visita/guerilla-marketing-jay-levinson/" target="_blank">Guerrilla marketing - Jay Levinson</a>
+          <br>
+          <a rel="sponsored" href="https://alt.minimo.io/visita/influence-robert-cialdini/" target="_blank">Influence, the psichology of persuasion - Robert Caldini</a>        
         </p>
       </div>
 
