@@ -46,7 +46,7 @@
           to <sub> underestimate </sub> others or themselves and thus secure their position before the world.
         </p>
         <p class="intro Xlead">
-          We want to make stuff. We want to spread the word about those who also make stuff.
+          We want to make stuff. We want to spread the word about those who are also making stuff.
           But we are not naive, we know the world is uncertain, <span class="holo">imperfect</span> and often plain <span class="upsidedown">hard</span>; our impact can be <small class="even-smaller">big</small> or <span class="big">small</span>,
           but the adventures in which we embark we want them to make life more beautiful or healthier, or <span class="spacedout">simpler</span>, or more complete, or more <span class="elegant">elegant</span>, or <span class="freedom">freer</span>.
         </p>

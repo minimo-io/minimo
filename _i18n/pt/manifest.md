@@ -46,7 +46,7 @@
           para <sub>subestimar</sub> os outros ou a si mesmos e assim assegurar sua posição diante do mundo.
         </p>
         <p class="intro Xlead">
-          Nós queremos fazer coisas. Queremos espalhar para aqueles que fazem coisas.
+          Nós queremos fazer coisas. Queremos espalhar aqueles que fazem coisas.
           Mas nós não somos ingênuos, o mundo é incerto, <span class="holo">imperfeito</span> e muitas vezes <span class="upsidedown">difícil</span>; nosso impacto pode ser <small class="even-smaller">grande</small> o <span class="big">pequeno</span>, mas as aventuras em que nós embarcamos queremos que eles tornem a vida mais bonita ou mais saudável, ou mais <span class="spacedout">simples</span>, ou mais completa, ou mais <span class="elegant">elegante</span>, ou mais <span class="freedom">livre</span>.
         </p>
         <div class="intro Xlead">
@@ -110,7 +110,7 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
           <li><a href="#em-verdad">Verdade</a></li>          
           <li><a href="#em-aventura">Rebeldia</a></li>
           <li><a href="#em-transparencia">Transparência</a></li>
-          <li><a href="#em-pasión">Foco</a></li>
+          <li><a href="#em-foco">Foco</a></li>
       </ol>
       <br><br>
       <div class="Xlead manifiesto-content">
@@ -191,7 +191,7 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
         </div>
 
 
-        <div id="em-pasión" class="principle">
+        <div id="em-foco" class="principle">
             <h3>6. Foco</h3>
             <p>
               O esforço de criar produtos com objetivos de longo prazo, baseados em necessidades reais e levados adiante com transparência e uma dose de rebeldia, é importante porque nos permite manter o foco em fazer muito bem um conjunto limitado de coisas, em vez de dispersar esforços e recursos em fazer muitas, de maneira medíocre.
