@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ALT. Wordpress theme"
-image: "/assets/imgs/alt-theme.png"
+image: "/assets/imgs/alt.png"
 image_description: ""
 reading_time: "1:00"
 description: "Um tema minimalista para Wordpress, com foco absoluto no conteúdo."

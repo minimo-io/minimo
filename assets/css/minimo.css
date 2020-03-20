@@ -205,13 +205,18 @@ h2.bigtitle{
 	box-sizing: unset;
 	border-bottom: 1px solid #000;
 	padding-bottom: 3px;
-	font-family: "Space Mono", Courier, monospace;
+
 }
+#tell-me-moar a:first-of-type{ font-family: "Space Mono", Courier, monospace; }
 #tell-me-moar a{
 	color:#000;
 	font-size:8px;
 }
 #tell-me-moar a:hover{ color:#E83E8C; border-bottom:2px solid #0086B3; }
+.btn-studio{ font-family: "Space Mono", Courier, monospace;}
+.btn-studio i{
+	border-bottom:0 !important;
+}
 
 h2.bigtitle span, h2.bigtitle div, h2.secondtitle span{
 	color: #CBCFD3;
