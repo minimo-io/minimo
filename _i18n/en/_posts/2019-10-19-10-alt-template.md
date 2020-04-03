@@ -17,7 +17,7 @@ Inspired by what we consider to be some of the most notable digital magazines, w
 We set out to create a template that would get out of the way. One that avoids the temptation to interrupt the reader on its access to content.
 An adaptable interface for both desktop and mobile that allows a beautiful reading experience. A theme with the indispensable elements that would prioritize the beauty of images and typography, and at the same time flexible enough to fulfill a variety of functions, such as video and audio display, featured images, etc.
 
-With that in mind we began this 0.5 version of the <u>Alt Wordpress theme</u>. Available on <a href="https://github.com/minimo-io/alt-wordpress-theme" target="_blank">Github</a> and in the Wordpress repository.
+With that in mind we began this 0.5 version of the <u>Alt Wordpress theme</u>. Available on <a href="https://github.com/minimo-io/alt-wordpress-theme" target="_blank">Github</a> for free.
 
 ## Roadmap
 ### For v.1
