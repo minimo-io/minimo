@@ -4,7 +4,7 @@ title: "ALT. template + Wordpress theme"
 image: "/assets/imgs/alt.png"
 image_description: ""
 reading_time: "1:00"
-description: "A minimalist template and a Wordpress theme with absolute focus on content."
+description: "is a minimalist template and a Wordpress theme with absolute focus on content."
 keywords: "wordpress, theme, template, alt"
 categories: ['code', 'projects']
 author: nicolas_ea

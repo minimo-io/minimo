@@ -1,7 +1,7 @@
 <section id="sec-ethos">
   <div id="ethos" class="container bg-white">
 
-      <h1 class="over-title">Manifiesto</h1>
+      <h1 class="over-title"><i class="fas fa-heart pr-3 d-none d-lg-inline-block"></i>Manifiesto</h1>
       <div class="nav-scroller">
         <center>
           <nav class="nav nav-underline" style="display:inline-flex;">
