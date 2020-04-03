@@ -22,7 +22,7 @@
           Mínimo is an idea laboratory.
         </p>
         <div class="intro Xlead">
-          We experiment with digital projects that seek to improve some reality.
+          We are a group of creators interested in experimenting with <a href="{% tl projects %}" title="Projects at Mínimo">digital projects</a> that seek to improve reality.
         </div>
         <p class="intro Xlead">
           We are interested in <span class="cross">marketing</span> but not in a thoughtless consumption fever [<a href="https://www.youtube.com/watch?v=FTJLbnq48nI" target="_blank">1</a>][<a href="https://www.youtube.com/watch?v=ZK3c9GCjSx8" target="_blank">2</a>], in promoting good ideas and not in the constant...

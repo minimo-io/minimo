@@ -23,7 +23,7 @@
           Mínimo é um laboratório de idéias.
         </p>
         <div class="intro Xlead">
-          Experimentamos com projetos digitais que buscam melhorar alguma realidade.
+          Somos um grupo de criadores interessados em experimentar com <a href="{% tl projects %}" title="Projetos em Mínimo">projetos digitais</a> que buscam melhorar a realidade.
         </div>
         <p class="intro Xlead">
           Estamos interessados em <span class="cross">marketing</span> mas não na febre irrefletida do consumo [<a href="https://www.youtube.com/watch?v=FTJLbnq48nI" target="_blank">1</a>][<a href="https://www.youtube.com/watch?v=ZK3c9GCjSx8" target="_blank">2</a>], na difussão de boas ideias e não a interrupção...
