@@ -628,7 +628,7 @@ body.menu-open {
 }
 @media (max-width: 610px){
 	.over-title:first-child{
-		margin-top:154px !important;
+		margin-top:140px !important;
 	}
 	.post-header:first-child{ margin-top:125px !important; }
 	.over-title{ 	font-size:200% !important; }
