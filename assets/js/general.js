@@ -34,6 +34,16 @@ $(function(){
        if (e.keyCode == 27) { // escape key maps to keycode `27`
          if ($("body").hasClass("menu-open")) $("#hamburger-show-menu").trigger("click");
       }
+      if (e.keyCode == 77) { // "m"
+        $("#hamburger-show-menu").trigger('click');
+      }
+  });
+
+  $(document).on('click', 'a[href^="#"]', function (event) {
+      //event.preventDefault();
+      $('html, body').animate({
+          scrollTop: $($.attr(this, 'href')).offset().top - 20
+      }, 500);
   });
 
   // On load animate

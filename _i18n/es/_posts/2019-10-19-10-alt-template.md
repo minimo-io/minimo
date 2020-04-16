@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ALT. template + Wordpress theme"
+title: "ALT. template"
 image: "/assets/imgs/alt.png"
 image_description: ""
 reading_time: "1:00"
@@ -10,14 +10,17 @@ categories: ['code', 'projects']
 author: nicolas_ea
 ---
 
-Al buscar un theme para nuestros proyectos basados en contenido, nos dimos cuenta que no existía un template que estuviera en sintonía con los principios de diseño de Mínimo.
+ALT. es un template basado en Boostrap que funciona como base visual de los proyectos in-house de Mínimo.
 
-Inspirados en lo que a nuestro criterio son algunas las revistas digitales mas notables, decidimos crear "ALT.", un template y theme para para Wordpress, con licencia libre, minimalista y con foco absoluto en el contenido.
+Cuenta con versiones [HTML](https://github.com/minimo-io/alt-template) y [Wordpress](https://github.com/minimo-io/alt-wordpress-theme), una licencia libre, una inspiración minimalista y foco absoluto en el contenido.
 
-Nos propusimos un theme que se corriera del medio. Uno que no interrumpiera al usuario en su acceso al contenido. Una interface adaptable tanto a escritorio como a dispositivos móviles que permitiera una experiencia de lectura bonita. Un tema que dispusiera los elementos indispensables priorizando la belleza de las imágenes y las tipografías, y al mismo tiempo lo suficientemente flexible para cumplir una variedad de funciones como el display de video, la presentación de audio, las imágenes destacadas, etc.
+Su propósitos son:
 
-Con eso en mente comenzamos esta versión 0.5 del <u>template Alt y el theme para Wordpress</u>. Disponible en <a href="https://github.com/minimo-io/alt-template" target="_blank">Github</a> para su uso libre y gratuito.
-<br><br>
-<div class="alert alert-success text-justify" role="alert">
-  Para ver el roadmap de nuevas funciones, los bugs conocidos e información actualizada sobre este theme <a href="https://minimo.io/en/2019/10-alt-template/">vista el artículo en inglés</a>.
-</div>
+1. Dar una coherencia general de diseño a todos los productos del laboratorio.
+2. Mantener una filosofía minimalista, centrada en el contenido.
+3. Ser un template versátil y fácilmente extensible, que se adapte a las necesidades específicas de cada uno de los productos.
+4. Acelerar la velocidad del prototipado de productos.
+
+Nos propusimos un template que se corriera del medio. Uno que no interrumpiera al usuario en su acceso al contenido. Una interface adaptable, mobile-first, que permitiera una experiencia de lectura bonita. Un tema que dispusiera los elementos indispensables priorizando la belleza de las imágenes y las tipografías, y al mismo tiempo lo suficientemente flexible para cumplir una variedad de funciones como el display de video, la presentación de audio, las imágenes destacadas, tanto en comunidades complejas como en blogs sencillos.
+
+ALT. cuenta con un código abierto, disponible en [Github](https://github.com/minimo-io/alt-template) para su uso libre y gratuito. Y un [roadmap público](https://www.notion.so/minimo/3e1975e420e749618d263dcadc41411b?v=bec9c08c1461402fb51d5ed440a378b9) (en español).
