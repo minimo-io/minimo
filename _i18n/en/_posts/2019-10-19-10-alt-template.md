@@ -10,7 +10,7 @@ categories: ['code', 'projects']
 author: nicolas_ea
 ---
 
-ALT. is a Bootstrap-based template that works as the visual base for Mínimo's in-house projects.
+ALT. is an universal Bootstrap-based template that works as the visual base for Mínimo's in-house projects.
 
 It has an [HTML](https://github.com/minimo-io/alt-template) and a [Wordpress](https://github.com/minimo-io/alt-wordpress-theme) version, a free license, a minimalist inspiration and absolute focus on content.
 

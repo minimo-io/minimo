@@ -14,9 +14,7 @@
         </center>
       </div>
       <br>
-      <div class="alert alert-warning text-center" role="alert">
-        <strong>Se você realmente quer nos odiar, leia o nosso artigo </strong> <a href="/pt/2019/8/" class="alert-link">«Uma opinião sobre publicidade»</a>.
-      </div>
+      <div class="alert alert-warning text-center" role="alert"> <strong>VOCÊ É UM CRIADOR? </strong> Estamos expandindo nosso equipe de experimentação. Se você estiver interessado na <a href="/pt/2019/minimo/">proposta</a> e tiver habilidades em <strong>UX/Design</strong> <a href="{{site.whatsapp}}" rel="nofollow" target="_blank">entre em contato</a> para coordenar onde tomar um delicioso <i class="fas fa-mug-hot"></i> juntos. </div>
       <br>
       <div>
         <p class="intro Xlead">
@@ -104,6 +102,13 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
       <h2 id="principios" class="over-title">Princípios</h2>
       <br><br>
 
+      <div class="alert alert-info mb-5 text-center" role="alert">
+      Mínimo é baseado na eficiência: Na realização de
+      um conjunto limitado de coisas com a mais alta qualidade possível e da maneira mais simples possível.
+      E é baseado em uma filosofia de experimentação na qual os esforços se compõem:
+      Onde cada novo experimento é mais fácil de executar do que a anterior.
+      </div>      
+
       <ol class="principles-list">
           <li><a href="#em-simple">Simplicidade</a></li>
           <li><a href="#em-largo-plazo">Longo prazo</a></li>
@@ -120,16 +125,18 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
                 Numa época de ruído excessivo, fazemos o mínimo necessário para oferecer um produto excelente.
                 Adicionamos a <a href="https://en.wikipedia.org/wiki/Dieter_Rams#%22Good_design%22_principles" target="_blank">mínima quantidade de funções</a> para oferecer ao usuário tudo o que o produto promete.
                 Aplicamos o design em favor da beleza estética e a beleza estética em favor da função.
-                Escrevemos nossos artigos com o mínimo de palavras para dizer tudo o que precisa ser dito.
                 <br>
-                Evitamos sacrificar a qualidade de algo para obter mais do mesmo <a href="https://www.akimbo.me/blog/s2-e2-it-s-not-about-the-chocolate" target="_blank">It's not about chocolate, Akimbo, Seth Godin.</a>                
+                Evitamos sacrificar a qualidade de algo para obter mais do mesmo.<br><a href="https://www.akimbo.me/blog/s2-e2-it-s-not-about-the-chocolate" target="_blank">It's not about chocolate, Akimbo, Seth Godin.</a>                
             </p>
         </div>
 
         <div id="em-largo-plazo" class="principle">
             <h3>2. Longo prazo</h3>
             <p>
-              Mínimo cria produtos que não buscam um crescimento perpétuo, mas uma melhoria perpétua.
+              Mínimo cria produtos que não se concentram no crescimento perpétuo, mas na melhoria perpétua.
+              Isso não significa crescer menos, significa outra maneira de fazê-lo, uma na qual esforços, audiências, lucros se acumulam ao longo do tempo, com base na excelência e eficiência na maneira de criar produtos e serviços.
+              <br>
+              <a href="https://www.ted.com/talks/margaret_heffernan_forget_the_pecking_order_at_work">Forget the pecking order at work, TED, Margaret Hefferman</a>.
             </p>
             <p>
               Lançamo-nos em novos projetos com o objetivo de gerar uma mudança a longo prazo.
@@ -155,8 +162,7 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
               Criamos produtos e serviços para influenciar positivamente as pessoas, para promover seu bem-estar, com base no que elas optam por fazer com suas vidas, e não na forma como nós consideramos que elas deveriam vivê-la.
            </p>
            <p>
-              Por outro lado, a verdade é a única maneira de tornar nossas falhas em uma coisa útei.
-              Através dela, podemos corrigir o curso, analisar e reparar erros no caminho para uma meta.
+              Por outro lado, a verdade, que escolhemos acessar por meio de dados, não opiniões, é a única maneira de tornar nossas falhas em uma coisa útei. Através dela, podemos corrigir o curso dos projetos, analisar e reparar erros no caminho para uma meta.
             </p>
         </div>
 
@@ -164,10 +170,10 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
         <div id="em-exp" class="principle">
             <h3>4. Experimentação</h3>
             <p>
-                Cultivamos um espírito que nos permite experimentar coisas que ainda não são compreendidas.
+                Cultivamos um espírito que nos permite experimentar coisas.
             </p>
             <p>
-                Isso requer sinceridade (para saber quando tomamos as decisões erradas), uma boa visão de longo prazo e um <a href="https://alt.minimo.io/visita/the-lean-startup-eric-ries-en/" rel="sponsored" target="_blank">método de desenvolvimento</a>. E para isso temos que estar dispostos a gerar polêmica. Somos estimulados por uma crítica desafiadora, se ela nos aproximar um pouco mais para uma melhor compreensão de uma necessidade.
+                Isso requer <a href="#em-verdad">sinceridade</a> para saber quando tomamos as decisões erradas, uma boa visão de longo prazo e um <a href="https://alt.minimo.io/visita/the-lean-startup-eric-ries-en/" rel="sponsored" target="_blank">método de desenvolvimento</a>. E para isso temos que estar dispostos a gerar polêmica. Somos estimulados por uma crítica desafiadora, se ela nos aproximar um pouco mais para uma melhor compreensão de uma necessidade.
             </p>
             <p>
                 Estamos felizes em cometer erros no caminho para descobrir novas idéias. Para nos lançarmos na aventura de riscos calculados.
@@ -180,13 +186,10 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
         <div id="em-transparencia" class="principle">
             <h3>5. Transparência</h3>
             <p>
-              A Mínimo criamos produtos que não apontam para um crescimento perpétuo; em vez disso, cada projeto tem objetivos específicos de lucros, que tornamos públicos. Uma vez atingidos esses objetivos, isso nos permite focar em outras facetas do desenvolvimento ("melhor" e não "mais"), em vez de otimizar constantemente para o lucro.
+              Em Mínimo criamos produtos com objetivos específicos de lucros e audiências, que tornamos públicos. Uma vez atingidos esses objetivos, isso nos permite focar em outras facetas do desenvolvimento ("melhor" e não "mais"), em vez de otimizar exclusivamente para uma das facetas, como o lucro.
             </p>
             <p>
               Para ter credibilidade a esse respeito, promovemos a transparência de nossos ganhos; e a transparência da operação de nossos produtos, bem como seus objetivos.
-            </p>
-            <p>
-              Nós usamos <a href="https://en.wikipedia.org/wiki/Open-book_management" target="_blank">OBM</a>.
             </p>
         </div>
 

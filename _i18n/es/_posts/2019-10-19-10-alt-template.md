@@ -10,7 +10,7 @@ categories: ['code', 'projects']
 author: nicolas_ea
 ---
 
-ALT. es un template basado en Boostrap que funciona como base visual de los proyectos in-house de Mínimo.
+ALT. es un template universal basado en Boostrap que funciona como base visual de los proyectos in-house de Mínimo.
 
 Cuenta con versiones [HTML](https://github.com/minimo-io/alt-template) y [Wordpress](https://github.com/minimo-io/alt-wordpress-theme), una licencia libre, una inspiración minimalista y foco absoluto en el contenido.
 

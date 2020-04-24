@@ -13,9 +13,7 @@
         </center>
       </div>
       <br>
-      <div class="alert alert-warning text-center" role="alert">
-        <strong>Si de verdad querés odiarnos, lee nuestro artículo </strong> <a href="/2019/8/" class="alert-link">«Una opinión sobre publicidad»</a>.
-      </div>     
+      <div class="alert alert-warning text-center" role="alert"> <strong>¿SOS UN CREADOR? </strong> Estamos expandiendo nuestro equipo de experimentación. Si te interesa <a href="/2019/minimo/">la propuesta</a> y tenés habiliades en <strong>UX/Diseño</strong> <a href="{{site.whatsapp}}" rel="nofollow" target="_blank">ponete en contacto</a> para coordinar donde tomar un rico <i class="fas fa-mug-hot"></i> juntos. </div>    
       <br>
       <div>
         <p class="intro Xlead">
@@ -103,6 +101,13 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
       <h2 id="principios" class="over-title">Principios</h2>
       <br><br>
 
+      <div class="alert alert-info mb-5 text-center" role="alert">
+      Mínimo se basa en la eficiencia: En realizar
+      un conjunto limitado de cosas con mucha calidad y de la forma mas simple posible.
+      Y en una filosofía de experimentación en la que los esfuerzos compongan:
+      Que cada nuevo experimento sea mas sencillo de ejecutar que el anterior.
+      </div>      
+
       <ol class="principles-list">
           <li><a href="#em-simple">Simplicidad</a></li>
           <li><a href="#em-largo-plazo">Largo plazo</a></li>
@@ -118,16 +123,18 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
             <p>
                 En una época de ruido excesivo, hacemos lo mínimo necesario para ofrecer un producto excelente.
                 Agregamos la <a href="https://en.wikipedia.org/wiki/Dieter_Rams#%22Good_design%22_principles" target="_blank">mínima cantidad de funciones</a> para dar al usuario todo lo que el producto promete. Aplicamos el diseño en favor de la belleza estética, y la belleza estética en favor de la función.
-                Escribimos nuestros artículos con la mínima cantidad de palabras para decir todo lo que tiene que decirse.
                 <br>
-                Evitamos sacrificar la calidad de algo para conseguir más de lo mismo <a href="https://www.akimbo.me/blog/s2-e2-it-s-not-about-the-chocolate" target="_blank">It's not about chocolate, Akimbo, Seth Godin.</a>
+                Evitamos sacrificar la calidad de algo para conseguir más de lo mismo.
+                <br><a href="https://www.akimbo.me/blog/s2-e2-it-s-not-about-the-chocolate" target="_blank">It's not about chocolate, Akimbo, Seth Godin.</a>
             </p>
         </div>
 
         <div id="em-largo-plazo" class="principle">
             <h3>2. Largo plazo</h3>
             <p>
-                Mínimo crea productos que no persiguen al crecimiento perpetuo, sino la mejora perpetua.
+                Mínimo crea productos que no se enfocan en el crecimiento perpetuo, sino en la mejora perpetua. Esto no significa crecer menos, significa otra forma de hacerlo, una en la que los esfuerzos, las audiencias, las ganancias, componen unos sobre otras en el tiempo, a partir de la excelencia y la eficiencia en la forma de crear productos y servicios.
+                <br>
+                <a href="https://www.ted.com/talks/margaret_heffernan_forget_the_pecking_order_at_work">Forget the pecking order at work, TED, Margaret Hefferman</a>.
             </p>            
             <p>
                 Nos lanzamos a los nuevos proyectos con el objetivo de generar un cambio en el largo plazo.
@@ -135,7 +142,7 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
                 De aportar algo positivo, por pequeña que sea la comunidad a la que queramos contribuír.
             </p>
             <p>
-                Nunca comenzamos un nuevo proyecto a partir del objetivo de hacer dinero. No nos interesan los sistemas piramidales, ni el spam, ni la afiliación a productos que piensan en objetivos inmediatos. Pero no por eso desconocemos que para que las ideas no se queden en una expresión de voluntad, necesitamos financiarlas, hacerlas sustentables, para que sean sostenible en el tiempo.
+                Nunca comenzamos un nuevo proyecto a partir del único objetivo de hacer dinero. No nos interesan los sistemas piramidales, ni el spam, ni la afiliación a productos que piensan en objetivos inmediatos. Pero no por eso desconocemos que para que las ideas no se queden en una expresión de voluntad, necesitamos financiarlas, hacerlas sustentables, para que sean sostenible en el tiempo.
             </p>            
         </div>
 
@@ -144,25 +151,24 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
             <h3>3. Verdad</h3>
             <p>
               Desarrollamos productos basados en necesidades reales.  
-              Basados lo que la gente en su libre elección tiene ganas de hacer y hace. A esos mercados mínimos, que son de nuestro interés, intentamos contribuir con algo; hacerlos mas transparentes, mas accesibles.
+              Basados lo que la gente en su libre elección tiene ganas de hacer y hace. A esos mercados mínimos, que son de nuestro interés, intentamos contribuir con algo; hacerlos mas transparentes, mas accesibles, mejores.
               No basados en un ideal personal, sobre lo que la gente debería hacer. Y no hace. O sobre lo que a la gente debería interesarle. Y no le interesa.
             </p>
             <p>
               Creamos productos y servicios para influír positivamente en las personas, para fomentar su bienestar, basados en lo que ellas eligen hacer con sus vidas, no en cómo nosotros consideramos que deberían vivirlas.
             </p>
            <p>
-              Por otra parte, la verdad es la única forma de hacer que nuestros fracasos tengan utilidad.
-              A través de ella podemos corregir el rumbo, analizar y reparar errores en el camino hacia un objetivo.
+              Por otra parte, la verdad, a la que elegimos acceder mediante datos no opiniones, es la única forma de hacer que nuestros fracasos tengan utilidad. A través de ella podemos corregir el rumbo de los proyectos, analizar y reparar errores en el camino hacia un objetivo.
             </p>
         </div>
 
         <div id="em-exp" class="principle">
             <h3>4. Experimentación</h3>
             <p>
-                Cultivamos un espíritu que nos permita experimentar las cosas que todavía no se entienden.
+                Cultivamos un espíritu que nos permita experimentar.
             </p>
             <p>
-              Esto requiere sinceridad (para saber cuándo tomamos decisiones equivocadas), una buena visión de largo plazo y un <a href="https://alt.minimo.io/visita/the-lean-startup-eric-ries/" target="_blank" rel="sponsored">método de desarrollo</a>. Y para ello hay que estar dispuestos a generar controversia. Nos estimula una crítica desafiante, si nos acerca a todos un paso más hacia una mejor comprensión de una necesidad.
+              Esto requiere <a href="#em-verdad">sinceridad</a> para saber cuándo tomamos decisiones equivocadas, una buena visión de largo plazo y un <a href="https://alt.minimo.io/visita/the-lean-startup-eric-ries/" target="_blank" rel="sponsored">método de desarrollo</a>. Y para ello hay que estar dispuestos a generar controversia. Nos estimula una crítica desafiante, si nos acerca a todos un paso más hacia una mejor comprensión de una necesidad.
             </p>            
             <p>
                 Somos felices de equivocamos en el camino de descubrir nuevas ideas. De lanzarnos a la aventura de riesgos calculados.
@@ -172,13 +178,10 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
         <div id="em-transparencia" class="principle">
             <h3>5. Transparencia</h3>
             <p>
-              Mínimo crea productos que no apuntan al crecimiento perpetuo, sino que cada proyecto tiene objetivos concretos de ganancias y audiencias, los cuales hacemos públicos. Una vez cumplidos, esto nos permite enfocarnos en otras facetas del proyecto (en "mejor" y no en "mas"), en vez de optimizar constantemente para las ganancias.
+              Mínimo crea productos que con objetivos concretos de ganancias y audiencias, los cuales hacemos públicos. Una vez cumplidos, esto nos permite enfocarnos en otras facetas del proyecto (en "mejor" y no en "mas"), en vez de optimizar exclusivamente para una de ellas, como las ganancias.
             </p>
             <p>
               Para ser creíbles en este sentido, promovemos la transparencia de nuestros revenues; y la transparencia del funcionamiento de nuestros productos, así como sus objetivos.            
-            </p>
-            <p>
-              Usamos <a href="https://en.wikipedia.org/wiki/Open-book_management" target="_blank">OBM</a>.
             </p>
         </div>
 

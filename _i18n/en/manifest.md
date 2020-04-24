@@ -13,9 +13,8 @@
         </center>
       </div>
       <br>
-      <div class="alert alert-warning text-center" role="alert">
-        <strong>If you really want to hate us, read our article </strong> <a href="/en/2019/8/" class="alert-link">«Our take on advertising»</a>.
-      </div>
+      <div class="alert alert-warning text-center" role="alert"> <strong>ARE YOU A CREATOR? </strong> We are expanding our experimentation team. If you are interested in <a href="/en/2019/minimo/">the proposal</a> and you have <strong>UX/Design skills</strong>
+       <a href="{{site.whatsapp}}" rel="nofollow" target="_blank">get in touch</a> to coordinate where to have a delicious <i class="fas fa-mug-hot"></i> together. </div>  
       <br>
       <div>
         <p class="intro Xlead">
@@ -111,6 +110,13 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM  L.   I8
       <h2 id="principios" class="over-title">Values</h2>
       <br><br>
 
+      <div class = "alert alert-info mb-5 text-center" role = "alert">
+      Mínimo is based on efficiency: In performing
+      a limited set of things with the highest possible quality and in the simplest possible way.
+      And is based on a philosophy of experimentation in which efforts compound:
+      Where each new experiment is easier to execute than the previous one.
+      </div>      
+
       <ol class="principles-list">
           <li><a href="#em-simple">Simplicity</a></li>
           <li><a href="#em-largo-plazo">Long term</a></li>
@@ -127,22 +133,24 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM  L.   I8
               In a time of excessive noise, we do the minimum necessary to offer an excellent product.
               We add the <a href="https://en.wikipedia.org/wiki/Dieter_Rams#%22Good_design%22_principles" target="_blank">minimal amount of functions</a> to give the user everything the product promised.
               We apply design in favor of aesthetic beauty, and aesthetic beauty in favor of function.
-              We write our articles with a minimum of words to say everything that needs to be said.
               <br>
-              We avoid sacrificing the quality of something to get more of the same. <a href="https://www.akimbo.me/blog/s2-e2-it-s-not-about-the-chocolate" target="_blank">It's not about chocolate, Akimbo, Seth Godin</a>.
+              We avoid sacrificing the quality of something to get more of the same. <br><a href="https://www.akimbo.me/blog/s2-e2-it-s-not-about-the-chocolate" target="_blank">It's not about chocolate, Akimbo, Seth Godin</a>.
             </p>
         </div>
 
         <div id="em-largo-plazo" class="principle">
             <h3>2. Long term</h3>
             <p>
-              Mínimo creates products that do not pursue perpetual growth, but rather perpetual improvement.
+              Mínimo creates products that do not focus on  perpetual growth but rather on perpetual improvement.
+              This does not mean growing less, it means another way of doing it, one in which efforts, audiences, profits, compound one over the other over time, based on excellence and efficiency in the way of creating products and services.
+              <br>
+              <a href="https://www.ted.com/talks/margaret_heffernan_forget_the_pecking_order_at_work">Forget the pecking order at work, TED, Margaret Hefferman</a>.              
             </p>
             <p>
               We launch ourselves into new projects with the objective of generating a change in the long run. To do something more efficiently, prettier, more transparent, simpler, healthier, better. To contribute something positive, however small the community or the project are.            
             </p>
             <p>
-              We never start new projects based on the objective of making money. We are not interested in pyramid schemes, or spam, or affiliation of products that think exclusively of immediate goals. Without ignoring that in order for ideas not to remain in an expression of will, we need to finance them, make them sustainable over time.
+              We never start new projects with the only objective of making money. We are not interested in pyramid schemes, or spam, or affiliation of products that think exclusively of immediate goals. Without ignoring that in order for ideas not to remain in an expression of will, we need to finance them, make them sustainable over time.
             </p>
         </div>
 
@@ -157,18 +165,17 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM  L.   I8
               We create products and services to positively influence people, to promote their well-being, but based on what they have chosen to do with their lives, not on what we think they should.
             </p>
             <p>
-              On the other hand, truth is the only way to make our failures useful.
-              Through it we can correct the course, analyze and repair errors on the way to a goal.
+              On the other hand, truth, which we choose to access through data not opinions, is the only way to make our failures useful. Through it we can correct the course of our projects, analyze and repair errors on the way to a goal.
             </p>
         </div>        
 
         <div id="em-exp" class="principle">
             <h3>4. Experimentation</h3>
             <p>
-              We cultivate a spirit that allows us to experience things that are not yet understood.            
+              We cultivate a spirit that allows us to experience things.            
             </p>
             <p>
-              This requires honesty (to know when we took the wrong decisions), a good long-term vision and a <a href="https://alt.minimo.io/visita/the-lean-startup-eric-ries-en/" target="_blank" rel="sponsored">development method</a>. And for that we know we have to be willing to generate controversy. We are stimulated by challenging criticism, if it brings us all one step closer to a better understanding of a market need.
+              This requires <a href="#em-verdad">honesty</a> to know when we took the wrong decisions, a good long-term vision and a <a href="https://alt.minimo.io/visita/the-lean-startup-eric-ries-en/" target="_blank" rel="sponsored">development method</a>. And for that we know we have to be willing to generate controversy. We are stimulated by challenging criticism, if it brings us all one step closer to a better understanding of a market need.
             </p>
             <p>
               We are happy to make mistakes on the way to discover new ideas. To launch ourselves into the adventure of calculated risks.
@@ -180,13 +187,10 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM  L.   I8
         <div id="em-transparencia" class="principle">
             <h3>5. Transparency</h3>
             <p>
-              Mínimo creates products that do not aim at perpetual growth. Instead each project has specific goals for profits and audiences, which we make public. Once reached, this allows us to focus on other aspects of the project (focus on "better" and not "more"), instead of constantly optimizing for profits.
+              Mínimo creates products that have specific goals for profits and audiences, which we make public. Once reached, this allows us to focus on other aspects of the project (on "better" rather than "more"), instead of exclusively optimizing for one aspect, like profits.
             </p>
             <p>
               To be credible in this regard, we promote the transparency of our revenues; and transparency of the operation of our products, as well as their goals.
-            </p>
-            <p>
-              We use <a href="https://en.wikipedia.org/wiki/Open-book_management" target="_blank">OBM</a>.
             </p>
         </div>
 

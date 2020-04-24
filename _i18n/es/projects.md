@@ -17,8 +17,8 @@ div.projects-box article:last-child, div.libs-box article:last-child{
             <article class="post-item">
               <div class="article-title">
 
-                  <a class="post-link text-uppercase project-{{ post.id_slug }}" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" hreflang="{% if post.language %}{{post.language}}{% else %}es{% endif %}">
-                    {{ post.title }}
+                  <a class="post-link text-uppercase project-box project-{{ post.id_slug }}" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" hreflang="{% if post.language %}{{post.language}}{% else %}es{% endif %}">
+                    #{{ post.project_number }}&#8901;{{ post.title }}
                   </a>
                   <span>{{ post.description }}</span>
               </div>
@@ -29,6 +29,7 @@ div.projects-box article:last-child, div.libs-box article:last-child{
         {% endif %}
     {% endfor %}
   </div>
+
   <br><hr><br>
 
   <div class="libs-box">
