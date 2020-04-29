@@ -14,7 +14,7 @@
       </div>
       <br>
       <div class="alert alert-warning text-center" role="alert"> <strong>ARE YOU A CREATOR? </strong> We are expanding our experimentation team. If you are interested in <a href="/en/2019/minimo/">the proposal</a> and you have <strong>UX/Design skills</strong>
-       <a href="{{site.whatsapp}}" rel="nofollow" target="_blank">get in touch</a> to coordinate where to have a delicious <i class="fas fa-mug-hot"></i> together. </div>  
+       <a href="{{site.whatsapp}}" rel="nofollow" target="_blank">get in touch</a> in order to coordinate where to have a delicious <i class="fas fa-mug-hot"></i> together. </div>  
       <br>
       <div>
         <p class="intro Xlead">
