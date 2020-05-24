@@ -85,7 +85,16 @@
              reveal: 100
          });
        });
-      $("#do4").trigger("click")
+      $("#do4").trigger("click");
+
+      $("#do5").click(function(){
+        $("#codex5").codex({
+          effect: "typewriter",
+          speed: 50,
+          reveal: 50
+        });
+      });
+
     });
   </script>
 {% endif %}
