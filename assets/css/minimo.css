@@ -1149,6 +1149,13 @@ path {
 }
 .through{ text-decoration:line-through; }
 #project-cost-details{ font-size:13px; }
+div.projects-box article{ margin-bottom:2.5%; }
+div.libs-box article{ margin-bottom:1%; }
+div.projects-box article:last-child, div.libs-box article:last-child{
+  margin-bottom:0;
+}
+
+
 .project-box{
 	background-position:left;
 	padding-left:30px;
@@ -1158,4 +1165,6 @@ path {
 }
 .project-betizen{ background-image:url('https://www.betizen.org/wp-content/themes/aipim-theme/assets/favs/favicon-32x32.png'); }
 .project-minimo{ background-image:url('https://minimo.io/assets/favs/favicon-32x32.png'); }
+.project-hopmasters{ background-image:url('/assets/imgs/favicon-hopmasters-32x32.png'); }
+.project-lazaro{ background-image:url('/assets/imgs/favicon-books-32x32.png'); }
 .project-alt{ background-image:url('../images/alt-favicon-32x32.png'); }
