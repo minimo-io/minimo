@@ -17,12 +17,12 @@
                             <h2 class="bigtitle sectitle no-margin no-padding">Nicolás Erramuspe</h2>
                             <span class="profile-so-what-do-you-do">product developer</span>
                             <div class="profile-contact">
-                              <button id="profile-write" type="button" class="btn btn-outline-success btn-blue profile-contact-btn">
-                                <i class="fas fa-envelope"></i>&nbsp;write
-                              </button>
+                              <a target="_blank" role="button" href="https://wa.me/59896666902" class="btn btn-outline-success btn-blue profile-contact-btn">
+                                <i class="fab fa-whatsapp mr-1"></i>Write
+                              </a>
 
-                              <a href="https://twitter.com/minimo_io" target="_blank" rel="nofollow" class="btn btn-outline-success btn-pink profile-more-contact-btn contact-hidden">
-                                <i class="fab fa-twitter"></i>
+                              <a href="https://github.com/minimo-io" target="_blank" class="btn btn-outline-success btn-pink profile-more-contact-btn contact-hidden">
+                                <i class="fab fa-github"></i>
                               </a>
 
                             </div>
@@ -34,13 +34,11 @@
 
                         <div class="text-left">
                           <p id="profile-description" class="intro lead lead-text">
-                            Ex-socio @ WhiteMedia (2012-2019).
+                            Product developer @ <a href="/en/">minimo.io</a> (2020-∞).
                             <br>
-                            Product developer @ minimo.io (2019-∞).
-                            <br>
-                            Dilettante of infamous journalism.
+                            Ex-partner @ WhiteMedia (2012-2019).
                             <br><br>
-                            After a bit of history, starting in 2019, from Mínimo, I dedicate many hours to the development of digital products based on <a href="{% tl manifest %}"> Mínimo's manifest </a> and a series of <a href="{% tl manifest %}#principios" class="launch-principlesX">values</a>, under some <a href="{% tl manifest %}#influencias">influences</a>, that I apply trying to keep focused.
+                            After a bit of history, starting in 2020, from Mínimo, I dedicate many hours to the development of digital products based on <a href="{% tl manifest %}"> Mínimo's manifest </a> and a series of <a href="{% tl manifest %}#principios" class="launch-principlesX">values</a>, under some <a href="{% tl manifest %}#influencias">influences</a>, that I apply trying to keep focused.
                              <br><br>This time, trying to make more than money on the Internet.
                             <br>
                           </p>
