@@ -21,6 +21,10 @@
                           <i class="fab fa-whatsapp mr-1" Xstyle="font-size:1.2rem;"></i>Escribir
                         </a>
 
+                        <a href="skype:n__icola__s?chat" target="_blank" class="btn btn-outline-success btn-pink profile-more-contact-btn contact-hidden">
+                          <i class="fab fa-skype"></i>
+                        </a>
+
                         <a href="https://github.com/minimo-io" target="_blank" class="btn btn-outline-success btn-pink profile-more-contact-btn contact-hidden">
                           <i class="fab fa-github"></i>
                         </a>
@@ -34,14 +38,18 @@
 
                   <div class="text-left">
                     <p id="profile-description" class="intro lead lead-text">
-                      Product developer @ <a href="/">minimo.io</a> (2020-∞).
+
+                      <i class="fas fa-check-circle" style="color:var(--main-text-color)"></i> Product developer <span class="no-style-at">@</span> <a href="/">minimo.io</a> (2020-∞).
                       <br>
-                      Ex-socio @ WhiteMedia (2012-2019).
+                      <i class="fas fa-check-circle"></i> Ex-socio <span class="no-style-at">@</span> WhiteMedia (2012-2019).
+                      <br>
+                      <i class="fas fa-check-circle"></i> Full-stack developer <span class="no-style-at">@</span> [BySoftware, Disfar Corp.] (<i class="fas fa-baby"></i>-2012).
+
                       <br><br>
-                      Después de algo de historia, a partir de 2019, desde Mínimo, dedico mis horas al desarrollo de productos digitales
-                      basados en el <a href="{% tl manifest %}">manifiesto mínimo</a>
-                      y en una serie de <a href="{% tl manifest %}#principios">principios</a>,
-                      bajo algunas <a href="{% tl manifest %}#influencias">influencias</a>, que aplico intentando mantenerme enfocado.
+                      A partir de 2020, luego de algo de historia como programador y afiliado,
+                      dedico mis horas de trabajo al desarrollo de <a href="{% tl projects %}">productos digitales</a>,
+                      bajo algunas <a href="{% tl manifest %}#influencias">influencias</a>,
+                      y basado en el <a href="{% tl manifest %}">manifiesto</a> y los <a href="{% tl manifest %}#principios">principios</a> de Mínimo.
                       <br><br>                      
 
                     </p>
@@ -62,12 +70,11 @@
                               <li>Atención al presente (meditación)</li>
                               <li>Propósitos con expectativas realistas, basados en <a href="./manifiesto.html#principios">principios</a> en los que creemos</li>
                               <li>Gratitud</li>
-                              <li>Contacto humano, algunos vínculos profundos [<a href="https://www.youtube.com/watch?v=8KkKuTCFvzI" target="_blank">What makes a good life?, Robert Waldinger (TED)</a>].</li>
-                              <li>Salud (dormir y comer bien)</li>
-                              <li>Ejercicio físico</li>
+                              <li>Contacto humano, vincularse a través de quien uno es [<a href="https://www.youtube.com/watch?v=8KkKuTCFvzI" target="_blank">What makes a good life?, Robert Waldinger (TED)</a>].</li>
+                              <li>Salud (dormir, comer bien, hacer ejercicio físico)</li>
                               <li>Sexo</li>
                               <li>Altruísmo (tenemos circuitos de recompensa ligados a esto)</li>
-                              <li>Personalidad (procurar hacer algo divertido y vergonzoso; algo que no busque aprobación, que parezca raro)</li>
+                              <li>Personalidad (procurar hacer algo divertido y vergonzoso; algo que no busque aprobación, que parezca raro, que refuerze la personalidad)</li>
                             </ol>
                             <button type="button" class="btn btn-outline-success profile-more-contact-btn btn-pink launch-rutina">
                               <i class="fas fa-minus"></i>

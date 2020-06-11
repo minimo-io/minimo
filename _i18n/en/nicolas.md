@@ -21,9 +21,14 @@
                                 <i class="fab fa-whatsapp mr-1"></i>Write
                               </a>
 
+                              <a href="skype:n__icola__s?chat" target="_blank" class="btn btn-outline-success btn-pink profile-more-contact-btn contact-hidden">
+                                <i class="fab fa-skype"></i>
+                              </a>
+
                               <a href="https://github.com/minimo-io" target="_blank" class="btn btn-outline-success btn-pink profile-more-contact-btn contact-hidden">
                                 <i class="fab fa-github"></i>
                               </a>
+
 
                             </div>
                           </div>
@@ -34,12 +39,15 @@
 
                         <div class="text-left">
                           <p id="profile-description" class="intro lead lead-text">
-                            Product developer @ <a href="/en/">minimo.io</a> (2020-∞).
+                            <i class="fas fa-check-circle" style="color:var(--main-text-color)"></i> Product developer <span class="no-style-at">@</span> <a href="/en/">minimo.io</a> (2020-∞).
                             <br>
-                            Ex-partner @ WhiteMedia (2012-2019).
+                            <i class="fas fa-check-circle"></i> Ex-partner <span class="no-style-at">@</span> WhiteMedia (2012-2019).
+                            <br>
+                            <i class="fas fa-check-circle"></i> Full-stack developer <span class="no-style-at">@</span> [BySoftware, Disfar Corp.] (<i class="fas fa-baby"></i>-2012).
                             <br><br>
-                            After a bit of history, starting in 2020, from Mínimo, I dedicate many hours to the development of digital products based on <a href="{% tl manifest %}"> Mínimo's manifest </a> and a series of <a href="{% tl manifest %}#principios" class="launch-principlesX">values</a>, under some <a href="{% tl manifest %}#influencias">influences</a>, that I apply trying to keep focused.
-                             <br><br>This time, trying to make more than money on the Internet.
+                            Starting in 2020, after a bit of history as a programmer and affiliate,
+                            I dedicate my working hours to the development of <a href="{% tl projects %}">digital products</a>,
+                            under some <a href="{% tl manifest %}#influencias">influences</a> and based on <a href="{% tl manifest %}"> Mínimo's manifest</a> & <a href="{% tl manifest %}#principios">principles</a>.
                             <br>
                           </p>
                           <blockquote id="emerson">

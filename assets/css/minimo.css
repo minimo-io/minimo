@@ -6,6 +6,11 @@
 /* @import url('https://fonts.googleapis.com/css?family=Space+Mono|Permanent+Marker|Sacramento|Press+Start+2P'); */
 @import url('https://fonts.googleapis.com/css?family=Space+Mono|Permanent+Marker|Sacramento');
 
+:root {
+  --main-text-color: #0086B3;
+}
+
+
 body,html{
 	font-family: Courier, monospace, "Space mono";
 	/* color: #000; */
@@ -110,7 +115,9 @@ body{ overflow-x:hidden; }
 	border-color: #0086B3;
 	color:#FFF;
 }
-
+.no-style-at{
+	font-family: arial,sans-serif;
+}
 /* -------- END OF CLASSES  */
 
 

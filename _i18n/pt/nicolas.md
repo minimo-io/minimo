@@ -21,6 +21,10 @@
                                 <i class="fab fa-whatsapp mr-1"></i>Escrever
                               </a>
 
+                              <a href="skype:n__icola__s?chat" target="_blank" class="btn btn-outline-success btn-pink profile-more-contact-btn contact-hidden">
+                                <i class="fab fa-skype"></i>
+                              </a>
+
                               <a href="https://github.com/minimo-io" target="_blank" class="btn btn-outline-success btn-pink profile-more-contact-btn contact-hidden">
                                 <i class="fab fa-github"></i>
                               </a>
@@ -34,18 +38,16 @@
 
                         <div class="text-left">
                           <p id="profile-description" class="intro lead lead-text">
-                            Ex-parceiro @ WhiteMedia (2012-2020).
+                            <i class="fas fa-check-circle" style="color:var(--main-text-color)"></i> Product developer <span class="no-style-at">@</span> <a href="/pt/">minimo.io</a> (2020-∞).
                             <br>
-                            Desenvolvedor de produtos @ minimo.io (2019-∞).
+                            <i class="fas fa-check-circle"></i> Ex-parceiro <span class="no-style-at">@</span> WhiteMedia (2012-2020).
                             <br>
-                            Diletante de jornalismo infame.
+                            <i class="fas fa-check-circle"></i> Full-stack developer <span class="no-style-at">@</span> [BySoftware, Disfar Corp.] (<i class="fas fa-baby"></i>-2012).
                             <br><br>
-                            Depois de um pouco de história, a partir de 2019, desde Mínimo, dedico as minhas horas ao desenvolvimento de produtos digitais baseados no
-                            <a href="{% tl manifest %}">manifesto mínimo</a>
-                            e em uma série de <a href="{% tl manifest %}#principios" class="launch-principiosX">princípios</a>,
-                            sob algumas <a href="{% tl manifest %}#influencias">influências</a>, que aplico tentando me manter focado.
-                            <br><br>
-                            Desta vez, explorando algo mais do que ganhar dinheiro na Internet.
+                            A partir de 2020, depois de um pouco de história como programador e afiliado,
+                            dedico as minhas horas de trabalho ao desenvolvimento de <a href="{% tl projects %}">produtos digitais</a>,
+                            sob algumas <a href="{% tl manifest %}#influencias">influências</a>,
+                            baseado no <a href="{% tl manifest %}">manifesto</a> e nos <a href="{% tl manifest %}#principios">princípios</a> do Mínimo.
                             <br>
                           </p>
                           <blockquote id="emerson">
@@ -55,8 +57,6 @@
                           </blockquote>
                           <br>
                         </div>
-
-
 
 
 
