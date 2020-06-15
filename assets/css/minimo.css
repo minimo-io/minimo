@@ -1126,6 +1126,7 @@ path {
 
 .langs{
 	margin-left:50px;
+  margin-right:5px;
 }
 .langs a:hover{text-decoration:underline;}
 #particles-js{

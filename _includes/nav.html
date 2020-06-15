@@ -19,9 +19,10 @@
 
     <div class="social">
       <div class="social-icons">
-        <a href="https://wa.me/59896666902" rel="nofollow" target="_blank" class="icon">
-          <i class="fab fa-whatsapp-square fa-lg"></i>
+        <a href="https://blog.minimo.io" class="icon" hreflang="es">
+          BLOG
         </a>
+        <span class="icon">&middot;</span>
         <div class="langs icon">
             {% if page.title == "Home" %}
               <a hreflang="es" href="{{ site.url }}/" {% if site.lang == "es" %}class="boldit"{% endif %}>ES</a>
@@ -72,57 +73,5 @@
     </div>
   </div>
 
-  <div id="contact" class="menu-inner hidden basic-mono">
-
-
-    <div class="menu-secondary">
-
-      <div class="container">
-           <h2 id="frm-contact-title">{% t nav.contact %}</h4>
-           <form id="frm-contact" method="POST">
-
-             <div class="mb-3">
-               <label for="user">{% t frmcontact.name %} <span class="text-muted">*</span></label>
-               <input type="text" class="form-control" name="user" id="user" placeholder="{% t frmcontact.nameplaceholder %}" required>
-             </div>
-
-             <div class="mb-3">
-               <label for="email">{% t frmcontact.email %} <span class="text-muted">*</span></label>
-               <input type="email" class="form-control" name="email" id="email" placeholder="{% t frmcontact.emailplaceholder %}" required>
-             </div>
-
-             <div class="mb-3">
-               <label for="email">{% t frmcontact.comment %} <span class="text-muted">*</span></label>
-               <textarea class="form-control" rows="5" name="comment" id="comment" placeholder="{% t frmcontact.commentplaceholder %}" required></textarea>
-             </div>
-
-             <div class="custom-control custom-checkbox">
-               <input type="checkbox" class="custom-control-input" name="newsletter" id="newsletter" checked>
-               <label class="custom-control-label" for="same-address">{% t frmcontact.receivecraziness %}</label>
-             </div>
-             <br>
-
-             <div class="row">
-               <div class="col-8">
-                 <button id="contact-submit" class="btn btn-primary btn-lg btn-block" type="submit">{% t frmcontact.send %}<span class="contact-hidden lower"> {% t frmcontact.email %}</span></button>
-               </div>
-               <div class="col-4">
-                 <button id="contact-cancel" class="btn btn-secondary btn-lg btn-block"><i class="fas fa-times"></i></button>
-               </div>
-             </div>
-           </form>
-
-           <div class="social contact-hidden">
-             <div class="social-icons">
-               <a href="https://wa.me/59896666902" target="_blank" class="icon">
-                 <i class="fab fa-whatsapp-square fa-lg"></i>
-               </a>
-             </div>
-           </div>
-
-      </div>
-    </div>
-
-  </div>
 </div>
 <a href="#" class="back-to-the-future"><i class="fas fa-angle-double-up"></i></a>
