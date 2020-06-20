@@ -1,6 +1,7 @@
 <script src="{{ "/assets/js/jquery.min.js" | prepend: site.url }}"></script>
 <script src="{{ "/assets/js/retina.js" | prepend: site.url }}"></script>
 <script src="{{ "/assets/js/general.js" | prepend: site.url }}"></script>
+<script src="{{ "/assets/js/bootstrap.bundle.min.js" | prepend: site.url }}"></script>
 {% if page.url == "/" or page.url == "/2019/7/"  %}
     <script src="https://cdn.jsdelivr.net/npm/@minimo-labs/jquery-codex/jquery.codex.min.js"></script>
 {% endif %}
@@ -25,7 +26,6 @@
 {% endif %}
 
 {% if page.title == "nav.team" %}
-  <script src="/assets/js/bootstrap.bundle.min.js"></script>
   <script>
     $(function () {
       $('[data-toggle="tooltip"]').tooltip();
@@ -46,6 +46,8 @@
 
       if (window.location.hash == "#rutina") {
         $("#rutina-content").toggle(200, "swing").focus();
+        $(".profile-subheader").toggle(200, "swing").focus();
+
       }else if (window.location.hash == "#historia") {
         $("#historia-content").toggle(200, "swing").focus();
       }else if (window.location.hash == "#principios"){

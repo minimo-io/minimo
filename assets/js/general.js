@@ -117,13 +117,13 @@ $(function(){
 
       if(height  > 200) {
         // $(".freccia").css("visibility","hidden");
-        $('.langs').hide();
+        // $('.langs').hide();
         $('.back-to-the-future').fadeIn(100);
 
       }else{
 
         $('.back-to-the-future').fadeOut(100, function(){
-          $('.langs').show();
+          // $('.langs').show();
         });
 
 

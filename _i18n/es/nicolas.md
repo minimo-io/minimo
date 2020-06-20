@@ -17,15 +17,27 @@
                       <h2 class="bigtitle sectitle no-margin no-padding">Nicolás Erramuspe</h2>
                       <span class="profile-so-what-do-you-do">product developer</span>
                       <div class="profile-contact">
-                        <a target="_blank" role="button" href="https://wa.me/59896666902" class="btn btn-outline-success btn-blue profile-contact-btn">
-                          <i class="fab fa-whatsapp mr-1" Xstyle="font-size:1.2rem;"></i>Escribir
+
+                        <div class="btn-group contact-dropdown d-block d-sm-none" role="group">
+                          <button id="btnGroupDrop1" type="button" class="btn btn-outline-success btn-blue profile-contact-btn dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <i class="fab fa-whatsapp mr-1"></i>Contactar
+                          </button>
+                          <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
+                            <a class="dropdown-item" href="#"><i class="fab fa-whatsapp mr-1"></i>Whatsapp</a>
+                            <a class="dropdown-item" href="#"><i class="fab fa-skype mr-1"></i>Skype</a>
+                            <a class="dropdown-item" href="#"><i class="fab fa-github mr-1"></i>Github</a>
+                          </div>
+                        </div>
+
+                        <a target="_blank" role="button" href="https://wa.me/59896666902" class="btn btn-outline-success btn-blue profile-contact-btn d-none d-sm-inline-block">
+                          <i class="fab fa-whatsapp mr-1"></i>Escribir
                         </a>
 
-                        <a href="skype:n__icola__s?chat" target="_blank" class="btn btn-outline-success btn-pink profile-more-contact-btn contact-hidden">
+                        <a href="skype:n__icola__s?chat" target="_blank" class="btn btn-outline-success btn-pink profile-more-contact-btn contact-hidden d-none d-sm-inline-block">
                           <i class="fab fa-skype"></i>
                         </a>
 
-                        <a href="https://github.com/minimo-io" target="_blank" class="btn btn-outline-success btn-pink profile-more-contact-btn contact-hidden">
+                        <a href="https://github.com/minimo-io" target="_blank" class="btn btn-outline-success btn-pink profile-more-contact-btn contact-hidden d-none d-sm-inline-block">
                           <i class="fab fa-github"></i>
                         </a>
 
@@ -37,14 +49,17 @@
 
 
                   <div class="text-left">
-                    <p id="profile-description" class="intro lead lead-text">
+                    <div id="profile-description" class="intro lead lead-text">
 
-                      <i class="fas fa-check-circle" style="color:var(--main-text-color)"></i> Product developer <span class="no-style-at">@</span> <a href="/">minimo.io</a> (2020-∞).
-                      <br>
-                      <i class="fas fa-check-circle"></i> Ex-socio <span class="no-style-at">@</span> WhiteMedia (2012-2019).
-                      <br>
-                      <i class="fas fa-check-circle"></i> Full-stack developer <span class="no-style-at">@</span> [BySoftware, Disfar Corp.] (<i class="fas fa-baby"></i>-2012).
-
+                      <div class="work-history">
+                        <i class="fas fa-check-circle" style="color:var(--main-text-color)"></i> Product developer <span class="no-style-at">@</span> <a href="/">Mínimo</a>
+                        <span class="d-none d-sm-inline-block">&nbsp;(2020-∞)</span>
+                        <br>
+                        <i class="fas fa-check-circle"></i> Ex-socio <span class="no-style-at">@</span> WhiteMedia <span class="d-none d-sm-inline-block">(2012-2019)</span>
+                        <br>
+                        <i class="fas fa-check-circle"></i> Full-stack developer <span class="no-style-at">@</span> [BySoftware, Disfar Corp]
+                        <span class="d-none d-sm-inline-block">(<i class="fas fa-baby"></i>-2012)</span>
+                      </div>
                       <br><br>
                       A partir de 2020, luego de algo de historia como programador y afiliado,
                       dedico mis horas de trabajo al desarrollo de <a href="{% tl projects %}">productos digitales</a>,
@@ -52,7 +67,7 @@
                       y basado en el <a href="{% tl manifest %}">manifiesto</a> y los <a href="{% tl manifest %}#principios">principios</a> de Mínimo.
                       <br><br>                      
 
-                    </p>
+                    </div>
                     <blockquote id="emerson">
                       <p class="mb-0 no-padding no-margin">Es trágico que tan pocas personas “posean su alma” [...] Dijo Emerson “En el hombre nada hay más raro que un acto propio”. Es absolutamente cierto. La mayoría de la gente es otra. Sus pensamientos son ajenos, sus vidas remedos, sus pasiones una cita entrecomillada.</p>
                       <footer class="blockquote-footer">Oscar Wilde, <cite title="De Profundis - Oscar Wilde">De Profundis</cite></footer>
@@ -67,11 +82,11 @@
                       <div id="rutina-content" class="principle hidden" style="display:none;">
                           <p>
                             <ol class="principle rutina principles-list">
-                              <li>Atención al presente (meditación)</li>
-                              <li>Propósitos con expectativas realistas, basados en <a href="./manifiesto.html#principios">principios</a> en los que creemos</li>
+                              <li>Meditación (Atención al presente)</li>
+                              <li>Propósito con expectativas realistas, basados en <a href="./manifiesto.html#principios">principios</a> en los que creemos</li>
                               <li>Gratitud</li>
                               <li>Contacto humano, vincularse a través de quien uno es [<a href="https://www.youtube.com/watch?v=8KkKuTCFvzI" target="_blank">What makes a good life?, Robert Waldinger (TED)</a>].</li>
-                              <li>Salud (dormir, comer bien, hacer ejercicio físico)</li>
+                              <li>Salud física(dormir, comer bien, hacer ejercicio físico)</li>
                               <li>Sexo</li>
                               <li>Altruísmo (tenemos circuitos de recompensa ligados a esto)</li>
                               <li>Personalidad (procurar hacer algo divertido y vergonzoso; algo que no busque aprobación, que parezca raro, que refuerze la personalidad)</li>

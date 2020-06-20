@@ -17,15 +17,27 @@
                             <h2 class="bigtitle sectitle no-margin no-padding">Nicolás Erramuspe</h2>
                             <span class="profile-so-what-do-you-do">product developer</span>
                             <div class="profile-contact">
-                              <a target="_blank" role="button" href="https://wa.me/59896666902" class="btn btn-outline-success btn-blue profile-contact-btn">
+
+                              <div class="btn-group contact-dropdown d-block d-sm-none" role="group">
+                                <button id="btnGroupDrop1" type="button" class="btn btn-outline-success btn-blue profile-contact-btn dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                  <i class="fab fa-whatsapp mr-1"></i>Contact
+                                </button>
+                                <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
+                                  <a class="dropdown-item" href="#"><i class="fab fa-whatsapp mr-1"></i>Whatsapp</a>
+                                  <a class="dropdown-item" href="#"><i class="fab fa-skype mr-1"></i>Skype</a>
+                                  <a class="dropdown-item" href="#"><i class="fab fa-github mr-1"></i>Github</a>
+                                </div>
+                              </div>
+
+                              <a target="_blank" role="button" href="https://wa.me/59896666902" class="btn btn-outline-success btn-blue profile-contact-btn d-none d-sm-inline-block">
                                 <i class="fab fa-whatsapp mr-1"></i>Write
                               </a>
 
-                              <a href="skype:n__icola__s?chat" target="_blank" class="btn btn-outline-success btn-pink profile-more-contact-btn contact-hidden">
+                              <a href="skype:n__icola__s?chat" target="_blank" class="btn btn-outline-success btn-pink profile-more-contact-btn contact-hidden d-none d-sm-inline-block">
                                 <i class="fab fa-skype"></i>
                               </a>
 
-                              <a href="https://github.com/minimo-io" target="_blank" class="btn btn-outline-success btn-pink profile-more-contact-btn contact-hidden">
+                              <a href="https://github.com/minimo-io" target="_blank" class="btn btn-outline-success btn-pink profile-more-contact-btn contact-hidden d-none d-sm-inline-block">
                                 <i class="fab fa-github"></i>
                               </a>
 
@@ -38,18 +50,20 @@
 
 
                         <div class="text-left">
-                          <p id="profile-description" class="intro lead lead-text">
-                            <i class="fas fa-check-circle" style="color:var(--main-text-color)"></i> Product developer <span class="no-style-at">@</span> <a href="/en/">minimo.io</a> (2020-∞).
-                            <br>
-                            <i class="fas fa-check-circle"></i> Ex-partner <span class="no-style-at">@</span> WhiteMedia (2012-2019).
-                            <br>
-                            <i class="fas fa-check-circle"></i> Full-stack developer <span class="no-style-at">@</span> [BySoftware, Disfar Corp.] (<i class="fas fa-baby"></i>-2012).
+                          <div id="profile-description" class="intro lead lead-text">
+                            <div class="work-history">
+                              <i class="fas fa-check-circle" style="color:var(--main-text-color)"></i> Product developer <span class="no-style-at">@</span> <a href="/en/">minimo.io</a> (2020-∞).
+                              <br>
+                              <i class="fas fa-check-circle"></i> Ex-partner <span class="no-style-at">@</span> WhiteMedia (2012-2019).
+                              <br>
+                              <i class="fas fa-check-circle"></i> Full-stack developer <span class="no-style-at">@</span> [BySoftware, Disfar Corp.] (<i class="fas fa-baby"></i>-2012).
+                            </div>
                             <br><br>
                             Starting in 2020, after a bit of history as a programmer and affiliate,
                             I dedicate my working hours to the development of <a href="{% tl projects %}">digital products</a>,
                             under some <a href="{% tl manifest %}#influencias">influences</a> and based on <a href="{% tl manifest %}"> Mínimo's manifest</a> & <a href="{% tl manifest %}#principios">principles</a>.
                             <br>
-                          </p>
+                          </div>
                           <blockquote id="emerson">
                             <p class="mb-0 no-padding no-margin">“It's tragic how few people ever 'possess their souls' before they die. 'Nothing is more rare in any man', says Emerson, 'than an act of his own.' It is quite true. Most people are other people. Their thoughts are someone else's opinions, their life is a mimicry, their passions a quotation.”</p>
                             <footer class="blockquote-footer">Oscar Wilde, <cite title="De Profundis - Oscar Wilde">De Profundis</cite></footer>
