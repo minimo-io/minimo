@@ -23,9 +23,9 @@
                                   <i class="fab fa-whatsapp mr-1"></i>Contato
                                 </button>
                                 <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
-                                  <a class="dropdown-item" href="#"><i class="fab fa-whatsapp mr-1"></i>Whatsapp</a>
-                                  <a class="dropdown-item" href="#"><i class="fab fa-skype mr-1"></i>Skype</a>
-                                  <a class="dropdown-item" href="#"><i class="fab fa-github mr-1"></i>Github</a>
+                                  <a class="dropdown-item" target="_blank" href="https://wa.me/59896666902"><i class="fab fa-whatsapp mr-1"></i>Whatsapp</a>
+                                  <a class="dropdown-item" href="skype:n__icola__s?chat"><i class="fab fa-skype mr-1"></i>Skype</a>
+                                  <a class="dropdown-item" href="https://github.com/minimo-io"><i class="fab fa-github mr-1"></i>Github</a>
                                 </div>
                               </div>
 
