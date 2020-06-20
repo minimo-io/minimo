@@ -52,13 +52,12 @@
                     <div id="profile-description" class="intro lead lead-text">
 
                       <div class="work-history">
-                        <i class="fas fa-check-circle" style="color:var(--main-text-color)"></i> Product developer en <a href="/">Mínimo</a>
-                        <span class="d-none d-sm-inline-block">(2020-∞)</span>
+                        <i class="fas fa-check-circle" style="color:var(--main-text-color)"></i> Product developer en <a href="/">Mínimo</a> (2020-∞)
                         <br>
-                        <i class="fas fa-check-circle"></i> Ex-socio en WhiteMedia <span class="d-none d-sm-inline-block">(2012-2019)</span>
+                        <i class="fas fa-check-circle"></i> Ex-socio en WhiteMedia (2012-2019)
                         <br>
                         <i class="fas fa-check-circle"></i> Full-stack developer en [BySoftware, Disfar Corp]
-                        <span class="d-none d-sm-inline-block">(<i class="fas fa-baby"></i>-2012)</span>
+                        (<i class="fas fa-baby"></i>-2012)
                       </div>
                       <br><br>
                       A partir de 2020, luego de algo de historia como programador y afiliado,
