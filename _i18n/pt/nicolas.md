@@ -7,7 +7,7 @@
 
               <section id="sec-profile" style="padding:0;margin:0;">
                   <div class="row justify-content-center">
-                    <div class="modal-body">
+                    <div class="modal-body px-0">
                         <center>
                           <img src="{{site.baseurl_root}}/assets/imgs/profiles/nicolas.png" name="aboutme" width="140" height="140" border="0" class="img-circle">
                           <!-- <img src="./assets/imgs/profiles/3.jpeg" name="aboutme" width="140" height="140" border="0" class="img-circle"> -->
@@ -51,11 +51,11 @@
                         <div class="text-left">
                           <div id="profile-description" class="intro lead lead-text">
                             <div class="work-history">
-                              <i class="fas fa-check-circle" style="color:var(--main-text-color)"></i> Product developer <span class="no-style-at">@</span> <a href="/pt/">minimo.io</a> (2020-∞).
+                              <i class="fas fa-check-circle" style="color:var(--main-text-color)"></i> Product developer no <a href="/pt/">Mínimo</a> (2020-∞).
                               <br>
-                              <i class="fas fa-check-circle"></i> Ex-parceiro <span class="no-style-at">@</span> WhiteMedia (2012-2020).
+                              <i class="fas fa-check-circle"></i> Ex-parceiro da WhiteMedia (2012-2020).
                               <br>
-                              <i class="fas fa-check-circle"></i> Full-stack developer <span class="no-style-at">@</span> [BySoftware, Disfar Corp.] (<i class="fas fa-baby"></i>-2012).
+                              <i class="fas fa-check-circle"></i> Full-stack developer no [BySoftware, Disfar Corp.] (<i class="fas fa-baby"></i>-2012).
                             </div>
                             <br><br>
                             A partir de 2020, depois de um pouco de história como programador e afiliado,
