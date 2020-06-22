@@ -88,7 +88,7 @@
                               <li>Salud física(dormir, comer bien, hacer ejercicio físico)</li>
                               <li>Sexo</li>
                               <li>Altruísmo (tenemos circuitos de recompensa ligados a esto)</li>
-                              <li>Personalidad (procurar hacer algo divertido y vergonzoso; algo que no busque aprobación, que parezca raro, que refuerze la personalidad)</li>
+                              <li>Personalidad (procurar hacer algo divertido y vergonzoso; algo que no busque aprobación, que parezca raro, que refuerce la personalidad)</li>
                             </ol>
                             <button type="button" class="btn btn-outline-success profile-more-contact-btn btn-pink launch-rutina">
                               <i class="fas fa-minus"></i>
