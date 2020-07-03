@@ -35,7 +35,7 @@ Bibliopath tiene 4 tipos de usuarios:
 
 ## Tecnologías
 
-Vue.js + Ionic + Capacitor + ePub3
+Vue.js + Ionic + Capacitor + ePub3.
 
 ## Librerías
 
