@@ -20,7 +20,7 @@
                 {% endif %}
 
                 <a class="post-link text-uppercase project-box project-{{ post.id_slug }}" href="{{ proj_url }}" hreflang="{% if post.language %}{{post.language}}{% else %}es{% endif %}" {{text_color_class}}>
-                  #{{ post.project_number }}&#8901;{{ post.title }}
+                  {{ post.title }}
                 </a>
                 <span>{{ post.description }}</span>
 
