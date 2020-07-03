@@ -6,7 +6,7 @@ image_description: ""
 project_number: 3
 reading_time: "1:00"
 description: "La editorial abierta."
-keywords: ["books", "open source", "epub"]
+keywords: ["publishing", "open standards", "epub"]
 categories: ['projects']
 id_slug: bibliopath
 author: nicolas_ea
