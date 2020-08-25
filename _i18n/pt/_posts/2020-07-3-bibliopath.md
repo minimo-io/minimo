@@ -6,7 +6,7 @@ image_description: ""
 project_number: 3
 reading_time: "1:00"
 description: "A editorial aberta."
-keywords: ["publishing", "open standards", "epub"]
+keywords: ["publishing", "experimental"]
 categories: ['projects']
 id_slug: bibliopath
 author: nicolas_ea

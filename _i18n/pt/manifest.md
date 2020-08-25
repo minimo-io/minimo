@@ -2,7 +2,7 @@
 <section id="sec-ethos">
   <div id="ethos" class="container">
 
-      <h1 class="over-title"><i class="fas fa-heart pr-3 d-none d-lg-inline-block"></i>Manifesto</h1>
+      <h1 class="over-title"><i class="fas fa-paper-plane pr-3 d-none d-lg-inline-block"></i>Manifesto</h1>
       <div class="nav-scroller bg-white">
         <center>
           <nav class="nav nav-underline" style="display:inline-flex;">
@@ -14,14 +14,14 @@
         </center>
       </div>
       <br>
-      <div class="alert alert-warning text-center" role="alert"> <strong>VOCÊ É UM CRIADOR? </strong> Estamos expandindo nosso equipe de experimentação. Se você estiver interessado na <a href="/pt/2019/minimo/">proposta</a> e tiver habilidades em <strong>UX/Design</strong> <a href="{{site.whatsapp}}" rel="nofollow" target="_blank">entre em contato</a> para coordenar onde tomar um delicioso <i class="fas fa-mug-hot"></i> juntos. </div>
+      <div class="alert alert-warning text-center" role="alert">Estamos procurando um gestor de conteúdo. Interessado? <a href="{{site.whatsapp}}" rel="nofollow" target="_blank">Entre em contato</a> para coordenar onde tomar um delicioso <i class="fas fa-mug-hot"></i> juntos. </div>
       <br>
       <div>
         <p class="intro Xlead">
           Mínimo é um laboratório de idéias.
         </p>
         <div class="intro Xlead">
-          Somos um grupo de criadores interessados em experimentar com <a href="{% tl projects %}" title="Projetos em Mínimo">projetos digitais</a> que buscam melhorar a realidade.
+          Estamos interessados em experimentar com <a href="{% tl projects %}" title="Projetos em Mínimo">projetos digitais</a> que buscam melhorar a realidade.
         </div>
         <p class="intro Xlead">
           Estamos interessados em <span class="cross">marketing</span> mas não na febre irrefletida do consumo [<a href="https://www.youtube.com/watch?v=FTJLbnq48nI" target="_blank">1</a>][<a href="https://www.youtube.com/watch?v=ZK3c9GCjSx8" target="_blank">2</a>], na difussão de boas ideias e não a interrupção...

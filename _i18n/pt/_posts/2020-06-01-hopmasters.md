@@ -5,7 +5,7 @@ image: ""
 image_description: ""
 reading_time: "1:00"
 description: "Quem são os mestres do lúpulo no Brasil?"
-keywords: ["beer", "store", "brewing"]
+keywords: ["beer", "store", "brewing", "experimental"]
 categories: ['projects']
 author: nicolas_ea
 project_number: 2

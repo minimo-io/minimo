@@ -5,7 +5,7 @@ image: ""
 image_description: ""
 reading_time: "1:00"
 description: "Who are the hop masters in your country?"
-keywords: ["beer", "store", "brewing"]
+keywords: ["beer", "store", "brewing", "experimental"]
 categories: ['projects']
 author: nicolas_ea
 project_number: 2

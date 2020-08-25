@@ -1,7 +1,7 @@
 <section id="sec-ethos">
   <div id="ethos" class="container bg-white">
 
-      <h1 class="over-title"><i class="fas fa-heart pr-3 d-none d-lg-inline-block"></i>Manifiesto</h1>
+      <h1 class="over-title"><i class="fas fa-paper-plane pr-3 d-none d-lg-inline-block"></i>Manifiesto</h1>
       <div class="nav-scroller">
         <center>
           <nav class="nav nav-underline" style="display:inline-flex;">
@@ -13,14 +13,15 @@
         </center>
       </div>
       <br>
-      <div class="alert alert-warning text-center" role="alert"> <strong>¿SOS UN CREADOR? </strong> Estamos expandiendo nuestro equipo de experimentación. Si te interesa <a href="/2019/minimo/">la propuesta</a> y tenés habiliades en <strong>UX/Diseño</strong> <a href="{{site.whatsapp}}" rel="nofollow" target="_blank">ponete en contacto</a> para coordinar donde tomar un rico <i class="fas fa-mug-hot"></i> juntos. </div>    
+      <div class="alert alert-warning text-center" role="alert">Estamos buscando un encargado de contenidos. ¿Te interesa? <a href="{{site.whatsapp}}" rel="nofollow" target="_blank">Ponete en contacto</a> para coordinar donde tomar un rico <i class="fas fa-mug-hot"></i> juntos.
+      </div>    
       <br>
       <div>
         <p class="intro Xlead">
           Mínimo es un laboratorio de ideas.
         </p>
         <div class="intro Xlead">
-          Somos un grupo de creadores interesados en experimentar con <a href="{% tl projects %}" title="Projectos de Mínimo">proyectos digitales</a> que buscan mejorar la realidad.
+          Estamos interesados en experimentar con <a href="{% tl projects %}" title="Projectos de Mínimo">proyectos digitales</a> que buscan mejorar la realidad.
         </div>
         <p class="intro Xlead">
           Nos interesa el <span class="cross">marketing</span> pero no la fiebre irreflexiva de consumo [<a href="https://www.youtube.com/watch?v=FTJLbnq48nI" target="_blank">1</a>][<a href="https://www.youtube.com/watch?v=ZK3c9GCjSx8" target="_blank">2</a>], la disfusión de las buenas ideas y no la interrupción-

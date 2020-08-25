@@ -1,7 +1,7 @@
 <section id="sec-ethos">
   <div id="ethos" class="container">
 
-      <h1 class="over-title"><i class="fas fa-heart pr-3 d-none d-lg-inline-block"></i>Manifest</h1>
+      <h1 class="over-title"><i class="fas fa-paper-plane pr-3 d-none d-lg-inline-block"></i>Manifest</h1>
       <div class="nav-scroller bg-white">
         <center>
           <nav class="nav nav-underline" style="display:inline-flex;">
@@ -13,15 +13,15 @@
         </center>
       </div>
       <br>
-      <div class="alert alert-warning text-center" role="alert"> <strong>ARE YOU A CREATOR? </strong> We are expanding our experimentation team. If you are interested in <a href="/en/2019/minimo/">the proposal</a> and you have <strong>UX/Design skills</strong>
-       <a href="{{site.whatsapp}}" rel="nofollow" target="_blank">get in touch</a> in order to coordinate where to have a delicious <i class="fas fa-mug-hot"></i> together. </div>  
+      <div class="alert alert-warning text-center" role="alert"> We are looking for a Content Manager. Interested?
+       <a href="{{site.whatsapp}}" rel="nofollow" target="_blank">Get in touch</a> in order to coordinate where to have a delicious <i class="fas fa-mug-hot"></i> together. </div>  
       <br>
       <div>
         <p class="intro Xlead">
           Mínimo is an idea laboratory.
         </p>
         <div class="intro Xlead">
-          We are a group of creators interested in experimenting with <a href="{% tl projects %}" title="Projects at Mínimo">digital projects</a> that seek to improve reality.
+          We are interested in experimenting with <a href="{% tl projects %}" title="Projects at Mínimo">digital projects</a> that seek to improve reality.
         </div>
         <p class="intro Xlead">
           We are interested in <span class="cross">marketing</span> but not in a thoughtless consumption fever [<a href="https://www.youtube.com/watch?v=FTJLbnq48nI" target="_blank">1</a>][<a href="https://www.youtube.com/watch?v=ZK3c9GCjSx8" target="_blank">2</a>], in promoting good ideas and not in the constant...

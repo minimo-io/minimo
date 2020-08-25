@@ -7,7 +7,7 @@
           {% if post.categories contains "code" %}
 
           {% else %}
-            <article class="post-item">
+            <article class="post-item mt-3">
               <div class="article-title">
 
                 {% if post.link_post != nil  %}
