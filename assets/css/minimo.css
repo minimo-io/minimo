@@ -17,7 +17,12 @@ body,html{
 	color: #333;
 	font-size: 18px;
 }
-body{ overflow-x:hidden; }
+body{
+  overflow-x:hidden;
+  background-image: url("../imgs/watercolor-10.jpg");
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
 #hamburger-show-menu{
 	background-color: black;
   height: 68px;
@@ -232,9 +237,16 @@ h2.bigtitle{
 	border-bottom:0 !important;
 }
 
-h2.bigtitle span, h2.bigtitle div, h2.secondtitle span{
+/* h2.bigtitle span, h2.bigtitle div, h2.secondtitle span{
 	color: #CBCFD3;
+} */
+
+h2.bigtitle span, h2.bigtitle div, h2.secondtitle span{
+	color: black;
 }
+/* h2.bigtitle span:hover, h2.bigtitle div:hover, h2.secondtitle span:hover{
+  opacity:1 !important  ;
+} */
 h2.bigtitle small{
 	font-size:15px;
 	font-family:arial;
@@ -1123,7 +1135,8 @@ path {
 /* JOURNAL  */
 .post-list .container{ padding-top:0 !important; }
 .journal #sec-ethos{ margin-top:8.1% !important; }
-.share p, .post-meta, .article-title span{ color:#aaa !important; }
+/* .share p, .post-meta, .article-title span{ color:#aaa !important; } */
+.share p, .post-meta, .article-title span{ color:#000 !important; opacity:.7; }
 .aaa{ color:#aaa; }
 /* JOURNAL END  */
 
@@ -1186,19 +1199,23 @@ div.projects-box article:last-child, div.libs-box article:last-child{
 
 
 .highlight {
-  background: url(https://www.andyhooke.co.uk/wp-content/uploads/2018/02/yellow-brushstroke.png);
-  background: url("../imgs/brush-stroke-banner-6.png");
+  background: url("../imgs/yellow-brushstroke.png");
+  /* background: url("../imgs/brush-stroke-banner-6.png"); */
   background-repeat: no-repeat;
   background-size: 100% 95%;
   padding: 8px 0;
   background-color:transparent !important;
   box-shadow:unset;
 }
+.a-colored-dot{
+  color:rgb(255,243,157) !important;
+  color:rgb(0, 0, 0) !important;
+}
 
 
 
-
-
+/*
+.bg-black{ background:transparent; color:black; } */
 
 /*  Bootstrap like breakpoints -------------- */
 @media (max-width: 576px) {

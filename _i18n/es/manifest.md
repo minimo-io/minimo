@@ -1,5 +1,5 @@
 <section id="sec-ethos">
-  <div id="ethos" class="container bg-white">
+  <div id="ethos" class="container">
 
       <h1 class="over-title"><i class="fas fa-paper-plane pr-3 d-none d-lg-inline-block"></i>Manifiesto</h1>
       <div class="nav-scroller">

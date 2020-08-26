@@ -5,7 +5,13 @@
 {% if page.url == "/" or page.url == "/2019/7/"  %}
     <script src="https://cdn.jsdelivr.net/npm/@minimo-labs/jquery-codex/jquery.codex.min.js"></script>
 {% endif %}
-
+<script>
+  $(function(){
+    var rndNbr = Math.floor(Math.random() * 6) + 1;
+    var newBgValue = 'url("/assets/imgs/watercolor-'+rndNbr+'.jpg")';
+    $("body").css('background-image', newBgValue);
+  });
+</script>
 {% if page.url == "/" %}
   <script>
     $(function(){
