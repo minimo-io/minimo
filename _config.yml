@@ -12,7 +12,8 @@ cover         : "https://minimo.io/assets/minimo-logo-500.png" # image uri like 
 google_analytics  : UA-134514520-1
 twitter_username  : "minimo_labs"
 instagram_username : "https://www.instagram.com/minimo.io/"
-whatsapp: "https://wa.me/59896666902"
+email : "mail@minimo.io"
+whatsapp: ""
 comments_enabled  : false # if enabled (set to true), please provide your disqus_username
 disqus_shortname  : "minimo-io"
 postshare_enabled : true

@@ -10,10 +10,10 @@
         <li><a href="{{site.baseurl}}/">{% t nav.home %}</a></li>
         <li><a href="{% tl manifest %}">{% t nav.manifest %}</a></li>
         <li><a href="{% tl projects %}">{% t nav.projects %}</a></li>
-        <li><a href="https://www.instagram.com/minimo.io/">{% t nav.studio %}<span style="color:red;">.</span></a></li>
+        <li><a href="{{ site.instagram_username }}">{% t nav.studio %}<span style="color:red;">.</span></a></li>
         <li style="display:none;"><a href="{% tl team %}">{% t nav.team %}</a></li>
         <!-- <li><a href="{% tl journal %}">{% t nav.journal %}</a></li> -->
-        <li><a Xclass="contact-trigger" href="https://wa.me/59896666902" target="_blank" rel="nofollow">{% t nav.contact %}</a></li>
+        <li><a Xclass="contact-trigger" href="mailto:{{ site.email }}" rel="nofollow">{% t nav.contact %}</a></li>
       </ul>
     </nav>
 

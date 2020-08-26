@@ -14,7 +14,7 @@
       </div>
       <br>
       <div class="alert alert-warning text-center" role="alert"> We are looking for a Content Manager. Interested?
-       <a href="{{site.whatsapp}}" rel="nofollow" target="_blank">Get in touch</a> in order to coordinate where to have a delicious <i class="fas fa-mug-hot"></i> together. </div>  
+       <a href="mailto:{{ site.email }}" rel="nofollow">Get in touch</a> in order to coordinate where to have a delicious <i class="fas fa-mug-hot"></i> together. </div>  
       <br>
       <div>
         <p class="intro Xlead">
