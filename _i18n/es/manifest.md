@@ -8,7 +8,7 @@
             <a class="nav-link" href="#ethos">Manifiesto</a>
             <a class="nav-link active" href="#principios">Principios</a>
             <a class="nav-link" href="#influencias">Influencias</a>
-            <a class="nav-link" href="#libros-minimos">Libros mínimos</a>
+            <a class="nav-link" href="#libros-minimos">Libros</a>
           </nav>
         </center>
       </div>
@@ -151,15 +151,12 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
         <div id="em-verdad" class="principle">
             <h3>3. Verdad</h3>
             <p>
-              Desarrollamos productos basados en necesidades reales.  
-              Basados lo que la gente en su libre elección tiene ganas de hacer y hace. A esos mercados mínimos, que son de nuestro interés, intentamos contribuir con algo; hacerlos mas transparentes, mas accesibles, mejores.
+              Desarrollamos productos basados en necesidades reales, creados para influír positivamente en las personas.  
+              Basados lo que la gente en su libre elección tiene ganas de hacer y hace. A esos mercados mínimos, que nos interesan, intentamos contribuir con algo; hacerlos mas transparentes, mas accesibles, mejores.
               No basados en un ideal personal, sobre lo que la gente debería hacer. Y no hace. O sobre lo que a la gente debería interesarle. Y no le interesa.
             </p>
-            <p>
-              Creamos productos y servicios para influír positivamente en las personas, para fomentar su bienestar, basados en lo que ellas eligen hacer con sus vidas, no en cómo nosotros consideramos que deberían vivirlas.
-            </p>
            <p>
-              Por otra parte, la verdad, a la que elegimos acceder mediante datos no opiniones, es la única forma de hacer que nuestros fracasos tengan utilidad. A través de ella podemos corregir el rumbo de los proyectos, analizar y reparar errores en el camino hacia un objetivo.
+              Por otra parte, elegimos aproximarnos a la realidad a través de datos, es la única forma de hacer que nuestros fracasos tengan utilidad. A través de ella podemos corregir el rumbo de los proyectos, analizar y reparar errores en el camino hacia un objetivo.
             </p>
         </div>
 
@@ -179,7 +176,7 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
         <div id="em-transparencia" class="principle">
             <h3>5. Transparencia</h3>
             <p>
-              Mínimo crea productos que con objetivos concretos de ganancias y audiencias, los cuales hacemos públicos. Una vez cumplidos, esto nos permite enfocarnos en otras facetas del proyecto (en "mejor" y no en "mas"), en vez de optimizar exclusivamente para una de ellas, como las ganancias.
+              Mínimo crea productos con objetivos concretos de ganancias y audiencias, los cuales hacemos públicos, en el documento o roadmap de cada proyecto. Una vez cumplidos, esto nos permite enfocarnos en otras facetas del proyecto (en "mejor" y no en "mas"), en vez de optimizar exclusivamente para una de ellas.
             </p>
             <p>
               Para ser creíbles en este sentido, promovemos la transparencia de nuestros revenues; y la transparencia del funcionamiento de nuestros productos, así como sus objetivos.            
@@ -193,7 +190,7 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
                 El esfuerzo de crear productos con objetivos de largo plazo, basados en necesiades reales, y llevados adelante con transparencia y una dosis de experimentación, es importante porque nos permite mantenernos enfocados en hacer muy bien un conjunto limitado de cosas, en vez de dispersar esfuerzos y recursos en hacer mucho, de forma mediocre.
             </p>
             <p>
-                Para estimular esto los proyectos de Mínimo comienzan con una visión, una aspiración, que se desarrolla a través de la metodología <a href="https://es.wikipedia.org/wiki/Lean_startup" target="_blank">Lean</a>.
+                Para estimular esto los proyectos de Mínimo comienzan con una visión, una aspiración, que se desarrolla a través de la metodología de trabajo.
             </p>            
         </div>
 
@@ -206,11 +203,11 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
       <div class="principle Xlead">
         <h3 id="influencias">Influencias</h3>
         <p>
+          <a href="https://www.youtube.com/watch?v=rdUeq09cGJ0" target="_blank">Seth Godin</a>, Robert Cialdini. Eric Ries.   
+          <br>             
           Muji (無印良品), Paul Rand, Josef Müller-Brockmann, Naoto Fukasawa, Dieter Rams.
-          <br>  
-          Seth Godin, Robert Cialdini.  Peter Thiel. Eric Ries.      
           <br>
-          Man Ray. Julian Schulze. Kourtney Roy.
+          Man Ray. Julian Schulze.
         </p>
       </div>
 
@@ -218,11 +215,9 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
       <br><hr /><br><br>
 
       <div class="principle">
-        <h3 id="libros-minimos">Libros mínimos</h3>
+        <h3 id="libros-minimos">Libros</h3>
         <p>
           <a rel="sponsored" href="https://alt.minimo.io/visita/the-lean-startup-eric-ries/" target="_blank">The Lean Startup - Eric Ries</a>
-          <br>
-          <a rel="sponsored" href="https://alt.minimo.io/visita/zero-a-uno-peter-thiel/" target="_blank">Zero a uno: Cómo inventar el futuro - Peter Thiel</a>
           <br>
           <a rel="sponsored" href="https://alt.minimo.io/visita/el-elemento-ken-robinson/" target="_blank">El elemento - Ken Robinson</a>
           <br>

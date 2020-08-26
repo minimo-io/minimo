@@ -9,7 +9,7 @@
             <a class="nav-link" href="#ethos">Manifesto</a>
             <a class="nav-link active" href="#principios">Princípios</a>
             <a class="nav-link" href="#influencias">Influências</a>
-            <a class="nav-link" href="#libros-minimos">Livros mínimos</a>
+            <a class="nav-link" href="#libros-minimos">Livros</a>
           </nav>
         </center>
       </div>
@@ -154,13 +154,10 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
         <div id="em-verdad" class="principle">
             <h3>3. Verdade</h3>
             <p>
-              Nós desenvolvemos produtos com base em necessidades reais.
+              Nós desenvolvemos produtos com base em necessidades reais, para influenciar positivamente as pessoas, para promover seu bem-estar.
               Com base no que as pessoas de sua livre escolha querem fazer e fazem.
               Para esses mercados mínimos, que são do nosso interesse, tentamos contribuir com algo, para torná-los mais saudáveis, mais transparentes e mais acessíveis. Não baseados em um ideal pessoal, sobre o que as pessoas devem fazer. E não fazem. Ou sobre o que as pessoas deveriam estar interessadas. E ele não estão.            
             </p>
-            <p>
-              Criamos produtos e serviços para influenciar positivamente as pessoas, para promover seu bem-estar, com base no que elas optam por fazer com suas vidas, e não na forma como nós consideramos que elas deveriam vivê-la.
-           </p>
            <p>
               Por outro lado, a verdade, que escolhemos acessar por meio de dados, não opiniões, é a única maneira de tornar nossas falhas em uma coisa útei. Através dela, podemos corrigir o curso dos projetos, analisar e reparar erros no caminho para uma meta.
             </p>
@@ -186,7 +183,7 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
         <div id="em-transparencia" class="principle">
             <h3>5. Transparência</h3>
             <p>
-              Em Mínimo criamos produtos com objetivos específicos de lucros e audiências, que tornamos públicos. Uma vez atingidos esses objetivos, isso nos permite focar em outras facetas do desenvolvimento ("melhor" e não "mais"), em vez de otimizar exclusivamente para uma das facetas, como o lucro.
+              Em Mínimo criamos produtos com objetivos específicos de lucros e audiências, que tornamos públicos no roadmap de cada projeto. Uma vez atingidos esses objetivos, isso nos permite focar em outras facetas do desenvolvimento ("melhor" e não "mais"), em vez de otimizar exclusivamente para uma das facetas.
             </p>
             <p>
               Para ter credibilidade a esse respeito, promovemos a transparência de nossos ganhos; e a transparência da operação de nossos produtos, bem como seus objetivos.
@@ -213,11 +210,11 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
       <div class="principle Xlead">
         <h3 id="influencias">Influências</h3>
         <p>
+          <a href="https://www.youtube.com/watch?v=rdUeq09cGJ0" target="_blank">Seth Godin</a>, Robert Cialdini. Eric Ries.   
+          <br>             
           Muji (無印良品), Paul Rand, Josef Müller-Brockmann, Naoto Fukasawa, Dieter Rams.
-          <br>  
-          Seth Godin, Robert Cialdini.  Peter Thiel. Eric Ries.      
           <br>
-          Man Ray. Julian Schulze. Kourtney Roy.
+          Man Ray. Julian Schulze.
         </p>
       </div>
 
@@ -225,11 +222,9 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM `Mb    MM YM.    , L.   I8
       <br><hr /><br><br>
 
       <div class="principle Xlead">
-        <h3 id="libros-minimos">Livros mínimos</h3>
+        <h3 id="libros-minimos">Livros</h3>
         <p>
           <a rel="sponsored" href="https://alt.minimo.io/visita/the-lean-startup-eric-ries-en/" target="_blank">The Lean Startup - Eric Ries</a>
-          <br>
-          <a rel="sponsored" href="https://alt.minimo.io/visita/zero-to-one-peter-thiel-en/" target="_blank">Zero to uno: How to invent the future - Peter Thiel</a>
           <br>
           <a rel="sponsored" href="https://alt.minimo.io/visita/the-element-ken-robinson/" target="_blank">The element - Ken Robinson</a>
           <br>

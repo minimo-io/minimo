@@ -254,7 +254,8 @@ h2.bigtitle small{
 .hero-home{ position:fixed; bottom:10px;left:11%; }
 
 .hero h2.bigtitle{
-	margin-top: 45vh;
+	/* margin-top: 45vh; */
+	margin-top: 40vh;
 }
 
 @-webkit-keyframes fade-img {
@@ -1182,6 +1183,22 @@ div.projects-box article:last-child, div.libs-box article:last-child{
 .work-history{
   text-align:left!important;
 }
+
+
+.highlight {
+  background: url(https://www.andyhooke.co.uk/wp-content/uploads/2018/02/yellow-brushstroke.png);
+  background: url("../imgs/brush-stroke-banner-6.png");
+  background-repeat: no-repeat;
+  background-size: 100% 95%;
+  padding: 8px 0;
+  background-color:transparent !important;
+  box-shadow:unset;
+}
+
+
+
+
+
 
 /*  Bootstrap like breakpoints -------------- */
 @media (max-width: 576px) {

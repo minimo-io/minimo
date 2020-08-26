@@ -8,7 +8,7 @@
             <a class="nav-link" href="#ethos">Manifest</a>
             <a class="nav-link active" href="#principios">Values</a>
             <a class="nav-link" href="#influencias">Influences</a>
-            <a class="nav-link" href="#libros-minimos">Minimal books</a>
+            <a class="nav-link" href="#libros-minimos">Books</a>
           </nav>
         </center>
       </div>
@@ -157,12 +157,9 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM  L.   I8
         <div id="em-verdad" class="principle">
             <h3>3. Truth</h3>
             <p>
-              We develop products based on real needs.
+              We develop products based on people's real needs, to positively influence them, to promote their well-being.
               Based on people's free choice, on what they want to do, and do. To those minimum markets of our interest we try to contribute something, to make them healthier, more transparent, more accessible.
               Not based on our personal ideals about what people should do. And they don't. Or about what we think that people should be interested in. And they are not.
-            </p>
-            <p>
-              We create products and services to positively influence people, to promote their well-being, but based on what they have chosen to do with their lives, not on what we think they should.
             </p>
             <p>
               On the other hand, truth, which we choose to access through data not opinions, is the only way to make our failures useful. Through it we can correct the course of our projects, analyze and repair errors on the way to a goal.
@@ -187,7 +184,7 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM  L.   I8
         <div id="em-transparencia" class="principle">
             <h3>5. Transparency</h3>
             <p>
-              Mínimo creates products that have specific goals for profits and audiences, which we make public. Once reached, this allows us to focus on other aspects of the project (on "better" rather than "more"), instead of exclusively optimizing for one aspect, like profits.
+              Mínimo creates products that have specific goals for profits and audiences, which we make public in the roadmap document of each project. Once reached, this allows us to focus on other aspects of the project (on "better" rather than "more"), instead of exclusively optimizing for one aspect.
             </p>
             <p>
               To be credible in this regard, we promote the transparency of our revenues; and transparency of the operation of our products, as well as their goals.
@@ -214,11 +211,11 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM  L.   I8
       <div class="principle Xlead">
         <h3 id="influencias">Influences</h3>
         <p>
+          <a href="https://www.youtube.com/watch?v=rdUeq09cGJ0" target="_blank">Seth Godin</a>, Robert Cialdini. Eric Ries.   
+          <br>             
           Muji (無印良品), Paul Rand, Josef Müller-Brockmann, Naoto Fukasawa, Dieter Rams.
-          <br>  
-          Seth Godin, Robert Cialdini.  Peter Thiel. Eric Ries.      
           <br>
-          Man Ray. Julian Schulze. Kourtney Roy.
+          Man Ray. Julian Schulze.
         </p>
       </div>
 
@@ -226,11 +223,9 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM  L.   I8
       <br><hr /><br><br>
 
       <div class="principle">
-        <h3 id="libros-minimos">Minimal books</h3>
+        <h3 id="libros-minimos">Books</h3>
         <p>
           <a rel="sponsored" href="https://alt.minimo.io/visita/the-lean-startup-eric-ries-en/" target="_blank">The Lean Startup - Eric Ries</a>
-          <br>
-          <a rel="sponsored" href="https://alt.minimo.io/visita/zero-to-one-peter-thiel-en/" target="_blank">Zero to uno: How to invent the future - Peter Thiel</a>
           <br>
           <a rel="sponsored" href="https://alt.minimo.io/visita/the-element-ken-robinson/" target="_blank">The element - Ken Robinson</a>
           <br>
