@@ -40,3 +40,4 @@ Um bando de bêbados com habilidades de programação <i class="fas fa-grin-beam
 Na verdade, Hopmasters foi desenvolvido pela <a href="https://minimo.io"><i class = "fas fa-circle mr-1" style="color: black;"></i>Mínimo</a>, um laboratório de ideias digitais com sede no Uruguai, e com a iniciativa de contribuir para o fortalecimento da comunidade da cerveja artesanal.
 
 Visite-nos: [hopmasters.net](https://hopmasters.net/)
+Siga-nos: <i class="fab fa-instagram-square mr-1"></i>[@hopmasters](https://www.instagram.com/hopmasters/)

@@ -40,3 +40,4 @@ A bunch of drunks with programming skills <i class="fas fa-grin-beam-sweat"></i>
 Actually, Hopmasters was developed by <a href="https://minimo.io"><i class="fas fa-circle mr-1" style="color:black;"></i>Mínimo</a>, a digital ideas lab based in Uruguay, with the initiative of contributing to the strengthening of the craft beer community.
 
 Visit: [hopmasters.net](https://hopmasters.net/)
+Follow: <i class="fab fa-instagram-square mr-1"></i>[@hopmasters](https://www.instagram.com/hopmasters/)
