@@ -38,3 +38,5 @@ A esa comunidad es a la que Hopmasters quiere servir con herramientas e informac
 Una banda de borrachos con habilidades de programación <i class="fas fa-grin-beam-sweat"></i>
 
 En realidad, Hopmasters fue desarrollado por <a href="https://minimo.io"><i class="fas fa-circle mr-1" style="color:black;"></i>Mínimo</a>, un laboratorio de ideas digitales basado en Uruguay, con la iniciativa de aportar al fortalecimiento de la comunidad cervecera artesanal.
+
+Visitanos: [hopmasters.net](https://hopmasters.net/)
