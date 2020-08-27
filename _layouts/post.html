@@ -14,7 +14,7 @@ layout: default
     <h1 class="post-title basic-mono" itemprop="name headline">{{ page.title }}</h1>
   </header>
   <div class="post-content" itemprop="articleBody">
-    {% if page.image %}
+    {% if page.image != "" %}
       <center>
         <figure class="figure">
           <img src="{{page.image}}" class="figure-img img-fluid rounded" alt="post-image">
