@@ -7,7 +7,7 @@
 {% endif %}
 <script>
   $(function(){
-    var rndNbr = Math.floor(Math.random() * 6) + 1;
+    var rndNbr = Math.ceil(Math.random() * 10);
     var newBgValue = 'url("/assets/imgs/watercolor-'+rndNbr+'.jpg")';
     $("body").css('background-image', newBgValue);
   });
