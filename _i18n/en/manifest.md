@@ -211,7 +211,7 @@ MM    YM.    , MM.   ,M9 YM.    ,  MM  L.   I8
       <div class="principle Xlead">
         <h3 id="influencias">Influences</h3>
         <p>
-          <a href="https://www.youtube.com/watch?v=rdUeq09cGJ0" target="_blank">Seth Godin</a>, Robert Cialdini. Eric Ries.   
+          <a href="https://www.youtube.com/watch?v=rdUeq09cGJ0" target="_blank">Seth Godin</a>, Kevin Kelly, Robert Cialdini. Eric Ries.   
           <br>             
           Muji (無印良品), Paul Rand, Josef Müller-Brockmann, Naoto Fukasawa, Dieter Rams.
           <br>
