@@ -14,7 +14,7 @@ author: nicolas_ea
 
 <center>The open publisher. Read, publish & discuss based on Open Standards.</center>
 <br>
-## Index
+## Índice
 * <a href="#the-idea">The idea</a>
 * <a href="#technologies">Technologies</a>
 * <a href="#libraries">Libraries</a>
