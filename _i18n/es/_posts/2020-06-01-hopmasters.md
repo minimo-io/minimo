@@ -11,7 +11,8 @@ author: nicolas_ea
 project_number: 2
 id_slug: hopmasters
 ---
-
+<div class="alert alert-warning text-center" role="alert"> We are looking for a Content Manager. Interested?
+ <a href="mailto:{{ site.email }}" rel="nofollow">Get in touch</a> in order to coordinate where to have a delicious <i class="fas fa-mug-hot"></i> together. </div>
 ## Índice
 
 * <a href="#qué-hacemos">¿QUÉ?</a>

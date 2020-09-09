@@ -11,7 +11,7 @@ categories: ['projects']
 id_slug: bibliopath
 author: nicolas_ea
 ---
-
+<div class="alert alert-warning text-center" role="alert">Estamos procurando um gestor de conteúdo. Interessado? <a href="mailto:{{ site.email }}" rel="nofollow" target="_blank">Entre em contato</a> para coordenar onde tomar um delicioso <i class="fas fa-mug-hot"></i> juntos. </div>
 <center>A editorial aberta. Leia, publique e discuta com base em padrões abertos.</center>
 <br>
 ## Index
