@@ -14,7 +14,7 @@
         </center>
       </div>
       <br>
-      <div class="alert alert-warning text-center" role="alert">Estamos procurando um gestor de conteúdo. Interessado? <a href="mailto:{{ site.email }}" rel="nofollow" target="_blank">Entre em contato</a> para coordenar onde tomar um delicioso <i class="fas fa-mug-hot"></i> juntos. </div>
+      <div class="alert alert-warning text-center" role="alert">Estamos procurando um gestor de conteúdo. Interessado? <a href="mailto:{{ site.email }}" rel="nofollow" target="_blank"><strong><span class="text-nowrap"><i class="fas fa-hand-point-right mr-1"></i>Vamos</span> começar a conversa!</strong></a></div>
       <br>
       <div>
         <p class="intro Xlead">

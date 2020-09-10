@@ -12,8 +12,8 @@ id_slug: bibliopath
 author: nicolas_ea
 ---
 <div class="alert alert-warning text-center" role="alert"> We are looking for a Content Manager. Interested?
- <a href="mailto:{{ site.email }}" rel="nofollow">Get in touch</a> in order to coordinate where to have a delicious <i class="fas fa-mug-hot"></i> together. </div>
- 
+ <a href="mailto:{{ site.email }}" rel="nofollow"><strong><span class="text-nowrap"><i class="fas fa-hand-point-right mr-1"></i>Let's</span> start the conversation!</strong></a></div>
+
 <center>The open publisher. Read, publish & discuss based on Open Standards.</center>
 <br>
 ## Índice

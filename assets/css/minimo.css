@@ -1226,6 +1226,24 @@ div.projects-box article:last-child, div.libs-box article:last-child{
     font-size:14px !important;
     line-height:22px;
   }
+  .post-content, #sec-ethos, .principle p, .share p{
+    font-size:.8rem;
+  }
+  .principle p{
+    letter-spacing: 0;
+  }
+  .principle h3{
+    font-size:1.1rem !important;
+  }
+  .post-content h3, .post-content h2, .post-content h1{
+    font-size:1.3rem;
+  }
+  .share p{
+    margin:0 .1rem;
+  }
+  h1{
+    font-size:38px;
+  }
 }
 @media (max-width: 768px) {
 

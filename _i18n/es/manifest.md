@@ -13,8 +13,7 @@
         </center>
       </div>
       <br>
-      <div class="alert alert-warning text-center" role="alert">Estamos buscando un encargado de contenidos. ¿Te interesa? <a href="mailto:{{ site.email }}" rel="nofollow" target="_blank">Ponete en contacto</a> para coordinar donde tomar un rico <i class="fas fa-mug-hot"></i> juntos.
-      </div>    
+      <div class="alert alert-warning text-center" role="alert">Estamos buscando un encargado de contenidos. ¿Te interesa? <a href="mailto:{{ site.email }}" rel="nofollow" target="_blank"><strong><span class="text-nowrap"><i class="fas fa-hand-point-right mr-1"></i>Iniciemos</span> la charla</strong></a>.</div>
       <br>
       <div>
         <p class="intro Xlead">
