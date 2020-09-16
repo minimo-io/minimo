@@ -32,7 +32,7 @@ Bibliopath has 4 types of users:
 
 1. <i class="bg-black text-uppercase">Anonymous</i> Can read any book of the library & share fragments.
 2. <i class="bg-black text-uppercase">Users</i> Can download books for offline reading. Listen to available audiobooks. Follow authors. Highlight & comment fragments & participate in discussions + What anonymous user can do.
-3. <i class="bg-black text-uppercase">Bibliopaths</i> This are donors to the project. Bibliopaths can access to featured books & authors -published by Bibliopath- and get free paper books + What normal user can do.
+3. <i class="bg-black text-uppercase">Bibliopaths</i> These are donors to the project. Bibliopaths can access to featured books & authors -published by Bibliopath- and get free paper books + What normal user can do.
 4. <i class="bg-black text-uppercase">Authors</i> Get to distribute their work through the platform <u>for free!</u> Get donors & followers and the ability to interact with their base of readers.
 
 ## Technologies
