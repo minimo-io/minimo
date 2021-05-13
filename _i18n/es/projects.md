@@ -7,35 +7,73 @@
           {% if post.categories contains "code" %}
 
           {% else %}
-            <article class="post-item mt-3">
-              <div class="article-title">
 
-                {% if post.link_post != nil  %}
-                  {% assign proj_url = "#soon" %}
-                  {% assign text_color_class = "style='color:#aaa;'" %}
-                {% else %}
-                  {% assign proj_url = post.url | prepend: site.baseurl | prepend: site.url %}
-                  {% assign text_color_class = "" %}
-                {% endif %}
+            {% if post.keywords contains "experimental" %}
 
-                <a class="post-link text-uppercase project-box project-{{ post.id_slug }}" href="{{ proj_url }}" hreflang="{% if post.language %}{{post.language}}{% else %}es{% endif %}" {{text_color_class}}>
-                  {{ post.title }}
-                </a>
-                <span>{{ post.description }}</span>
+            {% else %}
+              <article class="post-item mt-3">
+                <div class="article-title">
 
-                <div class="container p-0 m-0">
-                  {% for item in post.keywords %}
-                    <span class="badge badge-light">{{ item }}</span>
-                  {% endfor %}
+                  {% if post.link_post != nil  %}
+                    {% assign proj_url = "#soon" %}
+                    {% assign text_color_class = "style='color:#aaa;'" %}
+                  {% else %}
+                    {% assign proj_url = post.url | prepend: site.baseurl | prepend: site.url %}
+                    {% assign text_color_class = "" %}
+                  {% endif %}
+
+                  <a class="post-link text-uppercase project-box project-{{ post.id_slug }}" href="{{ proj_url }}" hreflang="{% if post.language %}{{post.language}}{% else %}es{% endif %}" {{text_color_class}}>
+                    {{ post.title }}
+                  </a>
+                  <span>{{ post.description }}</span>
+
+                  <div class="container p-0 m-0">
+                    {% for item in post.keywords %}
+                      <span class="badge badge-light">{{ item }}</span>
+                    {% endfor %}
+                  </div>
                 </div>
-              </div>
 
-            </article>
+              </article>
+            {% endif %}
           {% endif %}
 
         {% endif %}
     {% endfor %}
   </div>
+
+  <br><hr><br>
+
+  {% for post in site.posts %}
+      {% if post.keywords contains "experimental" %}
+
+      <article class="post-item mt-3">
+        <div class="article-title">
+
+          {% if post.link_post != nil  %}
+            {% assign proj_url = "#soon" %}
+            {% assign text_color_class = "style='color:#aaa;'" %}
+          {% else %}
+            {% assign proj_url = post.url | prepend: site.baseurl | prepend: site.url %}
+            {% assign text_color_class = "" %}
+          {% endif %}
+
+          <a class="post-link text-uppercase project-box project-{{ post.id_slug }}" href="{{ proj_url }}" hreflang="{% if post.language %}{{post.language}}{% else %}es{% endif %}" {{text_color_class}}>
+            {{ post.title }}
+          </a>
+          <span>{{ post.description }}</span>
+
+          <div class="container p-0 m-0">
+            {% for item in post.keywords %}
+              <span class="badge badge-light">{{ item }}</span>
+            {% endfor %}
+          </div>
+        </div>
+
+      </article>
+
+      {% endif %}
+  {% endfor %}
 
   <br><hr><br>
 
