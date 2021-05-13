@@ -26,7 +26,7 @@
         });
       {% else %}
         $("#suspense").codex({final_text: "{% t home.digitals %}", speed: 50, duration: 2000});
-        $(".codexStats").codex({speed: 30, duration: 1000});
+        $(".codexStats").codex({effect: "charbychar", speed:50, reveal:100, keep_whitespaces: true});
         $('[data-toggle="tooltip"]').tooltip();
       {% endif %}
     });
