@@ -1212,7 +1212,22 @@ div.projects-box article:last-child, div.libs-box article:last-child{
   color:rgb(0, 0, 0) !important;
 }
 
-
+.minimo-stats{
+  position:fixed;
+  bottom:0;
+  right:.5rem;
+  /* border:1px solid red; */
+  width:auto;
+  height:auto;
+  max-height: 200px;
+  font-family: 'Nunito';
+  opacity:.8;
+  font-size:.8rem;
+}
+.minimo-stats:hover{ opacity:1; }
+.stats-label{ font-size:.8rem; }
+.stats-nbr{ }
+a.stats-nbr span{ font-size:.5rem; }
 
 /*
 .bg-black{ background:transparent; color:black; } */
@@ -1244,6 +1259,8 @@ div.projects-box article:last-child, div.libs-box article:last-child{
   h1{
     font-size:38px;
   }
+  .minimo-stats .stats-label{font-size:.65rem;}
+  .minimo-stats{ font-size:.65rem; }
 }
 @media (max-width: 768px) {
 

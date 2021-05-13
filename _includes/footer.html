@@ -26,6 +26,7 @@
         });
       {% else %}
         $("#suspense").codex({final_text: "{% t home.digitals %}", speed: 50, duration: 2000});
+        $('[data-toggle="tooltip"]').tooltip();
       {% endif %}
     });
   </script>

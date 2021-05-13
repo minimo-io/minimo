@@ -4,7 +4,9 @@ home:
   ideas: ideias
   digitals: digitais
   tellmemore: Me conte mais
-
+  clients: clientes
+  stats: Estatisticas
+  
 nav:
   home: Começo
   manifest: Manifesto
