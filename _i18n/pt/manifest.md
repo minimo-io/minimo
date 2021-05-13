@@ -2,7 +2,7 @@
 <section id="sec-ethos">
   <div id="ethos" class="container">
 
-      <h1 class="over-title"><i class="fas fa-paper-plane pr-3 d-none d-lg-inline-block"></i>Manifesto</h1>
+      <h1 class="over-title"><i class="fas fa-scroll pr-3 d-none d-lg-inline-block"></i>Manifesto</h1>
       <div class="nav-scroller">
         <center>
           <nav class="nav nav-underline" style="display:inline-flex;">

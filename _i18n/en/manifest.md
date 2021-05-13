@@ -1,7 +1,7 @@
 <section id="sec-ethos">
   <div id="ethos" class="container">
 
-      <h1 class="over-title"><i class="fas fa-paper-plane pr-3 d-none d-lg-inline-block"></i>Manifest</h1>
+      <h1 class="over-title"><i class="fas fa-scroll pr-3 d-none d-lg-inline-block"></i>Manifest</h1>
       <div class="nav-scroller">
         <center>
           <nav class="nav nav-underline" style="display:inline-flex;">
@@ -14,7 +14,7 @@
       </div>
       <br>
       <div class="alert alert-warning text-center" role="alert"> We are looking for a Content Manager. Interested?
-       <a href="mailto:{{ site.email }}" rel="nofollow"><strong><span class="text-nowrap"><i class="fas fa-hand-point-right mr-1"></i>Let's</span> start the conversation!</strong></a></div> 
+       <a href="mailto:{{ site.email }}" rel="nofollow"><strong><span class="text-nowrap"><i class="fas fa-hand-point-right mr-1"></i>Let's</span> start the conversation!</strong></a></div>
       <br>
       <div>
         <p class="intro Xlead">
