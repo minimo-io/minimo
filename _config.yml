@@ -10,7 +10,7 @@ baseurl       : "" # apply repo name like "/myproject" if used under gh-pages br
 cover         : "https://minimo.io/assets/minimo-logo-500.png" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-134514520-1
-twitter_username  : "minimo_labs"
+twitter_username  : "https://twitter.com/minimo_io"
 instagram_username : "https://www.instagram.com/minimo.io/"
 email : "mail@minimo.io"
 whatsapp: ""
